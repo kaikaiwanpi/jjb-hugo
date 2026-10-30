@@ -9,9 +9,7 @@ tags: ["穿越重生", "系统类", "架空历史", "同人小说", "天下白�
 views: 2298
 download: "http://down.jingjiaoba.com/file/20532056-469147920"
 ---
-<img class="alignnone size-full wp-image-25254" src="/media/uploads/2020/11/hong-lou-shu-zhang-zi-jiao-dui-ban-quan-ben-zuo-zhe-tian.jpg" width="180" height="240" alt="《红楼庶长子》（校对版全本）作者：天下白兔 txt全集下载" title="《红楼庶长子》（校对版全本）作者：天下白兔 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-469147920" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：4.87 MB
 
@@ -21,8 +19,4 @@ download: "http://down.jingjiaoba.com/file/20532056-469147920"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-469147920" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

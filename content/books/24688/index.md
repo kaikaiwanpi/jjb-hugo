@@ -10,9 +10,7 @@ views: 2299
 download: "http://down.jingjiaoba.com/file/20532056-450418727"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-24699" src="/media/uploads/2020/06/fa811592677758.jpg" width="180" height="240" alt="《策行三国(三国小霸王)》（校对版全本）作者：庄不周" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450418727" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：13.1 MB
 
@@ -34,8 +32,4 @@ image: cover.jpg
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450418727" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

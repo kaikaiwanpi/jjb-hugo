@@ -9,9 +9,7 @@ tags: ["无限流", "同人小说", "黑暗幻想", "离火加农炮"]
 views: 2676
 download: "http://down.jingjiaoba.com/file/20532056-461573793"
 ---
-<img class="alignnone size-full wp-image-25100" src="/media/uploads/2020/09/zhu-tian-jiang-lin-da-tao-sha-jiao-dui-ban-quan-ben-zuo-zhe.jpg" width="180" height="240" alt="《诸天降临大逃杀》（校对版全本）作者：离火加农炮 txt全集下载" title="《诸天降临大逃杀》（校对版全本）作者：离火加农炮 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461573793" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：6.01 MB
 
@@ -35,8 +33,4 @@ download: "http://down.jingjiaoba.com/file/20532056-461573793"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461573793" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

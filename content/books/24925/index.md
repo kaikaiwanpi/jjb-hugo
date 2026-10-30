@@ -9,9 +9,7 @@ tags: ["两宋元明", "夺鹿侯"]
 views: 3590
 download: "http://down.jingjiaoba.com/file/20532056-456125888"
 ---
-<img class="alignnone size-full wp-image-24936" src="/media/uploads/2020/08/fa811596199984-1.jpg" width="180" height="240" alt="《开海》（校对版全本）作者：夺鹿侯 txt全集下载" title="《开海》（校对版全本）作者：夺鹿侯 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-456125888" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：6.76 MB
 
@@ -29,8 +27,4 @@ download: "http://down.jingjiaoba.com/file/20532056-456125888"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-456125888" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

@@ -9,9 +9,7 @@ tags: ["两宋元明", "穿越重生", "圣诞稻草人"]
 views: 3170
 download: "http://down.jingjiaoba.com/file/20532056-469147928"
 ---
-<img class="alignnone size-full wp-image-25256" src="/media/uploads/2020/11/bei-song-jiao-dui-ban-quan-ben-zuo-zhe-sheng-dan-dao-cao.jpg" width="180" height="240" alt="《北颂》（校对版全本）作者：圣诞稻草人 txt全集下载" title="《北颂》（校对版全本）作者：圣诞稻草人 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-469147928" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：9.95 MB
 
@@ -25,8 +23,4 @@ download: "http://down.jingjiaoba.com/file/20532056-469147928"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-469147928" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

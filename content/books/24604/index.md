@@ -9,9 +9,7 @@ tags: ["时空穿梭", "同人小说", "穿越地球"]
 views: 1935
 download: "http://down.jingjiaoba.com/file/20532056-447790653"
 ---
-<img class="alignnone size-full wp-image-24627" title="点击查看原图" src="/media/uploads/2020/06/fa811591289946-1.jpg" alt="《会穿越的流浪星球》（校对版全本）作者：穿越地球" width="180" height="240" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-447790653" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.14 MB
 
@@ -38,5 +36,3 @@ download: "http://down.jingjiaoba.com/file/20532056-447790653"
 <p class="yinyong">文本由河洛校对！</p>
 
 </blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-447790653" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

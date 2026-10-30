@@ -10,9 +10,7 @@ views: 2633
 download: "http://down.jingjiaoba.com/file/20532056-445144841"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-24562" src="/media/uploads/2020/05/fa811590259175.jpg" width="180" height="240" alt="《一剑斩破九重天》（校对版全本）作者：流浪的蛤蟆" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-445144841" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：4.14 MB
 
@@ -26,8 +24,4 @@ image: cover.jpg
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-445144841" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

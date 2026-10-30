@@ -9,9 +9,7 @@ tags: ["两宋元明", "穿越文", "穿越重生", "日日生"]
 views: 2700
 download: "http://down.jingjiaoba.com/file/20532056-451736269"
 ---
-<img class="alignnone size-full wp-image-24756" src="/media/uploads/2020/07/fa811593520195-1.jpg" width="180" height="240" alt="《大宋第一状元郎》（校对版全本）作者：日日生" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-451736269" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.66 MB
 
@@ -25,8 +23,4 @@ download: "http://down.jingjiaoba.com/file/20532056-451736269"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-451736269" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

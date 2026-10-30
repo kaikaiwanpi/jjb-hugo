@@ -9,9 +9,7 @@ tags: ["两宋元明", "穿越重生", "龙渊"]
 views: 3821
 download: "http://down.jingjiaoba.com/file/20532056-466586716"
 ---
-<img class="alignnone size-full wp-image-25186" src="/media/uploads/2020/10/nan-song-di-yi-wo-di-jiao-dui-ban-quan-ben-fan-wai-zuo-zhe.jpg" width="200" height="266" alt="《南宋第一卧底》（校对版全本+番外）作者：龙渊 txt全集下载" title="《南宋第一卧底》（校对版全本+番外）作者：龙渊 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586716" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：15.3 MB
 
@@ -25,8 +23,4 @@ download: "http://down.jingjiaoba.com/file/20532056-466586716"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586716" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

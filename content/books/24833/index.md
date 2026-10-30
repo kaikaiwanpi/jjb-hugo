@@ -9,9 +9,7 @@ tags: ["穿越重生", "特工小说", "系统类", "纳兰凌云"]
 views: 1854
 download: "http://down.jingjiaoba.com/file/20532056-454479841"
 ---
-<img class="alignnone size-full wp-image-24842" src="/media/uploads/2020/07/fa811594989646-1.jpg" width="180" height="240" alt="《从我是特种兵开始打卡》（校对版全本）作者：纳兰凌云" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-454479841" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：6.76 MB
 
@@ -21,8 +19,4 @@ download: "http://down.jingjiaoba.com/file/20532056-454479841"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-454479841" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

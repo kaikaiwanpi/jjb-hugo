@@ -9,9 +9,7 @@ tags: ["东方玄幻", "武侠幻想", "乘风御剑"]
 views: 2773
 download: "http://down.jingjiaoba.com/file/20532056-458256219"
 ---
-<img class="alignnone size-full wp-image-25000" src="/media/uploads/2020/08/fa811597922465-1.jpg" width="180" height="240" alt="《咫尺之间人尽敌国》（校对版全本）作者：乘风御剑 txt全集下载" title="《咫尺之间人尽敌国》（校对版全本）作者：乘风御剑 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-458256219" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：7.62 MB
 
@@ -31,8 +29,4 @@ download: "http://down.jingjiaoba.com/file/20532056-458256219"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-458256219" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

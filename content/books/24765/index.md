@@ -9,9 +9,7 @@ tags: ["西方奇幻", "黑暗幻想", "盍簪"]
 views: 2222
 download: "http://down.jingjiaoba.com/file/20532056-452715483"
 ---
-<img class="alignnone size-full wp-image-24794" src="/media/uploads/2020/07/fa811593950764-1.jpg" width="180" height="240" alt="《北地巫师》（校对版全本）作者：盍簪" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-452715483" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.39 MB
 
@@ -21,8 +19,4 @@ download: "http://down.jingjiaoba.com/file/20532056-452715483"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-452715483" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

@@ -10,11 +10,11 @@ views: 2651
 download: "http://down.jingjiaoba.com/file/20532056-471015549"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-25279" src="/media/uploads/2020/11/zi-dong-cao-gao-21.jpg" width="180" height="240" alt="自动草稿" title="自动草稿" /><span id="alttext-container"><img id="alttext-image" width="16" height="16" align="left" />
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-471015549" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
+
+<span id="alttext-container">
 
 </span>
-
-
 
 【TXT大小】：4.99 MB
 
@@ -24,8 +24,4 @@ image: cover.jpg
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-471015549" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

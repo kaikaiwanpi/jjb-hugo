@@ -9,9 +9,7 @@ tags: ["幻想修仙", "修真文明", "姬叉"]
 views: 11912
 download: "http://down.jingjiaoba.com/file/20532056-457280911"
 ---
-<img class="alignnone size-full wp-image-24986" src="/media/uploads/2020/08/fa811597406710-1.jpg" width="180" height="240" alt="《问道红尘(仙子请自重)》（校对版全本）作者：姬叉 txt全集下载" title="《问道红尘(仙子请自重)》（校对版全本）作者：姬叉 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-457280911" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：6.00 MB
 
@@ -25,8 +23,4 @@ download: "http://down.jingjiaoba.com/file/20532056-457280911"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-457280911" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

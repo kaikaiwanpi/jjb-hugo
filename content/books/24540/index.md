@@ -10,9 +10,7 @@ views: 2982
 download: "http://down.jingjiaoba.com/file/20532056-443875841"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-24549" src="/media/uploads/2020/05/fa811589453767.jpg" width="200" height="266" alt="《天刑纪》（校对版全本）作者：曳光" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-443875841" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：10.1 MB
 
@@ -27,5 +25,3 @@ image: cover.jpg
 <p class="yinyong">文本由河洛校对！</p>
 
 </blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-443875841" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

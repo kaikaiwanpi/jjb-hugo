@@ -9,9 +9,7 @@ tags: ["网游小说", "系统类", "游戏竞技", "街区转角"]
 views: 1205
 download: "http://down.jingjiaoba.com/file/20532056-461573797"
 ---
-<img class="alignnone size-full wp-image-25102" src="/media/uploads/2020/09/lck-de-zhong-guo-wai-yuan-jiao-dui-ban-quan-ben-zuo-zhe-jie.jpg" width="180" height="240" alt="《LCK的中国外援》（校对版全本）作者：街区转角 txt全集下载" title="《LCK的中国外援》（校对版全本）作者：街区转角 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461573797" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：4.69 MB
 
@@ -31,8 +29,4 @@ S8是整个LCK最灰暗的一年，也是SKT最失意的一年。
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461573797" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

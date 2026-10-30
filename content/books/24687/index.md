@@ -10,9 +10,7 @@ views: 2312
 download: "http://down.jingjiaoba.com/file/20532056-450418709"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-24700" src="/media/uploads/2020/06/fa811592736219.jpg" width="180" height="240" alt="《屠魔工业》（校对版全本）作者：酒杯中的胖子" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450418709" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：5.10 MB
 
@@ -28,8 +26,4 @@ PS：这是玄学工业化、太空化的文明大百科，打打杀杀只是极
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450418709" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

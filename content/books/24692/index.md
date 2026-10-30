@@ -10,9 +10,7 @@ views: 1675
 download: "http://down.jingjiaoba.com/file/20532056-450418713"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-24693" title="点击查看原图" src="/media/uploads/2020/06/fa811592408420.jpg" alt="《逆成长巨星》（校对版全本）作者：葛洛夫街兄弟" width="180" height="240" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450418713" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：7.85 MB
 
@@ -24,8 +22,4 @@ image: cover.jpg
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450418713" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

@@ -10,9 +10,7 @@ views: 2718
 download: "http://down.jingjiaoba.com/file/20532056-457280874"
 image: cover.jpg
 ---
-<img title="自动草稿" src="/media/uploads/2020/08/fa811596723665.jpg" alt="自动草稿" width="200" height="266" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-457280874" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.25 MB
 
@@ -32,8 +30,4 @@ image: cover.jpg
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-457280874" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

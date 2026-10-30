@@ -9,9 +9,7 @@ tags: ["穿越异界", "修真文明", "乡土小说", "来不及忧伤"]
 views: 2744
 download: "http://down.jingjiaoba.com/file/20532056-455689409"
 ---
-<img class="alignnone size-full wp-image-24913" src="/media/uploads/2020/08/fa811595855915.jpg" width="180" height="240" alt="《山野闲云》（校对版全本）作者：来不及忧伤 txt全集下载" title="《山野闲云》（校对版全本）作者：来不及忧伤 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455689409" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：4.34 MB
 
@@ -25,8 +23,4 @@ download: "http://down.jingjiaoba.com/file/20532056-455689409"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455689409" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

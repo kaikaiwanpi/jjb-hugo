@@ -10,9 +10,7 @@ views: 3635
 download: "http://down.jingjiaoba.com/file/20532056-445144849"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-24564" src="/media/uploads/2020/05/fa811590074363.jpg" width="200" height="250" alt="《剑墟》（校对版全本）作者：二月青城" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-445144849" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：11.4 MB
 
@@ -28,8 +26,4 @@ image: cover.jpg
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-445144849" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

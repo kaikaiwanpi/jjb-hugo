@@ -9,9 +9,7 @@ tags: ["幻想修仙", "石三", "神话修真"]
 views: 2568
 download: "http://down.jingjiaoba.com/file/20532056-452715489"
 ---
-<img class="alignnone size-full wp-image-24801" src="/media/uploads/2020/07/fa811594376988-1.jpg" width="180" height="240" alt="《苍穹之上》（校对版全本）作者：石三" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-452715489" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：10.6 MB
 
@@ -27,8 +25,4 @@ download: "http://down.jingjiaoba.com/file/20532056-452715489"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-452715489" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

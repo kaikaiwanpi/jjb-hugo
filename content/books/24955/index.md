@@ -9,9 +9,7 @@ tags: ["穿越重生", "同人小说", "武侠幻想", "六如和尚"]
 views: 10550
 download: "http://down.jingjiaoba.com/file/20532056-457280809"
 ---
-<img class="alignnone size-full wp-image-24976" src="/media/uploads/2020/08/fa811596989546-1.jpg" width="200" height="266" alt="《偷香高手》（校对版全本）作者：六如和尚 txt全集下载" title="《偷香高手》（校对版全本）作者：六如和尚 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-457280809" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：12.8 MB
 
@@ -23,8 +21,4 @@ download: "http://down.jingjiaoba.com/file/20532056-457280809"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-457280809" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

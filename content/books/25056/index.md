@@ -10,9 +10,7 @@ views: 1951
 download: "http://down.jingjiaoba.com/file/20532056-461018987"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-25065" title="自动草稿" src="/media/uploads/2020/09/zi-dong-cao-gao-13.jpg" alt="自动草稿" width="180" height="240" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461018987" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：6.28 MB
 
@@ -29,5 +27,3 @@ image: cover.jpg
 <p class="yinyong">文本由河洛校对！</p>
 
 </blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461018987" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

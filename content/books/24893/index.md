@@ -9,9 +9,7 @@ tags: ["现代都市", "寒门"]
 views: 1643
 download: "http://down.jingjiaoba.com/file/20532056-455689403"
 ---
-<img class="alignnone size-full wp-image-24914" src="/media/uploads/2020/08/fa811595950194.jpg" width="180" height="240" alt="《杨小落的便宜奶爸》（校对版全本）作者：寒门 txt全集下载" title="《杨小落的便宜奶爸》（校对版全本）作者：寒门 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455689403" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：5.36 MB
 
@@ -29,8 +27,4 @@ download: "http://down.jingjiaoba.com/file/20532056-455689403"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455689403" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

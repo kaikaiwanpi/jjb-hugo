@@ -9,9 +9,7 @@ tags: ["幻想修仙", "玄幻修真", "萧潜", "修真文明"]
 views: 3739
 download: "http://down.jingjiaoba.com/file/20532056-447790649"
 ---
-<img class="alignnone size-full wp-image-24631" title="点击查看原图" src="/media/uploads/2020/06/fa811591367520-1.jpg" alt="《超凡传》（校对版全本）作者：萧潜" width="180" height="240" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-447790649" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：5.02 MB
 
@@ -35,14 +33,8 @@ download: "http://down.jingjiaoba.com/file/20532056-447790649"
 
 我意欲超凡，踏步长生仙。
 
-
-
 &nbsp;
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-447790649" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

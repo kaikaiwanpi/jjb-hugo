@@ -9,9 +9,7 @@ tags: ["现代都市", "系统类", "青春校园", "太白猫"]
 views: 2612
 download: "http://down.jingjiaoba.com/file/20532056-462140538"
 ---
-<img class="alignnone size-full wp-image-25129" src="/media/uploads/2020/09/wo-zhen-bu-xiang-tang-ying-a-jiao-dui-ban-quan-ben-zuo-zhe.jpg" width="180" height="240" alt="《我真不想躺赢啊》（校对版全本）作者：太白猫 txt全集下载" title="《我真不想躺赢啊》（校对版全本）作者：太白猫 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-462140538" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：8.43 MB
 
@@ -35,8 +33,4 @@ download: "http://down.jingjiaoba.com/file/20532056-462140538"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-462140538" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

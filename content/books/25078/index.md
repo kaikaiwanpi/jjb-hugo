@@ -9,9 +9,7 @@ tags: ["穿越重生", "娱乐明星", "海底漫步者"]
 views: 2573
 download: "http://down.jingjiaoba.com/file/20532056-461573806"
 ---
-<img class="alignnone size-full wp-image-25109" src="/media/uploads/2020/09/jue-dui-yi-fan-jiao-dui-ban-quan-ben-zuo-zhe-hai-di-man-bu.jpg" width="180" height="240" alt="《绝对一番》（校对版全本）作者：海底漫步者 txt全集下载" title="《绝对一番》（校对版全本）作者：海底漫步者 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461573806" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.55 MB
 
@@ -27,8 +25,4 @@ download: "http://down.jingjiaoba.com/file/20532056-461573806"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461573806" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

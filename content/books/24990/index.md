@@ -9,9 +9,7 @@ tags: ["网游小说", "虚拟网游", "阡之陌一"]
 views: 2594
 download: "http://down.jingjiaoba.com/file/20532056-458256221"
 ---
-<img class="alignnone size-full wp-image-24998" src="/media/uploads/2020/08/fa811597766168-1.jpg" width="180" height="240" alt="《游戏之狩魔猎人》（校对版全本）作者：阡之陌一 txt全集下载" title="《游戏之狩魔猎人》（校对版全本）作者：阡之陌一 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-458256221" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：7.92 MB
 
@@ -35,14 +33,8 @@ download: "http://down.jingjiaoba.com/file/20532056-458256221"
 
 守夜人那边都守不住了，色虐的大军都过境了，艾辛格也已经崛起了，这火我真传不了！
 
-
-
 &nbsp;
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-458256221" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

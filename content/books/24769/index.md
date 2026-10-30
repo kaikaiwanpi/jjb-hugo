@@ -9,9 +9,7 @@ tags: ["穿越文", "洪荒流", "神话修真", "第九天命"]
 views: 2032
 download: "http://down.jingjiaoba.com/file/20532056-452715473"
 ---
-<img class="alignnone size-full wp-image-24797" src="/media/uploads/2020/07/fa811594133589-1.jpg" width="180" height="240" alt="《太上执符》（校对版全本）作者：第九天命" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-452715473" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：5.13 MB
 
@@ -33,8 +31,4 @@ PS：杨三阳穿越了，并且发现自己手中正持着一把弓，天空中
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-452715473" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

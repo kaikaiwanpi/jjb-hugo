@@ -10,9 +10,7 @@ views: 3046
 download: "http://down.jingjiaoba.com/file/20532056-450418706"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-24698" src="/media/uploads/2020/06/fa811592677337.jpg" width="180" height="240" alt="《神话基因》（校对版全本）作者：鱼跃冲顶" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450418706" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：2.70 MB
 
@@ -50,8 +48,4 @@ image: cover.jpg
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450418706" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

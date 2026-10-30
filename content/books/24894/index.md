@@ -9,9 +9,7 @@ tags: ["幻想修仙", "神话修真", "跃千愁"]
 views: 2712
 download: "http://down.jingjiaoba.com/file/20532056-455689404"
 ---
-<img class="alignnone size-full wp-image-24912" src="/media/uploads/2020/07/fa811595856503-1.jpg" width="180" height="240" alt="《前任无双》（校对版全本）作者：跃千愁 txt全集下载" title="《前任无双》（校对版全本）作者：跃千愁 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455689404" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：4.92 MB
 
@@ -23,8 +21,4 @@ download: "http://down.jingjiaoba.com/file/20532056-455689404"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455689404" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

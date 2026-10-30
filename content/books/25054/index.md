@@ -9,9 +9,7 @@ tags: ["时空穿梭", "系统类", "同人小说", "绿豆冰糖水"]
 views: 2801
 download: "http://down.jingjiaoba.com/file/20532056-461018990"
 ---
-<img class="alignnone size-full wp-image-25075" src="/media/uploads/2020/09/dian-ying-shi-jie-xiao-yao-xing-jiao-dui-ban-quan-ben-zuo.jpg" width="180" height="240" alt="《电影世界逍遥行》（校对版全本）作者：绿豆冰糖水 txt全集下载" title="《电影世界逍遥行》（校对版全本）作者：绿豆冰糖水 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461018990" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：9.31 MB
 
@@ -23,8 +21,4 @@ download: "http://down.jingjiaoba.com/file/20532056-461018990"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461018990" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

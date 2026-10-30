@@ -9,9 +9,7 @@ tags: ["时空穿梭", "东方玄幻", "玄幻修真", "大日浴东海"]
 views: 3489
 download: "http://down.jingjiaoba.com/file/20532056-451736267"
 ---
-<img class="alignnone size-full wp-image-24759" src="/media/uploads/2020/07/fa811593619286-1.jpg" width="180" height="240" alt="《从吞噬开始》（校对版全本）作者：大日浴东海" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-451736267" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.73 MB
 
@@ -25,8 +23,4 @@ download: "http://down.jingjiaoba.com/file/20532056-451736267"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-451736267" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

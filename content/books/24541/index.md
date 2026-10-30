@@ -10,9 +10,7 @@ views: 3507
 download: "http://down.jingjiaoba.com/file/20532056-443875848"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-24551" src="/media/uploads/2020/05/fa811589572084.jpg" width="180" height="240" alt="《我能看见经验值》（校对版全本）作者：红颜三千" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-443875848" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：4.69 MB
 
@@ -33,5 +31,3 @@ image: cover.jpg
 <p class="yinyong">文本由河洛校对！</p>
 
 </blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-443875848" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

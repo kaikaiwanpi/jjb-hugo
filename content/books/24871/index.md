@@ -9,9 +9,7 @@ tags: ["穿越重生", "网游小说", "虚拟网游", "游戏异界", "幼儿�
 views: 3154
 download: "http://down.jingjiaoba.com/file/20532056-455109652"
 ---
-<img class="alignnone size-full wp-image-24890" src="/media/uploads/2020/07/fa811595687439-1.jpg" width="180" height="240" alt="《这号有毒》（校对版全本）作者：幼儿园一把手 txt全集下载" title="《这号有毒》（校对版全本）作者：幼儿园一把手 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455109652" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：2.49 MB
 
@@ -33,8 +31,4 @@ download: "http://down.jingjiaoba.com/file/20532056-455109652"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455109652" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

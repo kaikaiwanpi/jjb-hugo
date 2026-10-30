@@ -9,9 +9,7 @@ tags: ["超能进化", "黑暗幻想", "阚智"]
 views: 3458
 download: "http://down.jingjiaoba.com/file/20532056-469147912"
 ---
-<img class="alignnone size-full wp-image-25255" src="/media/uploads/2020/11/ren-jian-bing-qi-jiao-dui-ban-quan-ben-zuo-zhe-han-zhi-txt.jpg" width="180" height="240" alt="《人间冰器》（校对版全本）作者：阚智 txt全集下载" title="《人间冰器》（校对版全本）作者：阚智 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-469147912" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：7.54 MB
 
@@ -27,8 +25,4 @@ download: "http://down.jingjiaoba.com/file/20532056-469147912"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-469147912" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

@@ -9,9 +9,7 @@ tags: ["系统类", "余云飞", "游戏异界"]
 views: 2835
 download: "http://down.jingjiaoba.com/file/20532056-467978857"
 ---
-<img class="alignnone size-full wp-image-25213" src="/media/uploads/2020/10/wan-jia-qing-zi-zhong-jiao-dui-ban-quan-ben-zuo-zhe-yu-yun.jpg" width="180" height="240" alt="《玩家请自重》（校对版全本）作者：余云飞 txt全集下载" title="《玩家请自重》（校对版全本）作者：余云飞 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-467978857" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.18 MB
 
@@ -45,8 +43,4 @@ download: "http://down.jingjiaoba.com/file/20532056-467978857"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-467978857" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

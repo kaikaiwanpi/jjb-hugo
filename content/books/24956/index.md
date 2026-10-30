@@ -9,9 +9,7 @@ tags: ["现代都市", "异术超能", "商道小说", "任怨"]
 views: 5588
 download: "http://down.jingjiaoba.com/file/20532056-457280798"
 ---
-<img class="alignnone size-full wp-image-24975" src="/media/uploads/2020/08/fa811596880591-1.jpg" width="156" height="208" alt="《神工》（校对版全本）作者：任怨 txt全集下载" title="《神工》（校对版全本）作者：任怨 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-457280798" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：8.44 MB
 
@@ -27,14 +25,8 @@ download: "http://down.jingjiaoba.com/file/20532056-457280798"
 
 恩，貌似活体细胞也可以精密加工的，你扩散的癌细胞需要不需要精加工一下？
 
-
-
 &nbsp;
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-457280798" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

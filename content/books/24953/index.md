@@ -9,9 +9,7 @@ tags: ["两宋元明", "穿越重生", "幸福来敲门"]
 views: 2346
 download: "http://down.jingjiaoba.com/file/20532056-457280856"
 ---
-<img class="alignnone size-full wp-image-24978" src="/media/uploads/2020/08/fa811597061531-1.jpg" width="180" height="240" alt="《大明文魁》（校对版全本）作者：幸福来敲门 txt全集下载" title="《大明文魁》（校对版全本）作者：幸福来敲门 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-457280856" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：8.44 MB
 
@@ -27,8 +25,4 @@ download: "http://down.jingjiaoba.com/file/20532056-457280856"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-457280856" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

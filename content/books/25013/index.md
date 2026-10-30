@@ -10,9 +10,7 @@ views: 1616
 download: "http://down.jingjiaoba.com/file/20532056-458686478"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-25021" src="/media/uploads/2020/08/zi-dong-cao-gao-1.jpg" width="180" height="240" alt="自动草稿" title="自动草稿" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-458686478" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.16 MB
 
@@ -36,8 +34,4 @@ P.s：看好作品分类，别用历史小说的角度衡量本书哦~
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-458686478" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

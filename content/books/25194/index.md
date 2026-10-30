@@ -9,9 +9,7 @@ tags: ["时空穿梭", "系统类", "武侠幻想", "易子七"]
 views: 3605
 download: "http://down.jingjiaoba.com/file/20532056-467978863"
 ---
-<img class="alignnone size-full wp-image-25211" src="/media/uploads/2020/10/wo-you-yi-kuai-shu-xing-ban-jiao-dui-ban-quan-ben-zuo-zhe.jpg" width="180" height="240" alt="《我有一块属性板》（校对版全本）作者：易子七 txt全集下载" title="《我有一块属性板》（校对版全本）作者：易子七 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-467978863" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.79 MB
 
@@ -39,8 +37,4 @@ download: "http://down.jingjiaoba.com/file/20532056-467978863"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-467978863" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

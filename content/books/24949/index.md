@@ -9,9 +9,7 @@ tags: ["时空穿梭", "系统类", "南极烈日"]
 views: 2475
 download: "http://down.jingjiaoba.com/file/20532056-457280934"
 ---
-<img class="alignnone size-full wp-image-24984" src="/media/uploads/2020/08/fa811597325102-1.jpg" width="180" height="240" alt="《诸天最强学院》（校对版全本）作者：南极烈日 txt全集下载" title="《诸天最强学院》（校对版全本）作者：南极烈日 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-457280934" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.28 MB
 
@@ -31,14 +29,8 @@ download: "http://down.jingjiaoba.com/file/20532056-457280934"
 
 这是沈文获得诸天学院系统，建立诸天最强学院的故事。
 
-
-
 &nbsp;
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-457280934" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

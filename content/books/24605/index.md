@@ -9,9 +9,7 @@ tags: ["同人小说", "名称被占用"]
 views: 1155
 download: "http://down.jingjiaoba.com/file/20532056-447790646"
 ---
-<img class="alignnone size-full wp-image-24624" title="点击查看原图" src="/media/uploads/2020/06/fa811591090164-1.jpg" alt="《漫威世界的光之巨人》（校对版全本）作者：名称被占用" width="180" height="240" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-447790646" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.20 MB
 
@@ -27,8 +25,4 @@ download: "http://down.jingjiaoba.com/file/20532056-447790646"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-447790646" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

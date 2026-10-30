@@ -9,9 +9,7 @@ tags: ["现代都市", "都市暧昧", "炒酸奶"]
 views: 4632
 download: "http://down.jingjiaoba.com/file/20532056-450895191"
 ---
-<img class="alignnone size-full wp-image-24729" src="/media/uploads/2020/07/fa811593260462.jpg" width="200" height="287" alt="《我的绝色美女房客》（校对版全本）作者：炒酸奶" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450895191" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：28.6 MB
 
@@ -23,8 +21,4 @@ download: "http://down.jingjiaoba.com/file/20532056-450895191"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450895191" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

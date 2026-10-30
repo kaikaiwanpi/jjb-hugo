@@ -55,12 +55,13 @@ for f in files:
             shutil.copy2(src, os.path.join(d, 'cover' + ext))
             image_line = 'image: cover%s' % ext
 
-    # 正文：简介 + 下载按钮（Stack 正文区）
-    body_html = body
+    # 正文：去掉正文里的封面图（卡片和详情页已有封面），下载按钮放在最前面
+    body_html = re.sub(r'<img[^>]*>', '', body)
+    body_html = re.sub(r'\n{3,}', '\n\n', body_html).lstrip()
     cta = ''
     if dl:
-        cta = ('\n\n<div class="dl-cta"><a class="dl-btn" href="%s" target="_blank" rel="nofollow noopener">'
-               '去下载 TXT</a></div>\n' % dl)
+        cta = ('<div class="dl-cta"><a class="dl-btn" href="%s" target="_blank" rel="nofollow noopener">'
+               '去下载 TXT</a></div>\n\n' % dl)
 
     fm_lines = ['---',
                 'title: "%s"' % title.replace('"', '\\"'),
@@ -77,7 +78,7 @@ for f in files:
     fm_lines += ['---', '']
 
     io.open(os.path.join(d, 'index.md'), 'w', encoding='utf-8').write(
-        '\n'.join(fm_lines) + body_html + cta)
+        '\n'.join(fm_lines) + cta + body_html)
     made += 1
 
 print('生成 %d 篇 page bundle -> %s' % (made, OUT))

@@ -9,9 +9,7 @@ tags: ["穿越重生", "西方奇幻", "黑暗幻想", "瑞血丰年"]
 views: 1888
 download: "http://down.jingjiaoba.com/file/20532056-455689406"
 ---
-<img class="alignnone size-full wp-image-24916" src="/media/uploads/2020/08/fa811596031528.jpg" width="180" height="240" alt="《泰坦与龙之王》（校对版全本）作者：瑞血丰年 txt全集下载" title="《泰坦与龙之王》（校对版全本）作者：瑞血丰年 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455689406" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：7.76 MB
 
@@ -33,8 +31,4 @@ PS：主角的父母一方是守序善良的金龙，另一方是守序中立的
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455689406" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

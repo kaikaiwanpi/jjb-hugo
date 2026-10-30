@@ -9,9 +9,7 @@ tags: ["穿越重生", "东方玄幻", "系统类", "江湖再见"]
 views: 3899
 download: "http://down.jingjiaoba.com/file/20532056-462140542"
 ---
-<img class="alignnone size-full wp-image-25131" src="/media/uploads/2020/09/wan-gu-zui-qiang-zong-jiao-dui-ban-quan-ben-zuo-zhe-jiang.jpg" width="180" height="240" alt="《万古最强宗》（校对版全本）作者：江湖再见 txt全集下载" title="《万古最强宗》（校对版全本）作者：江湖再见 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-462140542" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：10.0 MB
 
@@ -27,8 +25,4 @@ download: "http://down.jingjiaoba.com/file/20532056-462140542"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-462140542" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

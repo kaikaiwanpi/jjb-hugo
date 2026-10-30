@@ -9,9 +9,7 @@ tags: ["穿越重生", "现代都市", "商道小说", "欢颜笑语"]
 views: 2553
 download: "http://down.jingjiaoba.com/file/20532056-466586730"
 ---
-<img class="alignnone size-full wp-image-25182" src="/media/uploads/2020/10/cong-shou-zu-kai-shi-dang-da-lao-jiao-dui-ban-quan-ben-zuo.jpg" width="180" height="240" alt="《从收租开始当大佬》（校对版全本）作者：欢颜笑语 txt全集下载" title="《从收租开始当大佬》（校对版全本）作者：欢颜笑语 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586730" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：4.99 MB
 
@@ -31,8 +29,4 @@ download: "http://down.jingjiaoba.com/file/20532056-466586730"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586730" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

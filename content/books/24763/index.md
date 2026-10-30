@@ -10,9 +10,7 @@ views: 2296
 download: "http://down.jingjiaoba.com/file/20532056-452715480"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-24774" src="/media/uploads/2020/07/fa811593888680.jpg" width="180" height="240" alt="《锦衣御明》（校对版全本）作者：仗剑至天涯" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-452715480" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.41 MB
 
@@ -32,8 +30,4 @@ image: cover.jpg
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-452715480" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

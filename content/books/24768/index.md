@@ -9,9 +9,7 @@ tags: ["网游小说", "虚拟网游", "逆袭的马里奥"]
 views: 2094
 download: "http://down.jingjiaoba.com/file/20532056-452715464"
 ---
-<img class="alignnone size-full wp-image-24800" src="/media/uploads/2020/07/fa811594203777-1.jpg" width="180" height="240" alt="《网游之白骨大圣》（校对版全本）作者：逆袭的马里奥" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-452715464" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.92 MB
 
@@ -39,8 +37,4 @@ download: "http://down.jingjiaoba.com/file/20532056-452715464"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-452715464" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

@@ -9,9 +9,7 @@ tags: ["时空穿梭", "系统类", "现代魔法", "星天萤火"]
 views: 2041
 download: "http://down.jingjiaoba.com/file/20532056-447790652"
 ---
-<img class="alignnone size-full wp-image-24614" title="点击查看原图" src="/media/uploads/2020/06/fa811590860542-1.jpg" alt="《法师网》（校对版全本）作者：星天萤火" width="180" height="240" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-447790652" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：11.2 MB
 
@@ -21,8 +19,4 @@ download: "http://down.jingjiaoba.com/file/20532056-447790652"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-447790652" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

@@ -9,9 +9,7 @@ tags: ["网游小说", "虚拟网游", "爱开大差"]
 views: 1934
 download: "http://down.jingjiaoba.com/file/20532056-452715467"
 ---
-<img class="alignnone size-full wp-image-24799" src="/media/uploads/2020/07/fa811594204712-1.jpg" width="180" height="240" alt="《王牌自由人》（校对版全本）作者：爱开大差" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-452715467" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：5.04 MB
 
@@ -31,8 +29,4 @@ download: "http://down.jingjiaoba.com/file/20532056-452715467"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-452715467" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

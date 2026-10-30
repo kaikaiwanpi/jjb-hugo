@@ -9,9 +9,7 @@ tags: ["穿越重生", "异界玄幻", "黑暗幻想", "机器人瓦力"]
 views: 2930
 download: "http://down.jingjiaoba.com/file/20532056-461018974"
 ---
-<img class="alignnone size-full wp-image-25076" src="/media/uploads/2020/09/li-ming-yi-sheng-wen-yi-yi-sheng-jiao-dui-ban-quan-ben-zuo.jpg" width="180" height="240" alt="《黎明医生(瘟疫医生)》（校对版全本）作者：机器人瓦力 txt全集下载" title="《黎明医生(瘟疫医生)》（校对版全本）作者：机器人瓦力 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461018974" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.71 MB
 
@@ -34,5 +32,3 @@ download: "http://down.jingjiaoba.com/file/20532056-461018974"
 <p class="yinyong">优质订阅书源，收集于网络！</p>
 
 <p class="yinyong">文本由河洛校对！</p>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461018974" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

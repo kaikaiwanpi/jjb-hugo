@@ -9,9 +9,7 @@ tags: ["娱乐圈小说", "娱乐明星", "孜然腰花"]
 views: 2222
 download: "http://down.jingjiaoba.com/file/20532056-461573795"
 ---
-<img class="alignnone size-full wp-image-25108" src="/media/uploads/2020/09/man-ji-dao-yan-jiao-dui-ban-quan-ben-zuo-zhe-zi-ran-yao-hua.jpg" width="180" height="240" alt="《满级导演》（校对版全本）作者：孜然腰花 txt全集下载" title="《满级导演》（校对版全本）作者：孜然腰花 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461573795" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.56 MB
 
@@ -23,8 +21,4 @@ download: "http://down.jingjiaoba.com/file/20532056-461573795"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461573795" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

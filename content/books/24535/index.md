@@ -10,9 +10,7 @@ views: 1703
 download: "http://down.jingjiaoba.com/file/20532056-443875830"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-24550" src="/media/uploads/2020/05/fa811589569124.jpg" width="180" height="240" alt="《不可名状的赛博朋克》（校对版全本）作者：卖盘的狐狸" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-443875830" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.87 MB
 
@@ -33,5 +31,3 @@ image: cover.jpg
 <p class="yinyong">文本由河洛校对！</p>
 
 </blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-443875830" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

@@ -9,9 +9,7 @@ tags: ["穿越文", "同人小说", "红叶知玄"]
 views: 1537
 download: "http://down.jingjiaoba.com/file/20532056-453676738"
 ---
-<img class="alignnone size-full wp-image-24820" title="点击查看原图" src="/media/uploads/2020/07/fa811594475552-1.jpg" alt="《木叶之影流》（校对版全本）作者：红叶知玄" width="180" height="240" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-453676738" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.23 MB
 
@@ -21,8 +19,4 @@ download: "http://down.jingjiaoba.com/file/20532056-453676738"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-453676738" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

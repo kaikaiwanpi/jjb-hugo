@@ -9,9 +9,7 @@ tags: ["穿越重生", "东方玄幻", "系统类", "玄幻修真", "岳麓山�
 views: 2808
 download: "http://down.jingjiaoba.com/file/20532056-461018986"
 ---
-<img class="alignnone size-full wp-image-25073" src="/media/uploads/2020/09/wo-ke-yi-dui-huan-wu-xing-jiao-dui-ban-quan-ben-zuo-zhe-yue.jpg" width="180" height="240" alt="《我可以兑换悟性》（校对版全本）作者：岳麓山山主 txt全集下载" title="《我可以兑换悟性》（校对版全本）作者：岳麓山山主 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461018986" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：7.50 MB
 
@@ -29,8 +27,4 @@ download: "http://down.jingjiaoba.com/file/20532056-461018986"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461018986" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

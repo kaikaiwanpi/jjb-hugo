@@ -9,9 +9,7 @@ tags: ["穿越重生", "娱乐圈小说", "娱乐明星", "杯盏长生酒"]
 views: 2047
 download: "http://down.jingjiaoba.com/file/20532056-466586744"
 ---
-<img class="alignnone size-full wp-image-25185" src="/media/uploads/2020/10/cong-guan-zhong-xi-zou-xiang-yu-le-quan-jiao-dui-ban-quan.jpg" width="180" height="240" alt="《从观众席走向娱乐圈》（校对版全本）作者：杯盏长生酒 txt全集下载" title="《从观众席走向娱乐圈》（校对版全本）作者：杯盏长生酒 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586744" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：4.30 MB
 
@@ -37,8 +35,4 @@ download: "http://down.jingjiaoba.com/file/20532056-466586744"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586744" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

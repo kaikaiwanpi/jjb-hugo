@@ -9,9 +9,7 @@ tags: ["现代都市", "异术超能", "医师小说", "步行天下"]
 views: 4062
 download: "http://down.jingjiaoba.com/file/20532056-446014706"
 ---
-<img class="alignnone size-full wp-image-24589" title="点击查看原图" src="/media/uploads/2020/05/fa811590421254-2.jpg" alt="《医品宗师》（校对版全本）作者：步行天下" width="200" height="266" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-446014706" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：18.3 MB
 
@@ -21,8 +19,4 @@ download: "http://down.jingjiaoba.com/file/20532056-446014706"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-446014706" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

@@ -10,9 +10,7 @@ views: 3726
 download: "http://down.jingjiaoba.com/file/20532056-443875835"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-24544" src="/media/uploads/2020/05/fa811589113821.jpg" width="180" height="240" alt="《剑徒之路》（校对版全本）作者：惰堕" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-443875835" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：9.94 MB
 
@@ -29,5 +27,3 @@ image: cover.jpg
 <p class="yinyong">文本由河洛校对！</p>
 
 </blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-443875835" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

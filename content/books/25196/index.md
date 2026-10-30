@@ -9,9 +9,7 @@ tags: ["穿越文", "同人小说", "大树L"]
 views: 1731
 download: "http://down.jingjiaoba.com/file/20532056-467978862"
 ---
-<img class="alignnone size-full wp-image-25216" src="/media/uploads/2020/10/hai-zei-zhi-hei-bo-jue-jiao-dui-ban-quan-ben-zuo-zhe-da-shu.jpg" width="180" height="240" alt="《海贼之黑伯爵》（校对版全本）作者：大树L txt全集下载" title="《海贼之黑伯爵》（校对版全本）作者：大树L txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-467978862" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：4.12 MB
 
@@ -31,8 +29,4 @@ download: "http://down.jingjiaoba.com/file/20532056-467978862"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-467978862" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

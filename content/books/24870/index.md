@@ -9,9 +9,7 @@ tags: ["现代都市", "商道小说", "榕之子"]
 views: 1946
 download: "http://down.jingjiaoba.com/file/20532056-455109650"
 ---
-<img class="alignnone size-full wp-image-24887" src="/media/uploads/2020/07/fa811595500290-1.jpg" width="180" height="240" alt="《造车》（校对版全本）作者：榕之子 txt全集下载" title="《造车》（校对版全本）作者：榕之子 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455109650" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：4.74 MB
 
@@ -33,8 +31,4 @@ download: "http://down.jingjiaoba.com/file/20532056-455109650"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455109650" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

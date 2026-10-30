@@ -10,9 +10,7 @@ views: 43757
 download: "http://down.jingjiaoba.com/file/20532056-443875833"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-24548" src="/media/uploads/2020/05/fa811589372254.jpg" width="180" height="240" alt="《诡秘之主》（精校版全本）作者：爱潜水的乌贼" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-443875833" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：9.09 MB
 
@@ -29,5 +27,3 @@ image: cover.jpg
 <p class="yinyong">文本由雅贼校对！</p>
 
 </blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-443875833" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

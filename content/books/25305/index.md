@@ -10,9 +10,7 @@ views: 1547
 download: "http://down.jingjiaoba.com/file/20532056-474010341"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-25319" src="/media/uploads/2020/11/zi-dong-cao-gao-39.jpg" width="180" height="240" alt="自动草稿" title="自动草稿" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-474010341" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：5.54 MB
 
@@ -34,14 +32,8 @@ image: cover.jpg
 
 以及另类的训练家、培育家、协调家。
 
-
-
 &nbsp;
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-474010341" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

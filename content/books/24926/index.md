@@ -9,9 +9,7 @@ tags: ["穿越文", "架空历史", "雨天下雨"]
 views: 2100
 download: "http://down.jingjiaoba.com/file/20532056-456125885"
 ---
-<img class="alignnone size-full wp-image-24942" src="/media/uploads/2020/08/fa811596557271-1.jpg" width="180" height="240" alt="《山沟皇帝》（校对版全本）作者：雨天下雨 txt全集下载" title="《山沟皇帝》（校对版全本）作者：雨天下雨 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-456125885" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：12.5 MB
 
@@ -23,8 +21,4 @@ download: "http://down.jingjiaoba.com/file/20532056-456125885"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-456125885" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

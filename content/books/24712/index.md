@@ -9,9 +9,7 @@ tags: ["东方玄幻", "玄幻修真", "太一生水"]
 views: 3320
 download: "http://down.jingjiaoba.com/file/20532056-450895194"
 ---
-<img class="alignnone size-full wp-image-24726" src="/media/uploads/2020/06/fa811593159368-1.jpg" width="180" height="240" alt="《天神诀》（校对版全本）作者：太一生水" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450895194" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：15.3 MB
 
@@ -29,8 +27,4 @@ download: "http://down.jingjiaoba.com/file/20532056-450895194"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450895194" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

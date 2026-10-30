@@ -9,9 +9,7 @@ tags: ["武侠幻想", "狗狍子"]
 views: 1380
 download: "http://down.jingjiaoba.com/file/20532056-466586784"
 ---
-<img class="alignnone size-full wp-image-25188" src="/media/uploads/2020/10/wu-shen-huang-ting-jiao-dui-ban-quan-ben-zuo-zhe-gou-pao-zi.jpg" width="180" height="240" alt="《武神皇庭》（校对版全本）作者：狗狍子 txt全集下载" title="《武神皇庭》（校对版全本）作者：狗狍子 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586784" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：5.09 MB
 
@@ -21,8 +19,4 @@ download: "http://down.jingjiaoba.com/file/20532056-466586784"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586784" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

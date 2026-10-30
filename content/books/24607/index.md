@@ -9,9 +9,7 @@ tags: ["时空穿梭", "东方玄幻", "同人小说", "喜爱吃黄瓜"]
 views: 2142
 download: "http://down.jingjiaoba.com/file/20532056-447790644"
 ---
-<img class="alignnone size-full wp-image-24618" title="点击查看原图" src="/media/uploads/2020/06/fa811590934793-1.jpg" alt="《美漫世界的武者》（校对版全本）作者：喜爱吃黄瓜" width="180" height="240" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-447790644" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.48 MB
 
@@ -23,14 +21,8 @@ download: "http://down.jingjiaoba.com/file/20532056-447790644"
 
 PS：本书漫威世界+吞噬星空=相辅相成
 
-
-
 &nbsp;
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-447790644" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

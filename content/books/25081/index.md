@@ -9,9 +9,7 @@ tags: ["末日小说", "异术超能", "黑暗幻想", "会说话的肘子"]
 views: 6084
 download: "http://down.jingjiaoba.com/file/20532056-461573811"
 ---
-<img class="alignnone size-full wp-image-25104" src="/media/uploads/2020/09/di-yi-xu-lie-jiao-dui-ban-quan-ben-zuo-zhe-hui-shuo-hua-de.jpg" width="180" height="240" alt="《第一序列》（校对版全本）作者：会说话的肘子 txt全集下载" title="《第一序列》（校对版全本）作者：会说话的肘子 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461573811" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：5.89 MB
 
@@ -33,8 +31,4 @@ download: "http://down.jingjiaoba.com/file/20532056-461573811"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461573811" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

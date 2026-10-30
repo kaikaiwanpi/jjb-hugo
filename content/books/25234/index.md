@@ -9,9 +9,7 @@ tags: ["特工小说", "现代都市", "我本疯狂"]
 views: 3002
 download: "http://down.jingjiaoba.com/file/20532056-469147906"
 ---
-<img class="alignnone size-full wp-image-25257" src="/media/uploads/2020/11/yi-shi-bing-wang-jiao-dui-ban-quan-ben-zuo-zhe-wo-ben-feng.jpg" width="156" height="208" alt="《一世兵王》（校对版全本）作者：我本疯狂 txt全集下载" title="《一世兵王》（校对版全本）作者：我本疯狂 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-469147906" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：11.0 MB
 
@@ -29,8 +27,4 @@ download: "http://down.jingjiaoba.com/file/20532056-469147906"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-469147906" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

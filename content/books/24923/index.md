@@ -9,9 +9,7 @@ tags: ["系统类", "搞笑灵异", "灵异奇谈", "解三千"]
 views: 4205
 download: "http://down.jingjiaoba.com/file/20532056-456125884"
 ---
-<img class="alignnone size-full wp-image-24940" src="/media/uploads/2020/08/fa811596373186-1.jpg" width="180" height="240" alt="《极品捉妖系统(极品捉鬼系统)》（校对版全本）作者：解三千 txt全集下载" title="《极品捉妖系统(极品捉鬼系统)》（校对版全本）作者：解三千 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-456125884" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：11.3 MB
 
@@ -27,8 +25,4 @@ download: "http://down.jingjiaoba.com/file/20532056-456125884"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-456125884" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

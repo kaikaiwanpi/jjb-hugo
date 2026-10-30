@@ -10,9 +10,7 @@ views: 1859
 download: "http://down.jingjiaoba.com/file/20532056-445144847"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-24561" src="/media/uploads/2020/05/fa811590259705.jpg" width="180" height="240" alt="《我成了一条锦鲤》（校对版全本）作者：丹尼尔秦" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-445144847" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.16 MB
 
@@ -32,8 +30,4 @@ image: cover.jpg
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由天涯凝望校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-445144847" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

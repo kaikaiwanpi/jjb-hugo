@@ -9,9 +9,7 @@ tags: ["穿越重生", "时空穿梭", "系统类", "同人小说", "七乐"]
 views: 1735
 download: "http://down.jingjiaoba.com/file/20532056-454479836"
 ---
-<img class="alignnone size-full wp-image-24852" src="/media/uploads/2020/07/fa811595256953-1.jpg" width="180" height="240" alt="《美漫大怪兽》（校对版全本）作者：七乐 txt全集下载" title="《美漫大怪兽》（校对版全本）作者：七乐 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-454479836" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.69 MB
 
@@ -29,8 +27,4 @@ PS：本书讲述的是一个大怪兽，努力破坏纽约这座城市的故事
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-454479836" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

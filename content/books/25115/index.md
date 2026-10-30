@@ -9,9 +9,7 @@ tags: ["时空穿梭", "同人小说", "黑暗幻想", "双子座游鱼"]
 views: 2962
 download: "http://down.jingjiaoba.com/file/20532056-462140549"
 ---
-<img class="alignnone size-full wp-image-25128" src="/media/uploads/2020/09/ju-tou-zhu-tian-wan-jie-jiao-dui-ban-quan-ben-zuo-zhe.jpg" width="180" height="240" alt="《剧透诸天万界》（校对版全本）作者：双子座游鱼 txt全集下载" title="《剧透诸天万界》（校对版全本）作者：双子座游鱼 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-462140549" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：2.42 MB
 
@@ -37,8 +35,4 @@ download: "http://down.jingjiaoba.com/file/20532056-462140549"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-462140549" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

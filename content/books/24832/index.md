@@ -9,11 +9,11 @@ tags: ["东方玄幻", "穿越异界", "异界玄幻", "沉默的糕点"]
 views: 2535
 download: "http://down.jingjiaoba.com/file/20532056-454479844"
 ---
-<div><img class="alignnone size-full wp-image-24846" src="/media/uploads/2020/07/000adb2b4c08345512408b1cff6d0a39-1.jpg" width="150" height="183" alt="《史上第一密探》（校对版下载）作者: 沉默的糕点" title="点击查看原图" /></div>
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-454479844" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
+
+<div></div>
 
 <div>
-
-
 
 【TXT大小】: 2.16 M
 
@@ -25,10 +25,6 @@ x疯人院发生爆炸，校长云中鹤穿越重生，29个奇才精神病患�
 
 <blockquote>正版订阅书源，收集于网络！
 
-
-
 文本由未知校对！</blockquote>
 
 </div>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-454479844" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

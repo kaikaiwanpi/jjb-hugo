@@ -10,9 +10,7 @@ views: 2655
 download: "http://down.jingjiaoba.com/file/20532056-443875846"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-24552" src="/media/uploads/2020/05/fa811589635066.jpg" width="200" height="250" alt="《九阳神王》（校对版全本）作者：寂小贼" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-443875846" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：20.2 MB
 
@@ -35,5 +33,3 @@ image: cover.jpg
 <p class="yinyong">文本由河洛校对！</p>
 
 </blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-443875846" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

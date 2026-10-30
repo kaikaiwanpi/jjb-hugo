@@ -10,9 +10,7 @@ views: 1897
 download: "http://down.jingjiaoba.com/file/20532056-476736197"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-25359" src="/media/uploads/2020/12/zi-dong-cao-gao-3.jpg" width="180" height="240" alt="自动草稿" title="自动草稿" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-476736197" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.20 MB
 
@@ -30,14 +28,8 @@ image: cover.jpg
 
 嗯，穿越后的楚天行，还是得写小说。不过这一次，他只需要写写小说，就能不断变强……
 
-
-
 &nbsp;
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-476736197" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

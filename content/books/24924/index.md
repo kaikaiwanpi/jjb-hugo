@@ -9,9 +9,7 @@ tags: ["系统类", "秦汉三国", "历史系之狼"]
 views: 2449
 download: "http://down.jingjiaoba.com/file/20532056-456125882"
 ---
-<img class="alignnone size-full wp-image-24939" src="/media/uploads/2020/08/fa811596279448-1.jpg" width="180" height="240" alt="《捡到一本三国志》（校对版全本）作者：历史系之狼 txt全集下载" title="《捡到一本三国志》（校对版全本）作者：历史系之狼 txt全集下载" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-456125882" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：5.93 MB
 
@@ -23,8 +21,4 @@ download: "http://down.jingjiaoba.com/file/20532056-456125882"
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-456125882" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

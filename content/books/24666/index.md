@@ -10,9 +10,7 @@ views: 1685
 download: "http://down.jingjiaoba.com/file/20532056-449190798"
 image: cover.jpg
 ---
-<img class="alignnone size-full wp-image-24673" src="/media/uploads/2020/06/fa811592313171.jpg" width="180" height="240" alt="《滑稽主播》（校对版全本）作者：残月黄泉" title="点击查看原图" />
-
-
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-449190798" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
 
 【TXT大小】：3.61 MB
 
@@ -24,8 +22,4 @@ image: cover.jpg
 
 <blockquote>优质订阅书源，收集于网络！
 
-
-
 文本由河洛校对！</blockquote>
-
-<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-449190798" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
