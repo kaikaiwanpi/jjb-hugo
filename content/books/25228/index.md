@@ -1,0 +1,38 @@
+---
+title: "《我有一座冒险屋(我有一座恐怖屋)》（校对版全本）作者：我会修空调 txt全集下载"
+date: 2020-11-10T09:28:18.000000
+url: "/25228.html"
+slug: "25228"
+description: "【TXT大小】：6.26 MB 【内容简介】： 散发异味的灵车停在了门口，天花板传来弹珠碰撞的声音，走廊里有 ···"
+categories: ["精校灵异"]
+tags: ["悬疑推理", "系统类", "搞笑灵异", "我会修空调"]
+views: 8783
+download: "http://down.jingjiaoba.com/file/20532056-469147905"
+---
+<img class="alignnone size-full wp-image-25258" src="/media/uploads/2020/11/wo-you-yi-zuo-mao-xian-wu-wo-you-yi-zuo-kong-bu-wu-jiao-dui.jpg" width="180" height="240" alt="《我有一座冒险屋(我有一座恐怖屋)》（校对版全本）作者：我会修空调 txt全集下载" title="《我有一座冒险屋(我有一座恐怖屋)》（校对版全本）作者：我会修空调 txt全集下载" />
+
+
+
+【TXT大小】：6.26 MB
+
+【内容简介】：
+
+散发异味的灵车停在了门口，天花板传来弹珠碰撞的声音，走廊里有人来回踱步，隔壁房间好像在切割什么东西。
+
+卧室的门锁轻轻颤动，卫生间里水龙头已经拧紧，却还是滴答滴答个不停。
+
+床底下隐隐约约，似乎有个皮球滚来滚去。
+
+一个个沾染水渍的脚印不断在地板上浮现，正慢慢逼近。
+
+凌晨三点，陈歌握着菜刀躲在暖气片旁边，手里的电话刚刚拨通。
+
+“房东！这就是你说的晚上有点热闹？！”
+
+<blockquote>优质订阅书源，收集于网络！
+
+
+
+文本由河洛校对！</blockquote>
+
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-469147905" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

@@ -1,0 +1,33 @@
+---
+title: "《大国工程》（校对版全本）作者：和光万物 txt全集下载"
+date: 2020-06-16T10:30:27.000000
+url: "/24667.html"
+slug: "24667"
+description: "【TXT大小】：4.77 MB 【内容简介】： 余庆阳一个搬砖二十年的老工程，梦回世纪之交，海河大学毕业，接 ···"
+categories: ["精校都市"]
+tags: ["重生文", "穿越重生", "现代都市", "和光万物"]
+views: 2817
+download: "http://down.jingjiaoba.com/file/20532056-449190801"
+image: cover.jpg
+---
+<img class="alignnone size-full wp-image-24672" src="/media/uploads/2020/06/fa811592218047.jpg" width="180" height="240" alt="《大国工程》（校对版全本）作者：和光万物" title="点击查看原图" />
+
+
+
+【TXT大小】：4.77 MB
+
+【内容简介】：
+
+余庆阳一个搬砖二十年的老工程，梦回世纪之交，海河大学毕业，接老爸的班继续搬砖。
+
+用两辈子的行动告诉老师，搬砖不是因为我学习不好！
+
+是我命中注定要搬砖。
+
+<blockquote>优质订阅书源，收集于网络！
+
+
+
+文本由河洛校对！</blockquote>
+
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-449190801" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

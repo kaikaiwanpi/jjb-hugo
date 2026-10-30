@@ -1,0 +1,49 @@
+baseURL = "https://kaikaiwanpi.github.io/jjb-hugo/"
+locale = "zh-cn"
+title = "精校吧"
+theme = "stack"
+hasCJKLanguage = true
+defaultContentLanguage = "zh-cn"
+enableRobotsTXT = true
+
+[pagination]
+    pagerSize = 12
+
+[permalinks]
+    books = "/:slug/"
+
+[params]
+    mainSections = ["books"]
+    rssFullContent = false
+    favicon = "img/favicon.png"
+    dateFormat = { published = "2006-01-02", lastUpdated = "2006-01-02" }
+
+    [footer]
+        since = 2019
+        customText = "本站书籍均来自网络，仅供试读，请在下载后 24 小时内删除。"
+
+    [sidebar]
+        emoji = "📚"
+        subtitle = "免费精校小说 · 校对全本 TXT 下载"
+        avatar = "img/avatar.png"
+
+    [article]
+        math = false
+        toc = false
+        readingTime = false
+        [article.license]
+            enabled = false
+
+    [widgets]
+        homepage = [
+            { type = "search" },
+            { type = "categories", params = { limit = 20 } },
+            { type = "tag-cloud", params = { limit = 30 } },
+        ]
+        page = []
+
+    [comments]
+        enabled = false
+
+    [cookies]
+        enabled = false

@@ -1,0 +1,41 @@
+---
+title: "《策行三国(三国小霸王)》（校对版全本）作者：庄不周 txt全集下载"
+date: 2020-06-23T11:33:55.000000
+url: "/24688.html"
+slug: "24688"
+description: "【TXT大小】：13.1 MB 【内容简介】： 重生孙策，雄霸三国。 一梦醒来，成了小霸王孙策，亲爹孙坚正在 ···"
+categories: ["精校历史"]
+tags: ["重生文", "庄不周", "秦汉三国"]
+views: 2299
+download: "http://down.jingjiaoba.com/file/20532056-450418727"
+image: cover.jpg
+---
+<img class="alignnone size-full wp-image-24699" src="/media/uploads/2020/06/fa811592677758.jpg" width="180" height="240" alt="《策行三国(三国小霸王)》（校对版全本）作者：庄不周" title="点击查看原图" />
+
+
+
+【TXT大小】：13.1 MB
+
+【内容简介】：
+
+重生孙策，雄霸三国。
+
+一梦醒来，成了小霸王孙策，亲爹孙坚正在襄阳作战，命悬一线。
+
+爹要救，江山要打，乱世和美人都要拯救，但事情却不是想象的那么简单。
+
+袁绍四世三公很强大，江东缺马难争霸。天子年少很聪明，读书人自负又天真。黄巾余波尚未平，门阀已经现雏形。名臣猛将只是舞台上的影子，背后还有无形的手。
+
+有痛快，有遗憾，更有无奈，但初心不变。
+
+用一点先见之明，集结良臣猛将的智慧和坚强，铸就一个强大文明的脊梁。
+
+这是我的三国，我是小霸王孙策。
+
+<blockquote>优质订阅书源，收集于网络！
+
+
+
+文本由河洛校对！</blockquote>
+
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450418727" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

@@ -1,0 +1,41 @@
+---
+title: "《诡异修仙世界(恐怖修仙世界)》（校对版全本）作者：龙蛇 txt全集下载"
+date: 2020-08-24T09:30:04.000000
+url: "/25019.html"
+slug: "25019"
+description: "【TXT大小】：9.01 MB 【内容简介】： 若是可以选择，周凡永远不想降临这个恐怖世界，因为他感觉到了这 ···"
+categories: ["精校仙侠"]
+tags: ["穿越重生", "修真文明", "龙蛇"]
+views: 4586
+download: "http://down.jingjiaoba.com/file/20532056-458686481"
+image: cover.jpg
+---
+<img class="alignnone size-full wp-image-25022" src="/media/uploads/2020/08/zi-dong-cao-gao-2.jpg" width="180" height="240" alt="自动草稿" title="自动草稿" />
+
+
+
+【TXT大小】：9.01 MB
+
+【内容简介】：
+
+若是可以选择，周凡永远不想降临这个恐怖世界，因为他感觉到了这个世界对他极大的恶意！
+
+心口浮现的寿数就像一个计时炸弹，在滴滴答答倒数着他的寿命，寿数尽头时，将会有恐怖存在夺去他的生命。
+
+作为短命种必须加入死亡率高的村巡逻队，面对着层出不穷的怪谲，每天挣扎求存。
+
+白天受到暗处的极恶极贪婪目光窥视，夜晚作梦时还会被拉进怪异的灰雾空间。
+
+周凡有时候怀疑自己能不能活着走出这个恐怖至极的新手村？
+
+更别说踏上修真之路，增加自己的寿命了。
+
+诡秘莫测的游怨，挣扎求存的人族，神秘危险的辽阔地域……欢迎进入恐怖、惊悚的修仙世界。
+
+<blockquote>优质订阅书源，收集于网络！
+
+
+
+文本由河洛校对！</blockquote>
+
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-458686481" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

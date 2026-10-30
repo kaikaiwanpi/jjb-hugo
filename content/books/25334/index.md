@@ -1,0 +1,33 @@
+---
+title: "《钢铁燃魂》（校对版全本）作者：天空之承 百度云TXT全集下载"
+date: 2020-12-23T09:10:46.000000
+url: "/25334.html"
+slug: "25334"
+description: "【TXT大小】：3.43 MB 【内容简介】： 把一个刚毕业两年的工科男丢到动荡战乱的时空去，结果会不会瞬间 ···"
+categories: ["精校玄幻"]
+tags: ["穿越文", "架空历史", "天空之承"]
+views: 3423
+download: "http://down.jingjiaoba.com/file/20532056-476736216"
+image: cover.jpg
+---
+<img class="alignnone size-full wp-image-25377" src="/media/uploads/2020/12/zi-dong-cao-gao-21.jpg" width="180" height="240" alt="自动草稿" title="自动草稿" />
+
+
+
+【TXT大小】：3.43 MB
+
+【内容简介】：
+
+把一个刚毕业两年的工科男丢到动荡战乱的时空去，结果会不会瞬间扑街？
+
+魏斯同学的穿越稍稍有些坑爹，他自带半成品的“敌我识别系统”来到了一个陆地面积多过海洋、战舰可以在天空飞行的类地星球，附身在一个手工枪械作坊家族的继承人身上。是的，没有搞错，在这个时空，他们家的作坊还在手工制作镶金嵌银的工艺枪械！
+
+啥？想当个与世无争的败家子？抱歉，内有军火巨头的挖角打压，外有军事帝国的侵略威胁，这样的生活有如逆水行舟，不进则退。好在咱魏斯同学不但是个玩枪的高手，还是某著名军事杂志的骨灰级读者，各种战史谋略烂熟于胸，混着混着，貌似是要成为这乱世英豪的节奏啊……
+
+<blockquote>优质订阅书源，收集于网络！
+
+
+
+文本由河洛校对！</blockquote>
+
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-476736216" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

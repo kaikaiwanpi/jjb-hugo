@@ -1,0 +1,35 @@
+---
+title: "《抢救大明朝》（校对版全本）作者：大罗罗 txt全集下载"
+date: 2020-11-16T09:30:02.000000
+url: "/25271.html"
+slug: "25271"
+description: "【TXT大小】：11.4 MB 【内容简介】： 朱慈烺此贼比汉奸还奸，比鞑子还凶，比额李自成还能蛊惑人心！—— ···"
+categories: ["精校历史"]
+tags: ["两宋元明", "大罗罗"]
+views: 2923
+download: "http://down.jingjiaoba.com/file/20532056-471015559"
+image: cover.jpg
+---
+<img class="alignnone size-full wp-image-25278" src="/media/uploads/2020/11/zi-dong-cao-gao-20.jpg" width="180" height="240" alt="自动草稿" title="自动草稿" />
+
+
+
+【TXT大小】：11.4 MB
+
+【内容简介】：
+
+朱慈烺此贼比汉奸还奸，比鞑子还凶，比额李自成还能蛊惑人心！——闯王李自成立马九宫山，遥望东南，感慨万千。
+
+慈烺此子忤逆不孝，奸诈凶残，简直是曹操再世，司马复生，让他当了皇帝，全天下的逆贼、鞑子、奸臣、刁民一定会想念朕的！——大明崇祯皇帝于明孝陵前，痛哭流涕。
+
+我冤枉啊！我洪承畴真的不是朱贼慈烺的内应，我对大清可是一片忠心啊！——大清兵部尚书洪承畴在刑场之上，大声疾呼。
+
+父皇别跑，儿臣孝顺！——这是被某个来自21世纪的老实孩子灵魂附体的大明太子朱慈烺拎着宝剑，追赶崇祯皇帝时的真心话。
+
+<blockquote>优质订阅书源，收集于网络！
+
+
+
+文本由河洛校对！</blockquote>
+
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-471015559" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

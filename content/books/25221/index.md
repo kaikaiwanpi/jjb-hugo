@@ -1,0 +1,33 @@
+---
+title: "《返回2006》（校对版全本）作者：木子心 txt全集下载"
+date: 2020-11-02T09:30:55.000000
+url: "/25221.html"
+slug: "25221"
+description: "【TXT大小】：5.04 MB 【内容简介】： 这是一个扑街作者重回2006年的故事，然后……他就不扑街了！ 但他 ···"
+categories: ["精校娱乐"]
+tags: ["重生文", "现代都市", "娱乐明星", "木子心"]
+views: 2520
+download: "http://down.jingjiaoba.com/file/20532056-469147922"
+image: cover.jpg
+---
+<img class="alignnone size-full wp-image-25238" src="/media/uploads/2020/11/zi-dong-cao-gao-3.jpg" width="180" height="240" alt="自动草稿" title="自动草稿" />
+
+
+
+【TXT大小】：5.04 MB
+
+【内容简介】：
+
+这是一个扑街作者重回2006年的故事，然后……他就不扑街了！
+
+但他还总是觉得写小说死路一条，总想再干点别的。
+
+然后他真的干了……
+
+<blockquote>优质订阅书源，收集于网络！
+
+
+
+文本由河洛校对！</blockquote>
+
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-469147922" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

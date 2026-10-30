@@ -1,0 +1,52 @@
+---
+title: "《玩家请自重》（校对版全本）作者：余云飞 txt全集下载"
+date: 2020-10-27T09:30:24.000000
+url: "/25197.html"
+slug: "25197"
+description: "【TXT大小】：3.18 MB 【内容简介】： 玩家——传说中的第四天灾。 没有人可以预料到，当一个被迫身负魔 ···"
+categories: ["精校奇幻"]
+tags: ["系统类", "余云飞", "游戏异界"]
+views: 2835
+download: "http://down.jingjiaoba.com/file/20532056-467978857"
+---
+<img class="alignnone size-full wp-image-25213" src="/media/uploads/2020/10/wan-jia-qing-zi-zhong-jiao-dui-ban-quan-ben-zuo-zhe-yu-yun.jpg" width="180" height="240" alt="《玩家请自重》（校对版全本）作者：余云飞 txt全集下载" title="《玩家请自重》（校对版全本）作者：余云飞 txt全集下载" />
+
+
+
+【TXT大小】：3.18 MB
+
+【内容简介】：
+
+玩家——传说中的第四天灾。
+
+没有人可以预料到，当一个被迫身负魔王命运的穿越者带着一群沙雕玩家，会在《血腥竞技场》这个特殊世界里干出什么。
+
+当王昊酷酷滴朝着敌人一伸指头……
+
+“万岁冲锋！”
+
+“德玛西亚！”
+
+“为了联盟！”
+
+“为了部落！”
+
+“等等！先干掉万岁冲锋的，揍完喊德玛西亚的，我们兄弟再决一胜负！”
+
+“好！”
+
+王昊：我%$#@%，我太难了。
+
+……
+
+好不容易从那见鬼的世界回来，居然要开游戏公司去掩饰那个世界？
+
+等等，我那空壳公司成了国产游戏之光，这是什么鬼？
+
+<blockquote>优质订阅书源，收集于网络！
+
+
+
+文本由河洛校对！</blockquote>
+
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-467978857" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

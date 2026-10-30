@@ -1,0 +1,35 @@
+---
+title: "《万界疯人院》（校对版全本）作者：肥瓜 百度云TXT全集下载"
+date: 2021-01-14T09:24:10.000000
+url: "/25429.html"
+slug: "25429"
+description: "【TXT大小】：2.73 MB 【内容简介】： 不知从什么时候起，世界上有了这样的一座精神病医院。 它曾出现 ···"
+categories: ["精校科幻", "精校灵异"]
+tags: ["时空穿梭", "悬疑奇幻", "悬疑探险", "肥瓜"]
+views: 7280
+download: "http://down.jingjiaoba.com/file/20532056-478760117"
+image: cover.jpg
+---
+<img class="alignnone size-full wp-image-25440" src="/media/uploads/2021/01/zi-dong-cao-gao-21.jpg" width="180" height="240" alt="自动草稿" title="自动草稿" />
+
+
+
+【TXT大小】：2.73 MB
+
+【内容简介】：
+
+不知从什么时候起，世界上有了这样的一座精神病医院。
+
+它曾出现在哥谭市最繁华的街边，也曾经藏在浣熊市最阴暗的角落，它可能在《福尔摩斯探案集》中有过一小段的描写，也可能在《汉尼拔》的影片中有过一秒钟的画面……
+
+有人说，里面穿着护士服的女孩有点像哈莉奎茵，也有人说，二楼的病房里的老头自称莫里亚蒂教授，有人在走廊的角落找到了老旧的电锯，也有的人在床下翻出了画着小丑的纸牌，主治医师永远懒懒散散的样子，地板缝里总渗出莫名其妙的血迹。
+
+如果有一天，你在下班路上偶然看到了一间陌生的医院，那么不论你有没有病……欢迎光临。
+
+<blockquote>优质订阅书源，收集于网络！
+
+
+
+文本由丶独影校对！</blockquote>
+
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-478760117" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

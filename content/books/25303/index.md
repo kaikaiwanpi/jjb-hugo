@@ -1,0 +1,37 @@
+---
+title: "《绝代名师》（校对版全本）作者：相思洗红豆 百度云txt全集下载"
+date: 2020-11-28T09:30:04.000000
+url: "/25303.html"
+slug: "25303"
+description: "【TXT大小】：9.50 MB 【内容简介】： 市二中的金牌老师孙默落水后，来到了中州唐国，成了一个刚毕业的 ···"
+categories: ["精校玄幻"]
+tags: ["系统类", "穿越异界", "异界玄幻", "相思洗红豆"]
+views: 3409
+download: "http://down.jingjiaoba.com/file/20532056-474010609"
+image: cover.jpg
+---
+<img class="alignnone size-full wp-image-25315" src="/media/uploads/2020/11/zi-dong-cao-gao-35.jpg" width="180" height="240" alt="自动草稿" title="自动草稿" />
+
+
+
+【TXT大小】：9.50 MB
+
+【内容简介】：
+
+市二中的金牌老师孙默落水后，来到了中州唐国，成了一个刚毕业的实习老师，竟然有了一个白富美的未婚妻，未婚妻竟然还是一所名校的校长，不过这名校衰败了，即将摘牌除名，进行废校处理……
+
+孙默的开局，就是要帮助未婚妻坐稳校长之位，让学校重回豪门之列。
+
+孙默得到绝代名师系统后，点废成金，把一个个废物变成了天才，在孙默的指导下，学渣们一年学霸，三年学帝，五年学神，很快可以变成王者级的大BOSS！
+
+竟敢说我这名师徒有虚名？剑豪、枪圣，刀魔，圣女，无双国士，一代魔帝，两大圣人，三大至尊，统统都是我教出来的，就问你怕不怕？
+
+我最喜欢把青铜杂鱼带成王者BOSS，孙默如是说！
+
+<blockquote>优质订阅书源，收集于网络！
+
+
+
+文本由河洛校对！</blockquote>
+
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-474010609" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

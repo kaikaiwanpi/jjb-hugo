@@ -1,0 +1,43 @@
+---
+title: "《饲养全人类》（校对版全本）作者：三百斤的微笑 百度云TXT全集下载"
+date: 2020-12-07T09:30:43.000000
+url: "/25333.html"
+slug: "25333"
+description: "【TXT大小】：8.99 MB 【内容简介】： 部落农耕时代，世界是庞大未知的。 随着不断的探索，古人惊骇的 ···"
+categories: ["精校科幻"]
+tags: ["超能进化", "系统类", "三百斤的微笑"]
+views: 2541
+download: "http://down.jingjiaoba.com/file/20532056-476736184"
+image: cover.jpg
+---
+<img class="alignnone size-full wp-image-25357" src="/media/uploads/2020/12/zi-dong-cao-gao-1.jpg" width="180" height="240" alt="自动草稿" title="自动草稿" />
+
+
+
+【TXT大小】：8.99 MB
+
+【内容简介】：
+
+部落农耕时代，世界是庞大未知的。
+
+随着不断的探索，古人惊骇的发现，这个世界，天圆地方，有各种神迹降临，甚至有身高万丈的超大型巨人，智慧巨兽的身影神秘出现，踩踏山川、破碎大地。
+
+数百年后，在这样险恶的环境下，人们与巨兽搏斗，终于建立徇烂的苏美尔文明。
+
+这一日，智慧巨人忽然彻底降临，踩踏整片山村河流，亡国灭种。
+
+天地崩坏，城池倒塌，
+
+神祇降临，降罪众生？
+
+“不好意思，你们只是生活在我家大院果园的蚂蚁，地面到处都是，不小心路过的时候，把你们踩死了而已。”
+
+自家院子里的沙盘种田流，放牧沙盘里的人族与各个世界。
+
+<blockquote>优质订阅书源，收集于网络！
+
+
+
+文本由河洛校对！</blockquote>
+
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-476736184" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

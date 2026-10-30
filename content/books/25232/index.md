@@ -1,0 +1,34 @@
+---
+title: "《人间冰器》（校对版全本）作者：阚智 txt全集下载"
+date: 2020-11-07T09:28:32.000000
+url: "/25232.html"
+slug: "25232"
+description: "【TXT大小】：7.54 MB 【内容简介】： “人间冰器”计划失败了，只有11幸存下来。他被送到了“魔鬼训练营” ···"
+categories: ["精校科幻"]
+tags: ["超能进化", "黑暗幻想", "阚智"]
+views: 3458
+download: "http://down.jingjiaoba.com/file/20532056-469147912"
+---
+<img class="alignnone size-full wp-image-25255" src="/media/uploads/2020/11/ren-jian-bing-qi-jiao-dui-ban-quan-ben-zuo-zhe-han-zhi-txt.jpg" width="180" height="240" alt="《人间冰器》（校对版全本）作者：阚智 txt全集下载" title="《人间冰器》（校对版全本）作者：阚智 txt全集下载" />
+
+
+
+【TXT大小】：7.54 MB
+
+【内容简介】：
+
+“人间冰器”计划失败了，只有11幸存下来。他被送到了“魔鬼训练营”，一个令人谈虎色变的地方，全世界35%的杀手，20%的特工，10%的政要富豪保镖都出自这里，而训练营的存活率，仅仅只有10%不到。
+
+在这里，人命不值钱，实力才是活下去的一切根本。
+
+在这里，体验不到亲情、友情和爱情。等待他的只有冷血和杀戮。只有踏着自己同伴的尸体，努力的活下去，爬出去……
+
+声明：本书不种马，不后宫，只有感情专一的女主，或是没有女主。
+
+<blockquote>优质订阅书源，收集于网络！
+
+
+
+文本由河洛校对！</blockquote>
+
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-469147912" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

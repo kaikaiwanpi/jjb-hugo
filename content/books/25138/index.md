@@ -1,0 +1,38 @@
+---
+title: "《女权世界的真汉子》（校对版全本）作者：二次元的土豆 txt全集下载"
+date: 2020-10-20T09:30:32.000000
+url: "/25138.html"
+slug: "25138"
+description: "【TXT大小】：3.29 MB 【内容简介】： 张浩看完百年难得一见的血月后昏倒，醒来后发现整个世界都变了…… ···"
+categories: ["二次元"]
+tags: ["穿越文", "原生幻想", "二次元的土豆"]
+views: 1901
+download: "http://down.jingjiaoba.com/file/20532056-466586700"
+---
+<img class="alignnone size-full wp-image-25187" src="/media/uploads/2020/10/nyu-quan-shi-jie-di-zhen-han-zi-jiao-dui-ban-quan-ben-zuo.jpg" width="180" height="240" alt="《女权世界的真汉子》（校对版全本）作者：二次元的土豆 txt全集下载" title="《女权世界的真汉子》（校对版全本）作者：二次元的土豆 txt全集下载" />
+
+
+
+【TXT大小】：3.29 MB
+
+【内容简介】：
+
+张浩看完百年难得一见的血月后昏倒，醒来后发现整个世界都变了……
+
+男女属性还有观念完全颠倒，女嫁男变成男嫁女，女方还要付礼金。女人赚钱养家，男人在家当家庭主夫已经变得十分正常，没车没房的女人会被人看不起，甚至找不到男人。
+
+女追男很正常，男追女叫倒追……男人们还都在说女人是靠下半身思考的动物？
+
+离婚多年，原本毫无女人缘的父亲甚至被有女儿的上司倒追五年，这才勉强同意和她再婚，连肌肉猛男挚友都变成一只软弱的嘤嘤怪！
+
+动不动还会被大妈尾随，手臂在女人眼中变得女人大腿在男人眼中一样，一不小心露出来就会让女人吞口水，甚至偷拍……
+
+但就算是这样的世界张浩也依然要坚守本心当个正常的男子汉！
+
+<blockquote>优质订阅书源，收集于网络！
+
+
+
+文本由河洛校对！</blockquote>
+
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586700" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

@@ -1,0 +1,44 @@
+---
+title: "《剧透诸天万界》（校对版全本）作者：双子座游鱼 txt全集下载"
+date: 2020-09-26T09:30:21.000000
+url: "/25115.html"
+slug: "25115"
+description: "【TXT大小】：2.42 MB 【内容简介】： 本书又名：《克苏鲁万界的幕后黑手》《剧透的正确打开方式》《我 ···"
+categories: ["精校奇幻", "二次元"]
+tags: ["时空穿梭", "同人小说", "黑暗幻想", "双子座游鱼"]
+views: 2962
+download: "http://down.jingjiaoba.com/file/20532056-462140549"
+---
+<img class="alignnone size-full wp-image-25128" src="/media/uploads/2020/09/ju-tou-zhu-tian-wan-jie-jiao-dui-ban-quan-ben-zuo-zhe.jpg" width="180" height="240" alt="《剧透诸天万界》（校对版全本）作者：双子座游鱼 txt全集下载" title="《剧透诸天万界》（校对版全本）作者：双子座游鱼 txt全集下载" />
+
+
+
+【TXT大小】：2.42 MB
+
+【内容简介】：
+
+本书又名：《克苏鲁万界的幕后黑手》《剧透的正确打开方式》《我的见面对象不可能都这么大佬》
+
+……
+
+黑暗与诡异复苏的诸天万界，凌驾于无尽世界之外的迷雾议会！
+
+参与此议会者，不是一方世界的顶尖大人物，就是天命主角，或是担当世界历史转折点的重要人物。
+
+白胡子，宇智波斑，托尼斯塔克，蝙蝠侠……叶天帝……独孤败天……荒天帝……
+
+他们聚集于此的唯一目的，就是将原初邪神探向诸天万界的手全都斩断。
+
+苏寒高坐在王座上，俯瞰着下方皆是一方巨头的大佬议员，默默点了点头，“是的，就是这样！你们脑补的都对。”
+
+……
+
+元素：剧透，克苏鲁，迷雾议会，线上交友（非线上聊天群）
+
+<blockquote>优质订阅书源，收集于网络！
+
+
+
+文本由河洛校对！</blockquote>
+
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-462140549" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

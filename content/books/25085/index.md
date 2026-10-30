@@ -1,0 +1,42 @@
+---
+title: "《诸天降临大逃杀》（校对版全本）作者：离火加农炮 txt全集下载"
+date: 2020-09-18T09:30:49.000000
+url: "/25085.html"
+slug: "25085"
+description: "【TXT大小】：6.01 MB 【内容简介】： 神开启了诸天大逃杀游戏，随机被选中的人将会被送入战场，迎接来 ···"
+categories: ["精校奇幻"]
+tags: ["无限流", "同人小说", "黑暗幻想", "离火加农炮"]
+views: 2676
+download: "http://down.jingjiaoba.com/file/20532056-461573793"
+---
+<img class="alignnone size-full wp-image-25100" src="/media/uploads/2020/09/zhu-tian-jiang-lin-da-tao-sha-jiao-dui-ban-quan-ben-zuo-zhe.jpg" width="180" height="240" alt="《诸天降临大逃杀》（校对版全本）作者：离火加农炮 txt全集下载" title="《诸天降临大逃杀》（校对版全本）作者：离火加农炮 txt全集下载" />
+
+
+
+【TXT大小】：6.01 MB
+
+【内容简介】：
+
+神开启了诸天大逃杀游戏，随机被选中的人将会被送入战场，迎接来自诸天世界的杀戮者：半兽人，吸血鬼，外星入侵者，奥创机器人……
+
+或者被杀死。
+
+或者活下来，得到来自诸天世界的能力、武器、血脉以及黑科技。
+
+宿醉昏睡的叶垂，一觉醒来就发现自己来到了一个奇怪的地方，咦？地下有一把刀子，他刚捡起来转过身，就只听噗嗤一声，一个隐身的家伙撞到了他的刀子上——戴着魔戒的咕噜？
+
+恭喜你，你获得传奇物品，魔戒。
+
+叶垂：“？？？”
+
+……
+
+简单来说，这是一个开了隐身挂的老阴逼参加诸天大逃杀的故事……
+
+<blockquote>优质订阅书源，收集于网络！
+
+
+
+文本由河洛校对！</blockquote>
+
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461573793" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

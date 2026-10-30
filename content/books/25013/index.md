@@ -1,0 +1,43 @@
+---
+title: "《城姬三国》（校对版全本）作者：绅士东 txt全集下载"
+date: 2020-08-23T09:31:45.000000
+url: "/25013.html"
+slug: "25013"
+description: "【TXT大小】：3.16 MB 【内容简介】： 穿越的白图发现，自己似乎到了一个奇怪的世界？ 激光做刃的方天 ···"
+categories: ["二次元"]
+tags: ["穿越文", "绅士东", "原生幻想"]
+views: 1616
+download: "http://down.jingjiaoba.com/file/20532056-458686478"
+image: cover.jpg
+---
+<img class="alignnone size-full wp-image-25021" src="/media/uploads/2020/08/zi-dong-cao-gao-1.jpg" width="180" height="240" alt="自动草稿" title="自动草稿" />
+
+
+
+【TXT大小】：3.16 MB
+
+【内容简介】：
+
+穿越的白图发现，自己似乎到了一个奇怪的世界？
+
+激光做刃的方天画戟、爆发加速度惊人的赤兔引擎、射程五百米的龙舌狙击弓……看着驾驶着两米多高的外骨骼式机甲的吕布，白图有一句“求大腿”不知该不该讲！
+
+“你、你就是新任的沛郡太守吗？我是……小沛姬，目前小沛城……防5887、粮35132、人力20871，科技树可以看这边的图示……”
+
+看着眼前的一副土妹子模样的小沛姬，白图彻底凌乱了！
+
+东汉末年，群雄争霸……
+
+谁，将成为天下十三“州姬”新的主人？
+
+城姬，究竟是人工智能还是信仰生命？
+
+P.s：看好作品分类，别用历史小说的角度衡量本书哦~
+
+<blockquote>优质订阅书源，收集于网络！
+
+
+
+文本由河洛校对！</blockquote>
+
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-458686478" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>

@@ -1,0 +1,30 @@
+---
+title: "《电影世界逍遥行》（校对版全本）作者：绿豆冰糖水 txt全集下载"
+date: 2020-09-14T09:30:42.000000
+url: "/25054.html"
+slug: "25054"
+description: "【TXT大小】：9.31 MB 【内容简介】： 一直倒霉的叶玄意外的得到了一套能够让他进入梦幻世界历练修行的 ···"
+categories: ["精校科幻"]
+tags: ["时空穿梭", "系统类", "同人小说", "绿豆冰糖水"]
+views: 2801
+download: "http://down.jingjiaoba.com/file/20532056-461018990"
+---
+<img class="alignnone size-full wp-image-25075" src="/media/uploads/2020/09/dian-ying-shi-jie-xiao-yao-xing-jiao-dui-ban-quan-ben-zuo.jpg" width="180" height="240" alt="《电影世界逍遥行》（校对版全本）作者：绿豆冰糖水 txt全集下载" title="《电影世界逍遥行》（校对版全本）作者：绿豆冰糖水 txt全集下载" />
+
+
+
+【TXT大小】：9.31 MB
+
+【内容简介】：
+
+一直倒霉的叶玄意外的得到了一套能够让他进入梦幻世界历练修行的幻梦系统，在《黄飞鸿》中学习武术；在《赌圣》中学习赌术、异能；在《生化危机》中与丧尸共舞；在《灵幻先生》中与九叔一起打僵尸；在《笑傲江湖》中纵横嬉戏；在《环太平洋》中驾驶机甲打怪兽；在《死神来了》中与死神斗智斗勇；在《风云》中获取长生不死……
+
+还有《变形金刚》、还有《复仇者联盟》、还有《蜀山》，还有《大话西游》……无尽的梦幻世界，无尽的幻想，在层层的枷锁中解开系统的束缚，还得真我自在逍遥……
+
+<blockquote>优质订阅书源，收集于网络！
+
+
+
+文本由河洛校对！</blockquote>
+
+<div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461018990" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
