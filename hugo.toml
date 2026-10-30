@@ -47,3 +47,12 @@ enableRobotsTXT = true
 
     [cookies]
         enabled = false
+
+[markup]
+    [markup.goldmark.renderer]
+        unsafe = true
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+    section = ["HTML", "RSS"]
+    page = ["HTML"]
