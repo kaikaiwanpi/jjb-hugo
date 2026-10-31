@@ -386,12 +386,20 @@ a:focus-visible, button:focus-visible, .dl-btn:focus-visible {
     .article-list article.has-image:hover { transform: none; }
 }
 
-@media (max-width: 767px) {
-    .hero { padding-top: 24px; margin-bottom: 32px; }
-    .hero__stats { gap: 26px; }
+@media (max-width: 699px) {
+    .hero { padding-top: 24px; margin-bottom: 28px; }
+    .hero__stats { gap: 24px; }
     .hero__chips { margin-bottom: -16px; }
-    .article-list { gap: 20px; }
-    .article-list article .article-details { padding: 18px 18px 20px; }
+
+    /* 手机端两列小卡，封面不再占满整屏 */
+    .article-list { grid-template-columns: repeat(2, 1fr); gap: 18px 12px; }
+    .article-list article .article-details { padding: 10px 11px 12px; }
+    .article-list .article-title { font-size: 13px; -webkit-line-clamp: 2; }
+    .article-list .article-subtitle { font-size: 11px; -webkit-line-clamp: 2; margin-bottom: 8px; }
+    .article-list .article-meta { font-size: 10px; }
+    .article-list .article-category { top: 8px; left: 8px; }
+    .article-list .article-category a { padding: 3px 7px; font-size: 9px; }
+    .article-list article .article-image::after { display: none; }
 }
 
 
