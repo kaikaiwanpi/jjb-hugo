@@ -1,9 +1,12 @@
 ---
-title: "《太太请自重》（校对版全本）作者：刘家长子 txt全集下载"
+title: "《太太请自重》（校对版全本）"
+fullTitle: "《太太请自重》（校对版全本）作者：刘家长子 txt全集下载"
+book: "太太请自重"
+author: "刘家长子"
 date: 2020-06-11T11:13:05.000000
 url: "/24648.html"
 slug: "24648"
-description: "【TXT大小】：2.24 MB 【内容简介】： 穿越过来，直接略过恋爱的步骤，喜提一儿一女 刘长青很忧郁 大儿 ···"
+description: "作者：刘家长子 · 2.24 MB · 穿越过来，直接略过恋爱的步骤，喜提一儿一女 刘长青很忧郁 大儿 ···"
 categories: ["精校都市"]
 tags: ["穿越文", "穿越重生", "现代都市", "都市情感", "刘家长子"]
 views: 3859
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-448591216"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-448591216" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：2.24 MB
 
 【内容简介】：
 

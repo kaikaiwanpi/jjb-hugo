@@ -1,17 +1,18 @@
 ---
-title: "《我有一座冒险屋(我有一座恐怖屋)》（校对版全本）作者：我会修空调 txt全集下载"
+title: "《我有一座冒险屋(我有一座恐怖屋)》（校对版全本）"
+fullTitle: "《我有一座冒险屋(我有一座恐怖屋)》（校对版全本）作者：我会修空调 txt全集下载"
+book: "我有一座冒险屋(我有一座恐怖屋)"
+author: "我会修空调"
 date: 2020-11-10T09:28:18.000000
 url: "/25228.html"
 slug: "25228"
-description: "【TXT大小】：6.26 MB 【内容简介】： 散发异味的灵车停在了门口，天花板传来弹珠碰撞的声音，走廊里有 ···"
+description: "作者：我会修空调 · 6.26 MB · 散发异味的灵车停在了门口，天花板传来弹珠碰撞的声音，走廊里有 ···"
 categories: ["精校灵异"]
 tags: ["悬疑推理", "系统类", "搞笑灵异", "我会修空调"]
 views: 8783
 download: "http://down.jingjiaoba.com/file/20532056-469147905"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-469147905" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：6.26 MB
 
 【内容简介】：
 

@@ -1,9 +1,12 @@
 ---
-title: "《城姬三国》（校对版全本）作者：绅士东 txt全集下载"
+title: "《城姬三国》（校对版全本）"
+fullTitle: "《城姬三国》（校对版全本）作者：绅士东 txt全集下载"
+book: "城姬三国"
+author: "绅士东"
 date: 2020-08-23T09:31:45.000000
 url: "/25013.html"
 slug: "25013"
-description: "【TXT大小】：3.16 MB 【内容简介】： 穿越的白图发现，自己似乎到了一个奇怪的世界？ 激光做刃的方天 ···"
+description: "作者：绅士东 · 3.16 MB · 穿越的白图发现，自己似乎到了一个奇怪的世界？ 激光做刃的方天 ···"
 categories: ["二次元"]
 tags: ["穿越文", "绅士东", "原生幻想"]
 views: 1616
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-458686478"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-458686478" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.16 MB
 
 【内容简介】：
 

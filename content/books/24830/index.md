@@ -1,17 +1,18 @@
 ---
-title: "《洪荒之天帝纪年》（校对版全本）作者：击楫中流 txt全集下载"
+title: "《洪荒之天帝纪年》（校对版全本）"
+fullTitle: "《洪荒之天帝纪年》（校对版全本）作者：击楫中流 txt全集下载"
+book: "洪荒之天帝纪年"
+author: "击楫中流"
 date: 2020-07-23T09:30:30.000000
 url: "/24830.html"
 slug: "24830"
-description: "【TXT大小】：3.19 MB 【内容简介】： 一段苍莽洪荒的久远传说，一部至高天帝的恢弘史诗。 缘起于紫府 ···"
+description: "作者：击楫中流 · 3.19 MB · 一段苍莽洪荒的久远传说，一部至高天帝的恢弘史诗。 缘起于紫府 ···"
 categories: ["精校仙侠"]
 tags: ["修真文明", "洪荒流", "神话修真", "击楫中流"]
 views: 1805
 download: "http://down.jingjiaoba.com/file/20532056-454479833"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-454479833" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.19 MB
 
 【内容简介】：
 

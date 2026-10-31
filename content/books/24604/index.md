@@ -1,17 +1,18 @@
 ---
-title: "《会穿越的流浪星球》（校对版全本）作者：穿越地球 txt全集下载"
+title: "《会穿越的流浪星球》（校对版全本）"
+fullTitle: "《会穿越的流浪星球》（校对版全本）作者：穿越地球 txt全集下载"
+book: "会穿越的流浪星球"
+author: "穿越地球"
 date: 2020-06-03T12:00:50.000000
 url: "/24604.html"
 slug: "24604"
-description: "【TXT大小】：3.14 MB 【内容简介】： 当流浪地球穿越到无限世界，会发生什么事呢？ 三体舰队：“全体返 ···"
+description: "作者：穿越地球 · 3.14 MB · 当流浪地球穿越到无限世界，会发生什么事呢？ 三体舰队：“全体返 ···"
 categories: ["精校科幻", "二次元"]
 tags: ["时空穿梭", "同人小说", "穿越地球"]
 views: 1935
 download: "http://down.jingjiaoba.com/file/20532056-447790653"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-447790653" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.14 MB
 
 【内容简介】：
 

@@ -1,9 +1,12 @@
 ---
-title: "《诡异修仙世界(恐怖修仙世界)》（校对版全本）作者：龙蛇 txt全集下载"
+title: "《诡异修仙世界(恐怖修仙世界)》（校对版全本）"
+fullTitle: "《诡异修仙世界(恐怖修仙世界)》（校对版全本）作者：龙蛇 txt全集下载"
+book: "诡异修仙世界(恐怖修仙世界)"
+author: "龙蛇"
 date: 2020-08-24T09:30:04.000000
 url: "/25019.html"
 slug: "25019"
-description: "【TXT大小】：9.01 MB 【内容简介】： 若是可以选择，周凡永远不想降临这个恐怖世界，因为他感觉到了这 ···"
+description: "作者：龙蛇 · 9.01 MB · 若是可以选择，周凡永远不想降临这个恐怖世界，因为他感觉到了这 ···"
 categories: ["精校仙侠"]
 tags: ["穿越重生", "修真文明", "龙蛇"]
 views: 4586
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-458686481"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-458686481" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：9.01 MB
 
 【内容简介】：
 

@@ -1,9 +1,12 @@
 ---
-title: "《系统逼我做皇帝》（校对版全本）作者：景以 百度云txt全集下载"
+title: "《系统逼我做皇帝》（校对版全本）"
+fullTitle: "《系统逼我做皇帝》（校对版全本）作者：景以 百度云txt全集下载"
+book: "系统逼我做皇帝"
+author: "景以"
 date: 2020-11-24T09:30:11.000000
 url: "/25304.html"
 slug: "25304"
-description: "【TXT大小】：4.47 MB 【内容简介】： 萧锐穿越大夏国成为七皇子，母亲早亡、父皇不关心，无权无势，只 ···"
+description: "作者：景以 · 4.47 MB · 萧锐穿越大夏国成为七皇子，母亲早亡、父皇不关心，无权无势，只 ···"
 categories: ["精校历史"]
 tags: ["穿越重生", "系统类", "架空历史", "景以"]
 views: 2530
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-474010587"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-474010587" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.47 MB
 
 【内容简介】：
 

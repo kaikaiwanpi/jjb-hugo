@@ -1,17 +1,18 @@
 ---
-title: "《一世兵王》（校对版全本）作者：我本疯狂 txt全集下载"
+title: "《一世兵王》（校对版全本）"
+fullTitle: "《一世兵王》（校对版全本）作者：我本疯狂 txt全集下载"
+book: "一世兵王"
+author: "我本疯狂"
 date: 2020-11-09T09:28:40.000000
 url: "/25234.html"
 slug: "25234"
-description: "【TXT大小】：11.0 MB 【内容简介】： 他是国之利刃，也是令各国地下势力闻风丧胆的华夏龙王！ 他有一 ···"
+description: "作者：我本疯狂 · 11.0 MB · 他是国之利刃，也是令各国地下势力闻风丧胆的华夏龙王！ 他有一 ···"
 categories: ["精校军事", "精校都市"]
 tags: ["特工小说", "现代都市", "我本疯狂"]
 views: 3002
 download: "http://down.jingjiaoba.com/file/20532056-469147906"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-469147906" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：11.0 MB
 
 【内容简介】：
 

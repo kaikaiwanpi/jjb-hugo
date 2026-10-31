@@ -1,17 +1,18 @@
 ---
-title: "《进化之眼》（校对版全本）作者：亚舍罗  txt全集下载"
+title: "《进化之眼》（校对版全本）"
+fullTitle: "《进化之眼》（校对版全本）作者：亚舍罗  txt全集下载"
+book: "进化之眼"
+author: "亚舍罗"
 date: 2020-07-20T09:30:18.000000
 url: "/24810.html"
 slug: "24810"
-description: "【TXT大小】：9.41 MB 【内容简介】： 出门一把刀，装备全靠爆！ 网文写手白小文，被一颗神奇眼球带到 ···"
+description: "作者：亚舍罗 · 9.41 MB · 出门一把刀，装备全靠爆！ 网文写手白小文，被一颗神奇眼球带到 ···"
 categories: ["精校玄幻"]
 tags: ["系统类", "穿越异界", "异界玄幻", "游戏异界", "亚舍罗"]
 views: 3670
 download: "http://down.jingjiaoba.com/file/20532056-453676744"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-453676744" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：9.41 MB
 
 【内容简介】：
 

@@ -1,17 +1,18 @@
 ---
-title: "《这号有毒》（校对版全本）作者：幼儿园一把手 txt全集下载"
+title: "《这号有毒》（校对版全本）"
+fullTitle: "《这号有毒》（校对版全本）作者：幼儿园一把手 txt全集下载"
+book: "这号有毒"
+author: "幼儿园一把手"
 date: 2020-07-30T14:39:00.000000
 url: "/24871.html"
 slug: "24871"
-description: "【TXT大小】：2.49 MB 【内容简介】： 在《天尘》创建小号没多久的路浔，穿越到了这款仙侠类游戏里，成 ···"
+description: "作者：幼儿园一把手 · 2.49 MB · 在《天尘》创建小号没多久的路浔，穿越到了这款仙侠类游戏里，成 ···"
 categories: ["精校游戏"]
 tags: ["穿越重生", "网游小说", "虚拟网游", "游戏异界", "幼儿园一把手"]
 views: 3154
 download: "http://down.jingjiaoba.com/file/20532056-455109652"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455109652" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：2.49 MB
 
 【内容简介】：
 

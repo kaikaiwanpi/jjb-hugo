@@ -1,17 +1,18 @@
 ---
-title: "《我有一块属性板》（校对版全本）作者：易子七 txt全集下载"
+title: "《我有一块属性板》（校对版全本）"
+fullTitle: "《我有一块属性板》（校对版全本）作者：易子七 txt全集下载"
+book: "我有一块属性板"
+author: "易子七"
 date: 2020-10-25T09:30:14.000000
 url: "/25194.html"
 slug: "25194"
-description: "【TXT大小】：3.79 MB 【内容简介】： 你半夜一个人去教学楼拿书，不小心遇到了女妖。你开始害怕，于是 ···"
+description: "作者：易子七 · 3.79 MB · 你半夜一个人去教学楼拿书，不小心遇到了女妖。你开始害怕，于是 ···"
 categories: ["精校武侠"]
 tags: ["时空穿梭", "系统类", "武侠幻想", "易子七"]
 views: 3605
 download: "http://down.jingjiaoba.com/file/20532056-467978863"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-467978863" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.79 MB
 
 【内容简介】：
 

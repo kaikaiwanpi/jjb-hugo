@@ -1,9 +1,12 @@
 ---
-title: "《这个明星来自地球》（校对版全本）作者：关乌鸦 百度云TXT全集下载"
+title: "《这个明星来自地球》（校对版全本）"
+fullTitle: "《这个明星来自地球》（校对版全本）作者：关乌鸦 百度云TXT全集下载"
+book: "这个明星来自地球"
+author: "关乌鸦"
 date: 2020-12-17T09:30:05.000000
 url: "/25339.html"
 slug: "25339"
-description: "【TXT大小】：5.57 MB 【内容简介】： 尚在拼搏奋斗的影视小编剧韩觉，一觉醒来发现不仅自己变了，连世 ···"
+description: "作者：关乌鸦 · 5.57 MB · 尚在拼搏奋斗的影视小编剧韩觉，一觉醒来发现不仅自己变了，连世 ···"
 categories: ["精校娱乐"]
 tags: ["穿越重生", "娱乐明星", "关乌鸦"]
 views: 3463
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-476736217"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-476736217" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：5.57 MB
 
 【内容简介】：
 

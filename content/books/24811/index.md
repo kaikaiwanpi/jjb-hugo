@@ -1,17 +1,18 @@
 ---
-title: "《玩坏世界的垂钓者》（校对版全本）作者：为情成痴 txt全集下载"
+title: "《玩坏世界的垂钓者》（校对版全本）"
+fullTitle: "《玩坏世界的垂钓者》（校对版全本）作者：为情成痴 txt全集下载"
+book: "玩坏世界的垂钓者"
+author: "为情成痴"
 date: 2020-07-19T09:30:23.000000
 url: "/24811.html"
 slug: "24811"
-description: "【TXT大小】：4.15 MB 【内容简介】： 江博获得一个垂钓系统。 一开始，他只想钓些鱼翅、虎牙币、起点 ···"
+description: "作者：为情成痴 · 4.15 MB · 江博获得一个垂钓系统。 一开始，他只想钓些鱼翅、虎牙币、起点 ···"
 categories: ["精校都市"]
 tags: ["现代都市", "系统类", "为情成痴", "土豪小说"]
 views: 2099
 download: "http://down.jingjiaoba.com/file/20532056-453676736"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-453676736" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.15 MB
 
 【内容简介】：
 

@@ -1,17 +1,18 @@
 ---
-title: "《南宋第一卧底》（校对版全本+番外）作者：龙渊 txt全集下载"
+title: "《南宋第一卧底》（校对版全本+番外）"
+fullTitle: "《南宋第一卧底》（校对版全本+番外）作者：龙渊 txt全集下载"
+book: "南宋第一卧底"
+author: "龙渊"
 date: 2020-10-19T09:30:34.000000
 url: "/25139.html"
 slug: "25139"
-description: "【TXT大小】：15.3 MB 【内容简介】： 南宋嘉定十六年，来自现代的卧底沈墨，开始把江山社稷玩弄于股掌 ···"
+description: "作者：龙渊 · 15.3 MB · 南宋嘉定十六年，来自现代的卧底沈墨，开始把江山社稷玩弄于股掌 ···"
 categories: ["精校历史"]
 tags: ["两宋元明", "穿越重生", "龙渊"]
 views: 3821
 download: "http://down.jingjiaoba.com/file/20532056-466586716"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586716" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：15.3 MB
 
 【内容简介】：
 

@@ -1,17 +1,18 @@
 ---
-title: "《随身带个狩猎空间》（校对版全本）作者：青空洗雨 txt全集下载"
+title: "《随身带个狩猎空间》（校对版全本）"
+fullTitle: "《随身带个狩猎空间》（校对版全本）作者：青空洗雨 txt全集下载"
+book: "随身带个狩猎空间"
+author: "青空洗雨"
 date: 2020-07-04T09:30:45.000000
 url: "/24739.html"
 slug: "24739"
-description: "【TXT大小】：8.80 MB 【内容简介】： 陆泽穿越到了两千年后的星际时代。 前身自带常年秀恩爱虐狗的父 ···"
+description: "作者：青空洗雨 · 8.80 MB · 陆泽穿越到了两千年后的星际时代。 前身自带常年秀恩爱虐狗的父 ···"
 categories: ["精校玄幻"]
 tags: ["穿越文", "东方玄幻", "随身空间", "青空洗雨"]
 views: 2774
 download: "http://down.jingjiaoba.com/file/20532056-451736272"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-451736272" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：8.80 MB
 
 【内容简介】：
 

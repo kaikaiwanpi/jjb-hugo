@@ -1,9 +1,12 @@
 ---
-title: "《万界疯人院》（校对版全本）作者：肥瓜 百度云TXT全集下载"
+title: "《万界疯人院》（校对版全本）"
+fullTitle: "《万界疯人院》（校对版全本）作者：肥瓜 百度云TXT全集下载"
+book: "万界疯人院"
+author: "肥瓜"
 date: 2021-01-14T09:24:10.000000
 url: "/25429.html"
 slug: "25429"
-description: "【TXT大小】：2.73 MB 【内容简介】： 不知从什么时候起，世界上有了这样的一座精神病医院。 它曾出现 ···"
+description: "作者：肥瓜 · 2.73 MB · 不知从什么时候起，世界上有了这样的一座精神病医院。 它曾出现 ···"
 categories: ["精校科幻", "精校灵异"]
 tags: ["时空穿梭", "悬疑奇幻", "悬疑探险", "肥瓜"]
 views: 7280
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-478760117"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-478760117" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：2.73 MB
 
 【内容简介】：
 

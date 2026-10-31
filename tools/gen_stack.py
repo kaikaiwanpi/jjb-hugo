@@ -11,6 +11,8 @@ OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 
 N = int(sys.argv[1]) if len(sys.argv) > 1 else 300
 
 SITE = '精校吧 - 免费精校小说-校对全本TXT小说下载网'
+BOOKRE = re.compile(r'^《(.+?)》(.*?)作者[：:]\s*(.+?)\s*(?:百度云|txt|TXT|$)')
+SIZERE = re.compile(r'【TXT大小】[：:]\s*([0-9.]+\s*[MKG]B)', re.I)
 
 
 def fm_get(fm, key):
@@ -45,6 +47,18 @@ for f in files:
     tags = [x.split('name:')[-1].strip().strip('"').strip('}')
             for x in re.findall(r'\{name: "([^"]+)"', fm)]
 
+    m = BOOKRE.match(title)
+    if m:
+        book, edition, author = m.group(1).strip(), m.group(2).strip(), m.group(3).strip()
+        short_title = '《%s》%s' % (book, edition)
+    else:
+        book, author, short_title = title, '', title
+    size_m = SIZERE.search(desc or '')
+    size = size_m.group(1) if size_m else ''
+    intro = re.sub(r'^【TXT大小】[^【]*', '', desc or '')
+    intro = re.sub(r'^【内容简介】[：:]\s*', '', intro).strip()
+    subtitle = ' · '.join(x for x in ['作者：' + author if author else '', size, intro[:38]] if x)
+
     d = os.path.join(OUT, pid)
     os.makedirs(d, exist_ok=True)
     image_line = ''
@@ -57,6 +71,7 @@ for f in files:
 
     # 正文：去掉正文里的封面图（卡片和详情页已有封面），下载按钮放在最前面
     body_html = re.sub(r'<img[^>]*>', '', body)
+    body_html = re.sub(r'^\s*【TXT大小】[^\n]*\n+', '', body_html)   # 已在标题下的信息行里
     body_html = re.sub(r'\n{3,}', '\n\n', body_html).lstrip()
     cta = ''
     if dl:
@@ -64,11 +79,14 @@ for f in files:
                '去下载 TXT</a></div>\n\n' % dl)
 
     fm_lines = ['---',
-                'title: "%s"' % title.replace('"', '\\"'),
+                'title: "%s"' % short_title.replace('"', '\\"'),
+                'fullTitle: "%s"' % title.replace('"', '\\"'),
+                'book: "%s"' % book.replace('"', '\\"'),
+                'author: "%s"' % author.replace('"', '\\"'),
                 'date: %s' % date,
                 'url: "/%s.html"' % pid,
                 'slug: "%s"' % pid,
-                'description: "%s"' % (desc or title).replace('"', '\\"'),
+                'description: "%s"' % subtitle.replace('"', '\\"'),
                 'categories: [' + ', '.join('"%s"' % c for c in cats) + ']',
                 'tags: [' + ', '.join('"%s"' % t for t in tags) + ']',
                 'views: %s' % (views or 0),

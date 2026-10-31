@@ -1,9 +1,12 @@
 ---
-title: "《诡秘之主》（精校版全本）作者：爱潜水的乌贼 txt全集下载"
+title: "《诡秘之主》（精校版全本）"
+fullTitle: "《诡秘之主》（精校版全本）作者：爱潜水的乌贼 txt全集下载"
+book: "诡秘之主"
+author: "爱潜水的乌贼"
 date: 2020-05-15T01:25:34.000000
 url: "/24542.html"
 slug: "24542"
-description: "【TXT大小】：9.09 MB 【内容简介】： 蒸汽与机械的浪潮中，谁能触及非凡？历史和黑暗的迷雾里，又是谁 ···"
+description: "作者：爱潜水的乌贼 · 9.09 MB · 蒸汽与机械的浪潮中，谁能触及非凡？历史和黑暗的迷雾里，又是谁 ···"
 categories: ["精校奇幻"]
 tags: ["异界玄幻", "西方奇幻", "黑暗幻想", "爱潜水的乌贼"]
 views: 43757
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-443875833"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-443875833" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：9.09 MB
 
 【内容简介】：
 

@@ -1,9 +1,12 @@
 ---
-title: "《绝世丹神》（校对版全本）作者：网络黑侠 百度云TXT全集下载"
+title: "《绝世丹神》（校对版全本）"
+fullTitle: "《绝世丹神》（校对版全本）作者：网络黑侠 百度云TXT全集下载"
+book: "绝世丹神"
+author: "网络黑侠"
 date: 2021-01-02T09:25:07.000000
 url: "/25402.html"
 slug: "25402"
-description: "【TXT大小】：11.4 MB 【内容简介】： 重回十万年前，武道无双，强者遍地；丹道一途，却刚盛行！ 身为 ···"
+description: "作者：网络黑侠 · 11.4 MB · 重回十万年前，武道无双，强者遍地；丹道一途，却刚盛行！ 身为 ···"
 categories: ["精校玄幻"]
 tags: ["重生文", "东方玄幻", "网络黑侠"]
 views: 3647
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-478760098"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-478760098" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：11.4 MB
 
 【内容简介】：
 

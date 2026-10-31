@@ -1,17 +1,18 @@
 ---
-title: "《未来天王》（校对版全本）作者：陈词懒调 txt全集下载"
+title: "《未来天王》（校对版全本）"
+fullTitle: "《未来天王》（校对版全本）作者：陈词懒调 txt全集下载"
+book: "未来天王"
+author: "陈词懒调"
 date: 2020-07-11T09:30:33.000000
 url: "/24762.html"
 slug: "24762"
-description: "【TXT大小】：3.43 MB 【内容简介】： 末世时期战死的老军团长，重生为末世结束五百年后的新世纪小鲜肉 ···"
+description: "作者：陈词懒调 · 3.43 MB · 末世时期战死的老军团长，重生为末世结束五百年后的新世纪小鲜肉 ···"
 categories: ["精校娱乐"]
 tags: ["重生文", "娱乐明星", "陈词懒调", "未来世界"]
 views: 2503
 download: "http://down.jingjiaoba.com/file/20532056-452715469"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-452715469" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.43 MB
 
 【内容简介】：
 

@@ -1,9 +1,12 @@
 ---
-title: "《我能看见经验值》（校对版全本）作者：红颜三千 txt全集下载"
+title: "《我能看见经验值》（校对版全本）"
+fullTitle: "《我能看见经验值》（校对版全本）作者：红颜三千 txt全集下载"
+book: "我能看见经验值"
+author: "红颜三千"
 date: 2020-05-17T01:25:31.000000
 url: "/24541.html"
 slug: "24541"
-description: "【TXT大小】：4.69 MB 【内容简介】： 贺晓天在睡觉前，只是抱怨了一句无聊。 结果却在醒来后，发现整 ···"
+description: "作者：红颜三千 · 4.69 MB · 贺晓天在睡觉前，只是抱怨了一句无聊。 结果却在醒来后，发现整 ···"
 categories: ["精校科幻"]
 tags: ["穿越文", "超能进化", "系统类", "红颜三千"]
 views: 3507
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-443875848"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-443875848" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.69 MB
 
 【内容简介】：
 

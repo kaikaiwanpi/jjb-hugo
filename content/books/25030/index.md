@@ -1,9 +1,12 @@
 ---
-title: "《最强妖锋》（校对版全本）作者：tisword txt全集下载"
+title: "《最强妖锋》（校对版全本）"
+fullTitle: "《最强妖锋》（校对版全本）作者：tisword txt全集下载"
+book: "最强妖锋"
+author: "tisword"
 date: 2020-08-28T09:30:11.000000
 url: "/25030.html"
 slug: "25030"
-description: "【TXT大小】：4.07 MB 【内容简介】： 踢踢球，赢得别人赞赏，就能强化自身能力。 如果你有这样的金手 ···"
+description: "作者：tisword · 4.07 MB · 踢踢球，赢得别人赞赏，就能强化自身能力。 如果你有这样的金手 ···"
 categories: ["精校竞技"]
 tags: ["系统类", "足球小说", "tisword"]
 views: 1246
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-459814541"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-459814541" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.07 MB
 
 【内容简介】：
 

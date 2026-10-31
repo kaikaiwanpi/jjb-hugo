@@ -1,9 +1,12 @@
 ---
-title: "《南宋异闻录》（校对版全本）作者：月关 txt全集下载"
+title: "《南宋异闻录》（校对版全本）"
+fullTitle: "《南宋异闻录》（校对版全本）作者：月关 txt全集下载"
+book: "南宋异闻录"
+author: "月关"
 date: 2020-08-14T09:35:56.000000
 url: "/24958.html"
 slug: "24958"
-description: "【TXT大小】：3.25 MB 【内容简介】： 一个小小家丁，却牵扯着一个千古之秘。 一桩离奇命案，把一个恋 ···"
+description: "作者：月关 · 3.25 MB · 一个小小家丁，却牵扯着一个千古之秘。 一桩离奇命案，把一个恋 ···"
 categories: ["精校历史"]
 tags: ["架空历史", "月关"]
 views: 2718
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-457280874"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-457280874" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.25 MB
 
 【内容简介】：
 

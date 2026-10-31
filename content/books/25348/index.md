@@ -1,9 +1,12 @@
 ---
-title: "《我夺舍了太阳神》（校对版全本）作者：不吓人 百度云TXT全集下载"
+title: "《我夺舍了太阳神》（校对版全本）"
+fullTitle: "《我夺舍了太阳神》（校对版全本）作者：不吓人 百度云TXT全集下载"
+book: "我夺舍了太阳神"
+author: "不吓人"
 date: 2020-12-24T09:10:48.000000
 url: "/25348.html"
 slug: "25348"
-description: "【TXT大小】：2.40 MB 【内容简介】： 姜浩穿越到异界，还夺舍了太阳神，只是这个神在异界人人喊打。  ···"
+description: "作者：不吓人 · 2.40 MB · 姜浩穿越到异界，还夺舍了太阳神，只是这个神在异界人人喊打。  ···"
 categories: ["精校奇幻"]
 tags: ["时空穿梭", "游戏异界", "不吓人"]
 views: 3415
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-476736179"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-476736179" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：2.40 MB
 
 【内容简介】：
 

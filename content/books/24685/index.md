@@ -1,17 +1,18 @@
 ---
-title: "《我能追踪万物》（校对版全本）作者：武三毛 txt全集下载"
+title: "《我能追踪万物》（校对版全本）"
+fullTitle: "《我能追踪万物》（校对版全本）作者：武三毛 txt全集下载"
+book: "我能追踪万物"
+author: "武三毛"
 date: 2020-06-26T11:33:42.000000
 url: "/24685.html"
 slug: "24685"
-description: "【TXT大小】：4.33 MB 【内容简介】： 穿越仙侠世界，陈沉得到最强追踪系统，从此能追踪万物。 陈沉：“ ···"
+description: "作者：武三毛 · 4.33 MB · 穿越仙侠世界，陈沉得到最强追踪系统，从此能追踪万物。 陈沉：“ ···"
 categories: ["精校仙侠"]
 tags: ["穿越文", "幻想修仙", "系统类", "武三毛"]
 views: 2394
 download: "http://down.jingjiaoba.com/file/20532056-450418703"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450418703" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.33 MB
 
 【内容简介】：
 

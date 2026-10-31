@@ -1,9 +1,12 @@
 ---
-title: "《帝道独尊》（校对版全本）作者：一叶青天 txt全集下载"
+title: "《帝道独尊》（校对版全本）"
+fullTitle: "《帝道独尊》（校对版全本）作者：一叶青天 txt全集下载"
+book: "帝道独尊"
+author: "一叶青天"
 date: 2020-08-25T09:30:00.000000
 url: "/25017.html"
 slug: "25017"
-description: "【TXT大小】：15.1 MB 【内容简介】： 天地初始，宇宙洪荒； 奇门九遁，布道星空。 当地球尘封万古的雪 ···"
+description: "作者：一叶青天 · 15.1 MB · 天地初始，宇宙洪荒； 奇门九遁，布道星空。 当地球尘封万古的雪 ···"
 categories: ["精校玄幻"]
 tags: ["东方玄幻", "现代修真", "一叶青天"]
 views: 3005
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-458686484"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-458686484" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：15.1 MB
 
 【内容简介】：
 

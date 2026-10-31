@@ -1,9 +1,12 @@
 ---
-title: "《三国骑砍》（校对版全本）作者：中更 百度云TXT全集下载"
+title: "《三国骑砍》（校对版全本）"
+fullTitle: "《三国骑砍》（校对版全本）作者：中更 百度云TXT全集下载"
+book: "三国骑砍"
+author: "中更"
 date: 2020-12-21T09:30:32.000000
 url: "/25331.html"
 slug: "25331"
-description: "【TXT大小】：4.29 MB 【内容简介】： 田信来到建安二十四年春季的荆城，即将爆发的襄樊战役将决定今后 ···"
+description: "作者：中更 · 4.29 MB · 田信来到建安二十四年春季的荆城，即将爆发的襄樊战役将决定今后 ···"
 categories: ["精校历史"]
 tags: ["秦汉三国", "中更"]
 views: 2513
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-476736227"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-476736227" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.29 MB
 
 【内容简介】：
 

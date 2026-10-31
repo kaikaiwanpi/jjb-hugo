@@ -1,17 +1,18 @@
 ---
-title: "《诸天降临大逃杀》（校对版全本）作者：离火加农炮 txt全集下载"
+title: "《诸天降临大逃杀》（校对版全本）"
+fullTitle: "《诸天降临大逃杀》（校对版全本）作者：离火加农炮 txt全集下载"
+book: "诸天降临大逃杀"
+author: "离火加农炮"
 date: 2020-09-18T09:30:49.000000
 url: "/25085.html"
 slug: "25085"
-description: "【TXT大小】：6.01 MB 【内容简介】： 神开启了诸天大逃杀游戏，随机被选中的人将会被送入战场，迎接来 ···"
+description: "作者：离火加农炮 · 6.01 MB · 神开启了诸天大逃杀游戏，随机被选中的人将会被送入战场，迎接来 ···"
 categories: ["精校奇幻"]
 tags: ["无限流", "同人小说", "黑暗幻想", "离火加农炮"]
 views: 2676
 download: "http://down.jingjiaoba.com/file/20532056-461573793"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461573793" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：6.01 MB
 
 【内容简介】：
 

@@ -1,17 +1,18 @@
 ---
-title: "《女权世界的真汉子》（校对版全本）作者：二次元的土豆 txt全集下载"
+title: "《女权世界的真汉子》（校对版全本）"
+fullTitle: "《女权世界的真汉子》（校对版全本）作者：二次元的土豆 txt全集下载"
+book: "女权世界的真汉子"
+author: "二次元的土豆"
 date: 2020-10-20T09:30:32.000000
 url: "/25138.html"
 slug: "25138"
-description: "【TXT大小】：3.29 MB 【内容简介】： 张浩看完百年难得一见的血月后昏倒，醒来后发现整个世界都变了…… ···"
+description: "作者：二次元的土豆 · 3.29 MB · 张浩看完百年难得一见的血月后昏倒，醒来后发现整个世界都变了…… ···"
 categories: ["二次元"]
 tags: ["穿越文", "原生幻想", "二次元的土豆"]
 views: 1901
 download: "http://down.jingjiaoba.com/file/20532056-466586700"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586700" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.29 MB
 
 【内容简介】：
 

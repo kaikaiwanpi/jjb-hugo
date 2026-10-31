@@ -1,9 +1,12 @@
 ---
-title: "《法兰西之狐》（校对版全本）作者：奶瓶战斗机 百度云txt全集下载"
+title: "《法兰西之狐》（校对版全本）"
+fullTitle: "《法兰西之狐》（校对版全本）作者：奶瓶战斗机 百度云txt全集下载"
+book: "法兰西之狐"
+author: "奶瓶战斗机"
 date: 2020-12-05T09:30:00.000000
 url: "/25290.html"
 slug: "25290"
-description: "【TXT大小】：3.41 MB 【内容简介】： 一个天然怂的工科男，因为某种不明的原因，穿越到了大革命之前的 ···"
+description: "作者：奶瓶战斗机 · 3.41 MB · 一个天然怂的工科男，因为某种不明的原因，穿越到了大革命之前的 ···"
 categories: ["精校历史"]
 tags: ["外国历史", "奶瓶战斗机"]
 views: 2124
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-474010586"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-474010586" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.41 MB
 
 【内容简介】：
 

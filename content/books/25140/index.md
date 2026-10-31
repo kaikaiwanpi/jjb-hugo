@@ -1,17 +1,18 @@
 ---
-title: "《从观众席走向娱乐圈》（校对版全本）作者：杯盏长生酒 txt全集下载"
+title: "《从观众席走向娱乐圈》（校对版全本）"
+fullTitle: "《从观众席走向娱乐圈》（校对版全本）作者：杯盏长生酒 txt全集下载"
+book: "从观众席走向娱乐圈"
+author: "杯盏长生酒"
 date: 2020-10-18T09:30:38.000000
 url: "/25140.html"
 slug: "25140"
-description: "【TXT大小】：4.30 MB 【内容简介】： 直接重生在周董的演唱会上，许阳迷迷糊糊的坐在观众席上。 这时 ···"
+description: "作者：杯盏长生酒 · 4.30 MB · 直接重生在周董的演唱会上，许阳迷迷糊糊的坐在观众席上。 这时 ···"
 categories: ["精校娱乐"]
 tags: ["穿越重生", "娱乐圈小说", "娱乐明星", "杯盏长生酒"]
 views: 2047
 download: "http://down.jingjiaoba.com/file/20532056-466586744"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586744" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.30 MB
 
 【内容简介】：
 

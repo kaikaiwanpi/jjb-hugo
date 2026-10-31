@@ -1,9 +1,12 @@
 ---
-title: "《逆成长巨星》（校对版全本）作者：葛洛夫街兄弟 txt全集下载"
+title: "《逆成长巨星》（校对版全本）"
+fullTitle: "《逆成长巨星》（校对版全本）作者：葛洛夫街兄弟 txt全集下载"
+book: "逆成长巨星"
+author: "葛洛夫街兄弟"
 date: 2020-06-19T11:34:12.000000
 url: "/24692.html"
 slug: "24692"
-description: "【TXT大小】：7.85 MB 【内容简介】： 暮年的“飞侠”已经无法飞翔，生涯末期的韦德再也划不出“闪电”。  ···"
+description: "作者：葛洛夫街兄弟 · 7.85 MB · 暮年的“飞侠”已经无法飞翔，生涯末期的韦德再也划不出“闪电”。  ···"
 categories: ["精校竞技"]
 tags: ["重生文", "篮球竞技", "系统类", "葛洛夫街兄弟"]
 views: 1675
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-450418713"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450418713" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：7.85 MB
 
 【内容简介】：
 

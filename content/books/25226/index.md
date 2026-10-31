@@ -1,9 +1,12 @@
 ---
-title: "《旧日主宰》（校对版全本）作者：月中阴 txt全集下载"
+title: "《旧日主宰》（校对版全本）"
+fullTitle: "《旧日主宰》（校对版全本）作者：月中阴 txt全集下载"
+book: "旧日主宰"
+author: "月中阴"
 date: 2020-11-02T09:28:11.000000
 url: "/25226.html"
 slug: "25226"
-description: "【TXT大小】：2.47 MB 【内容简介】： 你使用了外挂，催眠术提升九百九十九级。 你使用了外挂，融合了 ···"
+description: "作者：月中阴 · 2.47 MB · 你使用了外挂，催眠术提升九百九十九级。 你使用了外挂，融合了 ···"
 categories: ["精校玄幻"]
 tags: ["系统类", "穿越异界", "异界玄幻", "月中阴"]
 views: 2366
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-469147916"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-469147916" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：2.47 MB
 
 【内容简介】：
 

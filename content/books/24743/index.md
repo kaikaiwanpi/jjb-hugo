@@ -1,17 +1,18 @@
 ---
-title: "《明日未临》（校对版全本）作者：任秋溟 txt全集下载"
+title: "《明日未临》（校对版全本）"
+fullTitle: "《明日未临》（校对版全本）作者：任秋溟 txt全集下载"
+book: "明日未临"
+author: "任秋溟"
 date: 2020-07-09T09:30:53.000000
 url: "/24743.html"
 slug: "24743"
-description: "【TXT大小】：3.49 MB 【内容简介】： 2130年，太阳凭空熄灭，地球陷入冰封世界。 冰封纪元的最后一位 ···"
+description: "作者：任秋溟 · 3.49 MB · 2130年，太阳凭空熄灭，地球陷入冰封世界。 冰封纪元的最后一位 ···"
 categories: ["精校科幻"]
 tags: ["星际争霸", "未来世界", "任秋溟"]
 views: 2428
 download: "http://down.jingjiaoba.com/file/20532056-451736265"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-451736265" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.49 MB
 
 【内容简介】：
 

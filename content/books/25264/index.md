@@ -1,9 +1,12 @@
 ---
-title: "《获得主角能力的我只想过平凡生活》（校对版全本）作者：末羽 txt全集下载"
+title: "《获得主角能力的我只想过平凡生活》（校对版全本）"
+fullTitle: "《获得主角能力的我只想过平凡生活》（校对版全本）作者：末羽 txt全集下载"
+book: "获得主角能力的我只想过平凡生活"
+author: "末羽"
 date: 2020-11-19T09:30:38.000000
 url: "/25264.html"
 slug: "25264"
-description: "【TXT大小】：5.27 MB 【内容简介】： 王博忽然获得了主角们的能力，但他并不想要搞事，只想要过普通的 ···"
+description: "作者：末羽 · 5.27 MB · 王博忽然获得了主角们的能力，但他并不想要搞事，只想要过普通的 ···"
 categories: ["精校科幻"]
 tags: ["时空穿梭", "系统类", "同人小说", "末羽"]
 views: 3385
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-471015563"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-471015563" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：5.27 MB
 
 【内容简介】：
 

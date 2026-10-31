@@ -1,9 +1,12 @@
 ---
-title: "《星际之全能进化》（校对版全本）作者：星河圣光 百度云TXT全集下载"
+title: "《星际之全能进化》（校对版全本）"
+fullTitle: "《星际之全能进化》（校对版全本）作者：星河圣光 百度云TXT全集下载"
+book: "星际之全能进化"
+author: "星河圣光"
 date: 2020-12-14T09:30:29.000000
 url: "/25344.html"
 slug: "25344"
-description: "【TXT大小】：10.3 MB 【内容简介】： 胸无大志的机动步兵秦浩无意中击杀了出来历练的虫族皇子，意外获 ···"
+description: "作者：星河圣光 · 10.3 MB · 胸无大志的机动步兵秦浩无意中击杀了出来历练的虫族皇子，意外获 ···"
 categories: ["精校科幻"]
 tags: ["星际争霸", "未来世界", "星河圣光"]
 views: 3042
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-476736210"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-476736210" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：10.3 MB
 
 【内容简介】：
 

@@ -1,17 +1,18 @@
 ---
-title: "《荒野幸运神》（校对版全本）作者：罗秦 txt全集下载"
+title: "《荒野幸运神》（校对版全本）"
+fullTitle: "《荒野幸运神》（校对版全本）作者：罗秦 txt全集下载"
+book: "荒野幸运神"
+author: "罗秦"
 date: 2020-08-12T09:30:10.000000
 url: "/24921.html"
 slug: "24921"
-description: "【TXT大小】：3.53 MB 【内容简介】： 一穿越，就遇到一场飞机劫难，幸运不死流落到一个荒岛。 就在叶 ···"
+description: "作者：罗秦 · 3.53 MB · 一穿越，就遇到一场飞机劫难，幸运不死流落到一个荒岛。 就在叶 ···"
 categories: ["精校都市"]
 tags: ["穿越文", "系统类", "主播小说", "罗秦"]
 views: 2384
 download: "http://down.jingjiaoba.com/file/20532056-456125886"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-456125886" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.53 MB
 
 【内容简介】：
 

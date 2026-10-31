@@ -1,9 +1,12 @@
 ---
-title: "《剑徒之路》（校对版全本）作者：惰堕 txt全集下载"
+title: "《剑徒之路》（校对版全本）"
+fullTitle: "《剑徒之路》（校对版全本）作者：惰堕 txt全集下载"
+book: "剑徒之路"
+author: "惰堕"
 date: 2020-05-11T01:25:22.000000
 url: "/24538.html"
 slug: "24538"
-description: "【TXT大小】：9.94 MB 【内容简介】： 谁说没有丹药就不能精进？谁说不会炼器就没有神兵？谁说挫于制符 ···"
+description: "作者：惰堕 · 9.94 MB · 谁说没有丹药就不能精进？谁说不会炼器就没有神兵？谁说挫于制符 ···"
 categories: ["精校仙侠"]
 tags: ["幻想修仙", "玄幻修真", "修真文明", "惰堕"]
 views: 3726
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-443875835"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-443875835" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：9.94 MB
 
 【内容简介】：
 

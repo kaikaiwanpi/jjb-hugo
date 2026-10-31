@@ -1,9 +1,12 @@
 ---
-title: "《苍青之剑》（校对版全本）作者：幽祝 txt全集下载"
+title: "《苍青之剑》（校对版全本）"
+fullTitle: "《苍青之剑》（校对版全本）作者：幽祝 txt全集下载"
+book: "苍青之剑"
+author: "幽祝"
 date: 2020-10-12T09:30:55.000000
 url: "/25146.html"
 slug: "25146"
-description: "【TXT大小】：4.46 MB 【内容简介】： 第6纪241年，君士坦丁堡风雨飘摇。 皇帝君士坦丁御驾亲征，全军 ···"
+description: "作者：幽祝 · 4.46 MB · 第6纪241年，君士坦丁堡风雨飘摇。 皇帝君士坦丁御驾亲征，全军 ···"
 categories: ["精校游戏"]
 tags: ["穿越重生", "游戏异界", "幽祝"]
 views: 2542
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-466586749"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586749" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.46 MB
 
 【内容简介】：
 

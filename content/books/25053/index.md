@@ -1,9 +1,12 @@
 ---
-title: "《汉阙》（校对版全本）作者：七月新番 txt全集下载"
+title: "《汉阙》（校对版全本）"
+fullTitle: "《汉阙》（校对版全本）作者：七月新番 txt全集下载"
+book: "汉阙"
+author: "七月新番"
 date: 2020-09-04T09:20:36.000000
 url: "/25053.html"
 slug: "25053"
-description: "【TXT大小】：4.03 MB 【内容简介】： 蓦然回首千年，汉家宫阙依旧！ 时值汉昭帝元凤三年，朝中权臣当 ···"
+description: "作者：七月新番 · 4.03 MB · 蓦然回首千年，汉家宫阙依旧！ 时值汉昭帝元凤三年，朝中权臣当 ···"
 categories: ["精校历史"]
 tags: ["穿越重生", "秦汉三国", "七月新番"]
 views: 2736
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-461018976"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461018976" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.03 MB
 
 【内容简介】：
 

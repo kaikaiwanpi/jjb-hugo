@@ -1,9 +1,12 @@
 ---
-title: "《绝代名师》（校对版全本）作者：相思洗红豆 百度云txt全集下载"
+title: "《绝代名师》（校对版全本）"
+fullTitle: "《绝代名师》（校对版全本）作者：相思洗红豆 百度云txt全集下载"
+book: "绝代名师"
+author: "相思洗红豆"
 date: 2020-11-28T09:30:04.000000
 url: "/25303.html"
 slug: "25303"
-description: "【TXT大小】：9.50 MB 【内容简介】： 市二中的金牌老师孙默落水后，来到了中州唐国，成了一个刚毕业的 ···"
+description: "作者：相思洗红豆 · 9.50 MB · 市二中的金牌老师孙默落水后，来到了中州唐国，成了一个刚毕业的 ···"
 categories: ["精校玄幻"]
 tags: ["系统类", "穿越异界", "异界玄幻", "相思洗红豆"]
 views: 3409
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-474010609"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-474010609" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：9.50 MB
 
 【内容简介】：
 

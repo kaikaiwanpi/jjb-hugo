@@ -1,9 +1,12 @@
 ---
-title: "《饲养全人类》（校对版全本）作者：三百斤的微笑 百度云TXT全集下载"
+title: "《饲养全人类》（校对版全本）"
+fullTitle: "《饲养全人类》（校对版全本）作者：三百斤的微笑 百度云TXT全集下载"
+book: "饲养全人类"
+author: "三百斤的微笑"
 date: 2020-12-07T09:30:43.000000
 url: "/25333.html"
 slug: "25333"
-description: "【TXT大小】：8.99 MB 【内容简介】： 部落农耕时代，世界是庞大未知的。 随着不断的探索，古人惊骇的 ···"
+description: "作者：三百斤的微笑 · 8.99 MB · 部落农耕时代，世界是庞大未知的。 随着不断的探索，古人惊骇的 ···"
 categories: ["精校科幻"]
 tags: ["超能进化", "系统类", "三百斤的微笑"]
 views: 2541
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-476736184"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-476736184" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：8.99 MB
 
 【内容简介】：
 

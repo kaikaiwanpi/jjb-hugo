@@ -1,17 +1,18 @@
 ---
-title: "《秘巫之主》（校对版全本）作者：真愚老人 txt全集下载"
+title: "《秘巫之主》（校对版全本）"
+fullTitle: "《秘巫之主》（校对版全本）作者：真愚老人 txt全集下载"
+book: "秘巫之主"
+author: "真愚老人"
 date: 2020-10-29T09:30:33.000000
 url: "/25199.html"
 slug: "25199"
-description: "【TXT大小】：7.49 MB 【内容简介】： 当持续百年的灵障被神秘的流星撞碎，消失的灵气开始复苏，神秘侧 ···"
+description: "作者：真愚老人 · 7.49 MB · 当持续百年的灵障被神秘的流星撞碎，消失的灵气开始复苏，神秘侧 ···"
 categories: ["精校奇幻"]
 tags: ["穿越重生", "系统类", "现代魔法", "真愚老人"]
 views: 2404
 download: "http://down.jingjiaoba.com/file/20532056-467978855"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-467978855" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：7.49 MB
 
 【内容简介】：
 

@@ -1,17 +1,18 @@
 ---
-title: "《逍遥派》（校对版全本）作者：白马出淤泥 txt全集下载"
+title: "《逍遥派》（校对版全本）"
+fullTitle: "《逍遥派》（校对版全本）作者：白马出淤泥 txt全集下载"
+book: "逍遥派"
+author: "白马出淤泥"
 date: 2020-06-18T10:30:22.000000
 url: "/24665.html"
 slug: "24665"
-description: "【TXT大小】：18.9 MB 【内容简介】： 一本《南华经》，一篇《逍遥游》，引出天下功法秘笈无数。 一介 ···"
+description: "作者：白马出淤泥 · 18.9 MB · 一本《南华经》，一篇《逍遥游》，引出天下功法秘笈无数。 一介 ···"
 categories: ["精校武侠"]
 tags: ["穿越重生", "武侠幻想", "白马出淤泥"]
 views: 4085
 download: "http://down.jingjiaoba.com/file/20532056-449190807"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-449190807" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：18.9 MB
 
 【内容简介】：
 

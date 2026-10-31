@@ -1,9 +1,12 @@
 ---
-title: "《这个忍者明明不强却过分作死》（校对版全本）作者：无面凄凉 txt全集下载"
+title: "《这个忍者明明不强却过分作死》（校对版全本）"
+fullTitle: "《这个忍者明明不强却过分作死》（校对版全本）作者：无面凄凉 txt全集下载"
+book: "这个忍者明明不强却过分作死"
+author: "无面凄凉"
 date: 2020-10-08T09:30:11.000000
 url: "/25150.html"
 slug: "25150"
-description: "【TXT大小】：3.29 MB 【内容简介】： 叮！ 系统激活任务已开启！ 看看你面前这个病入膏肓的糟老头子， ···"
+description: "作者：无面凄凉 · 3.29 MB · 叮！ 系统激活任务已开启！ 看看你面前这个病入膏肓的糟老头子， ···"
 categories: ["二次元"]
 tags: ["穿越文", "系统类", "同人小说", "无面凄凉"]
 views: 1875
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-466586768"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586768" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.29 MB
 
 【内容简介】：
 

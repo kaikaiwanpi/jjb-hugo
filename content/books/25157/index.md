@@ -1,9 +1,12 @@
 ---
-title: "《穿梭时空的侠客》（校对版全本）作者：牵牛喂大将军 txt全集下载"
+title: "《穿梭时空的侠客》（校对版全本）"
+fullTitle: "《穿梭时空的侠客》（校对版全本）作者：牵牛喂大将军 txt全集下载"
+book: "穿梭时空的侠客"
+author: "牵牛喂大将军"
 date: 2020-10-01T09:30:35.000000
 url: "/25157.html"
 slug: "25157"
-description: "【TXT大小】：8.58 MB 【内容简介】： 十步杀一人，千里不留行。事了拂衣去，深藏身与名…… 侠之大者， ···"
+description: "作者：牵牛喂大将军 · 8.58 MB · 十步杀一人，千里不留行。事了拂衣去，深藏身与名…… 侠之大者， ···"
 categories: ["精校武侠"]
 tags: ["时空穿梭", "系统类", "武侠幻想", "牵牛喂大将军"]
 views: 2629
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-466586751"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586751" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：8.58 MB
 
 【内容简介】：
 

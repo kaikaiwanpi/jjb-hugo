@@ -1,9 +1,12 @@
 ---
-title: "《我把女骑士养成死宅女》（校对版全本）作者：海底熔岩 txt全集下载"
+title: "《我把女骑士养成死宅女》（校对版全本）"
+fullTitle: "《我把女骑士养成死宅女》（校对版全本）作者：海底熔岩 txt全集下载"
+book: "我把女骑士养成死宅女"
+author: "海底熔岩"
 date: 2020-08-23T09:30:46.000000
 url: "/25018.html"
 slug: "25018"
-description: "【TXT大小】：2.22 MB 【内容简介】： “我马上就睡。” “我最后玩一个回合。” “熬夜伤身体，通宵就好了” ···"
+description: "作者：海底熔岩 · 2.22 MB · “我马上就睡。” “我最后玩一个回合。” “熬夜伤身体，通宵就好了” ···"
 categories: ["二次元"]
 tags: ["游戏异界", "海底熔岩", "原生幻想"]
 views: 1841
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-458686475"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-458686475" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：2.22 MB
 
 【内容简介】：
 

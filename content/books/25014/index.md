@@ -1,9 +1,12 @@
 ---
-title: "《大良医》（校对版全本）作者：雪儿格格 txt全集下载"
+title: "《大良医》（校对版全本）"
+fullTitle: "《大良医》（校对版全本）作者：雪儿格格 txt全集下载"
+book: "大良医"
+author: "雪儿格格"
 date: 2020-08-25T09:31:26.000000
 url: "/25014.html"
 slug: "25014"
-description: "【TXT大小】：3.79 MB 【内容简介】： 急诊医生周恒，魂穿古代。 标配的白胡子老爷爷在哪儿呢？图书馆 ···"
+description: "作者：雪儿格格 · 3.79 MB · 急诊医生周恒，魂穿古代。 标配的白胡子老爷爷在哪儿呢？图书馆 ···"
 categories: ["精校历史"]
 tags: ["穿越文", "架空历史", "医师小说", "雪儿格格"]
 views: 3136
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-458686493"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-458686493" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.79 MB
 
 【内容简介】：
 

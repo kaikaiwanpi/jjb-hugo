@@ -1,9 +1,12 @@
 ---
-title: "《祖宗在上》（校对版全本）作者：二木七 百度云TXT全集下载"
+title: "《祖宗在上》（校对版全本）"
+fullTitle: "《祖宗在上》（校对版全本）作者：二木七 百度云TXT全集下载"
+book: "祖宗在上"
+author: "二木七"
 date: 2021-01-01T09:25:06.000000
 url: "/25401.html"
 slug: "25401"
-description: "【TXT大小】：3.02 MB 【内容简介】： “这是系统？我的金手指？我特么都死了才给我？” 陆青穿越修真世 ···"
+description: "作者：二木七 · 3.02 MB · “这是系统？我的金手指？我特么都死了才给我？” 陆青穿越修真世 ···"
 categories: ["精校玄幻"]
 tags: ["系统类", "穿越异界", "异界玄幻", "二木七"]
 views: 3221
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-478760148"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-478760148" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.02 MB
 
 【内容简介】：
 

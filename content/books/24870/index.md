@@ -1,17 +1,18 @@
 ---
-title: "《造车》（校对版全本）作者：榕之子 txt全集下载"
+title: "《造车》（校对版全本）"
+fullTitle: "《造车》（校对版全本）作者：榕之子 txt全集下载"
+book: "造车"
+author: "榕之子"
 date: 2020-07-27T14:38:59.000000
 url: "/24870.html"
 slug: "24870"
-description: "【TXT大小】：4.74 MB 【内容简介】： “我想造车！” 韩皓一本正经说道。 “就你——” 周围的人都笑了，其 ···"
+description: "作者：榕之子 · 4.74 MB · “我想造车！” 韩皓一本正经说道。 “就你——” 周围的人都笑了，其 ···"
 categories: ["精校都市"]
 tags: ["现代都市", "商道小说", "榕之子"]
 views: 1946
 download: "http://down.jingjiaoba.com/file/20532056-455109650"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455109650" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.74 MB
 
 【内容简介】：
 

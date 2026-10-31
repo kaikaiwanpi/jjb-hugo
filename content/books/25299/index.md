@@ -1,9 +1,12 @@
 ---
-title: "《女帝的神级星卡师》（校对版全本）作者：箫锦鲤 百度云txt全集下载"
+title: "《女帝的神级星卡师》（校对版全本）"
+fullTitle: "《女帝的神级星卡师》（校对版全本）作者：箫锦鲤 百度云txt全集下载"
+book: "女帝的神级星卡师"
+author: "箫锦鲤"
 date: 2020-12-04T09:30:46.000000
 url: "/25299.html"
 slug: "25299"
-description: "【TXT大小】：3.27 MB 【内容简介】： 洛风穿越到异界，这里不仅有花里胡哨的卡牌，还有一个青梅竹马的 ···"
+description: "作者：箫锦鲤 · 3.27 MB · 洛风穿越到异界，这里不仅有花里胡哨的卡牌，还有一个青梅竹马的 ···"
 categories: ["精校玄幻"]
 tags: ["异界玄幻", "箫锦鲤"]
 views: 1989
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-474010408"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-474010408" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.27 MB
 
 【内容简介】：
 

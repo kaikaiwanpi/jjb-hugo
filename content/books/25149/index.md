@@ -1,9 +1,12 @@
 ---
-title: "《祖传土豪系统》（校对版全本）作者：第九倾城 txt全集下载"
+title: "《祖传土豪系统》（校对版全本）"
+fullTitle: "《祖传土豪系统》（校对版全本）作者：第九倾城 txt全集下载"
+book: "祖传土豪系统"
+author: "第九倾城"
 date: 2020-10-09T09:30:07.000000
 url: "/25149.html"
 slug: "25149"
-description: "【TXT大小】：4.66 MB 【内容简介】： 有一天，方觉宇的父母把他叫到书房。 方父：“儿子，你今年也满20 ···"
+description: "作者：第九倾城 · 4.66 MB · 有一天，方觉宇的父母把他叫到书房。 方父：“儿子，你今年也满20 ···"
 categories: ["精校都市"]
 tags: ["现代都市", "系统类", "土豪小说", "第九倾城"]
 views: 2004
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-466586766"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586766" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.66 MB
 
 【内容简介】：
 

@@ -1,9 +1,12 @@
 ---
-title: "《征服天国之曙光时代》（校对版全本）作者：实心熊 百度云txt全集下载"
+title: "《征服天国之曙光时代》（校对版全本）"
+fullTitle: "《征服天国之曙光时代》（校对版全本）作者：实心熊 百度云txt全集下载"
+book: "征服天国之曙光时代"
+author: "实心熊"
 date: 2020-12-03T09:30:38.000000
 url: "/25297.html"
 slug: "25297"
-description: "【TXT大小】：12.1 MB 【内容简介】： 那一年，达芬奇的蒙娜丽莎还没有露出她迷人微笑。 那一年，米开 ···"
+description: "作者：实心熊 · 12.1 MB · 那一年，达芬奇的蒙娜丽莎还没有露出她迷人微笑。 那一年，米开 ···"
 categories: ["精校历史"]
 tags: ["外国历史", "实心熊"]
 views: 1782
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-474010508"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-474010508" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：12.1 MB
 
 【内容简介】：
 

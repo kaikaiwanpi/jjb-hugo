@@ -1,17 +1,18 @@
 ---
-title: "《人间冰器》（校对版全本）作者：阚智 txt全集下载"
+title: "《人间冰器》（校对版全本）"
+fullTitle: "《人间冰器》（校对版全本）作者：阚智 txt全集下载"
+book: "人间冰器"
+author: "阚智"
 date: 2020-11-07T09:28:32.000000
 url: "/25232.html"
 slug: "25232"
-description: "【TXT大小】：7.54 MB 【内容简介】： “人间冰器”计划失败了，只有11幸存下来。他被送到了“魔鬼训练营” ···"
+description: "作者：阚智 · 7.54 MB · “人间冰器”计划失败了，只有11幸存下来。他被送到了“魔鬼训练营” ···"
 categories: ["精校科幻"]
 tags: ["超能进化", "黑暗幻想", "阚智"]
 views: 3458
 download: "http://down.jingjiaoba.com/file/20532056-469147912"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-469147912" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：7.54 MB
 
 【内容简介】：
 

@@ -1,9 +1,12 @@
 ---
-title: "《神话基因》（校对版全本）作者：鱼跃冲顶 txt全集下载"
+title: "《神话基因》（校对版全本）"
+fullTitle: "《神话基因》（校对版全本）作者：鱼跃冲顶 txt全集下载"
+book: "神话基因"
+author: "鱼跃冲顶"
 date: 2020-06-22T11:33:59.000000
 url: "/24689.html"
 slug: "24689"
-description: "【TXT大小】：2.70 MB 【内容简介】： 每一个神话，都是一条成神之路！ 人类踏入星河时代，古老的修行 ···"
+description: "作者：鱼跃冲顶 · 2.70 MB · 每一个神话，都是一条成神之路！ 人类踏入星河时代，古老的修行 ···"
 categories: ["精校玄幻"]
 tags: ["穿越重生", "东方玄幻", "系统类", "鱼跃冲顶"]
 views: 3046
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-450418706"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450418706" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：2.70 MB
 
 【内容简介】：
 

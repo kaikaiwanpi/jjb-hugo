@@ -1,17 +1,18 @@
 ---
-title: "《射程之内遍地真理》（校对版全本）作者：无火的余灰 txt全集下载"
+title: "《射程之内遍地真理》（校对版全本）"
+fullTitle: "《射程之内遍地真理》（校对版全本）作者：无火的余灰 txt全集下载"
+book: "射程之内遍地真理"
+author: "无火的余灰"
 date: 2020-07-28T14:47:19.000000
 url: "/24873.html"
 slug: "24873"
-description: "【TXT大小】：2.48 MB 【内容简介】： “我想到一个问题。” “？” “大部分怪异都惧怕阳光，而阳光是太阳 ···"
+description: "作者：无火的余灰 · 2.48 MB · “我想到一个问题。” “？” “大部分怪异都惧怕阳光，而阳光是太阳 ···"
 categories: ["二次元"]
 tags: ["无火的余灰", "原生幻想"]
 views: 2306
 download: "http://down.jingjiaoba.com/file/20532056-455109666"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455109666" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：2.48 MB
 
 【内容简介】：
 

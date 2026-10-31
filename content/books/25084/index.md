@@ -1,17 +1,18 @@
 ---
-title: "《LCK的中国外援》（校对版全本）作者：街区转角 txt全集下载"
+title: "《LCK的中国外援》（校对版全本）"
+fullTitle: "《LCK的中国外援》（校对版全本）作者：街区转角 txt全集下载"
+book: "LCK的中国外援"
+author: "街区转角"
 date: 2020-09-19T09:30:43.000000
 url: "/25084.html"
 slug: "25084"
-description: "【TXT大小】：4.69 MB 【内容简介】： 英雄联盟从来都是韩援当道，这是一个中国人在LCK掌控雷电的故事 ···"
+description: "作者：街区转角 · 4.69 MB · 英雄联盟从来都是韩援当道，这是一个中国人在LCK掌控雷电的故事 ···"
 categories: ["精校竞技"]
 tags: ["网游小说", "系统类", "游戏竞技", "街区转角"]
 views: 1205
 download: "http://down.jingjiaoba.com/file/20532056-461573797"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461573797" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.69 MB
 
 【内容简介】：
 

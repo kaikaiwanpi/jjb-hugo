@@ -1,9 +1,12 @@
 ---
-title: "《一万年新手保护期》（校对版全本）作者：无籽甜瓜 百度云TXT全集下载"
+title: "《一万年新手保护期》（校对版全本）"
+fullTitle: "《一万年新手保护期》（校对版全本）作者：无籽甜瓜 百度云TXT全集下载"
+book: "一万年新手保护期"
+author: "无籽甜瓜"
 date: 2021-01-15T09:26:14.000000
 url: "/25430.html"
 slug: "25430"
-description: "【TXT大小】：4.11 MB 【内容简介】： 林冲可能是史上唯一一个，被‘卡住’的穿越人士。 在异界和地球之 ···"
+description: "作者：无籽甜瓜 · 4.11 MB · 林冲可能是史上唯一一个，被‘卡住’的穿越人士。 在异界和地球之 ···"
 categories: ["精校仙侠"]
 tags: ["系统类", "穿越异界", "修真文明", "神话修真", "无籽甜瓜"]
 views: 9137
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-478760131"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-478760131" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.11 MB
 
 【内容简介】：
 

@@ -1,9 +1,12 @@
 ---
-title: "《诸天大佬聊天室》（校对版全本）作者：笑畏余生 txt全集下载"
+title: "《诸天大佬聊天室》（校对版全本）"
+fullTitle: "《诸天大佬聊天室》（校对版全本）作者：笑畏余生 txt全集下载"
+book: "诸天大佬聊天室"
+author: "笑畏余生"
 date: 2020-09-17T09:30:59.000000
 url: "/25087.html"
 slug: "25087"
-description: "【TXT大小】：3.29 MB 【内容简介】： “叮，埼玉已加入诸天聊天群！” “叮，灭霸已加入诸天聊天群！” “ ···"
+description: "作者：笑畏余生 · 3.29 MB · “叮，埼玉已加入诸天聊天群！” “叮，灭霸已加入诸天聊天群！” “ ···"
 categories: ["精校玄幻", "二次元"]
 tags: ["时空穿梭", "东方玄幻", "系统类", "同人小说", "笑畏余生"]
 views: 2495
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-461573813"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461573813" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.29 MB
 
 【内容简介】：
 

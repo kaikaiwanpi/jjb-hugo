@@ -1,9 +1,12 @@
 ---
-title: "《超神机械师》（校对版全本）作者：齐佩甲 百度云TXT全集下载"
+title: "《超神机械师》（校对版全本）"
+fullTitle: "《超神机械师》（校对版全本）作者：齐佩甲 百度云TXT全集下载"
+book: "超神机械师"
+author: "齐佩甲"
 date: 2021-01-12T09:25:02.000000
 url: "/25427.html"
 slug: "25427"
-description: "【TXT大小】：10.5 MB 【内容简介】： 韩萧，《星海》骨灰级代练，被来自东（zuo）方（zhe）的神秘力量 ···"
+description: "作者：齐佩甲 · 10.5 MB · 韩萧，《星海》骨灰级代练，被来自东（zuo）方（zhe）的神秘力量 ···"
 categories: ["精校游戏"]
 tags: ["穿越异界", "游戏异界", "齐佩甲"]
 views: 9923
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-478760102"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-478760102" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：10.5 MB
 
 【内容简介】：
 

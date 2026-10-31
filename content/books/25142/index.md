@@ -1,17 +1,18 @@
 ---
-title: "《万千之心》（校对版全本）作者：滚开 txt全集下载"
+title: "《万千之心》（校对版全本）"
+fullTitle: "《万千之心》（校对版全本）作者：滚开 txt全集下载"
+book: "万千之心"
+author: "滚开"
 date: 2020-10-16T09:30:44.000000
 url: "/25142.html"
 slug: "25142"
-description: "【TXT大小】：3.43 MB 【内容简介】： 讲述一个普通人，意外得到一个能随机获得各种身份背景的系统的故 ···"
+description: "作者：滚开 · 3.43 MB · 讲述一个普通人，意外得到一个能随机获得各种身份背景的系统的故 ···"
 categories: ["女生言情"]
 tags: ["系统类", "异界玄幻", "黑暗幻想", "滚开"]
 views: 2659
 download: "http://down.jingjiaoba.com/file/20532056-466586663"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586663" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.43 MB
 
 【内容简介】：
 

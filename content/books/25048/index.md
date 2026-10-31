@@ -1,17 +1,18 @@
 ---
-title: "《三国有君子》（校对版全本）作者：臊眉耷目 txt全集下载"
+title: "《三国有君子》（校对版全本）"
+fullTitle: "《三国有君子》（校对版全本）作者：臊眉耷目 txt全集下载"
+book: "三国有君子"
+author: "臊眉耷目"
 date: 2020-09-13T09:30:37.000000
 url: "/25048.html"
 slug: "25048"
-description: "【TXT大小】：5.68 MB 【内容简介】： 穿越成了陶谦的长子陶商，居住在群狼四顾的徐州，今后当如何面对 ···"
+description: "作者：臊眉耷目 · 5.68 MB · 穿越成了陶谦的长子陶商，居住在群狼四顾的徐州，今后当如何面对 ···"
 categories: ["精校历史"]
 tags: ["秦汉三国", "臊眉耷目"]
 views: 1954
 download: "http://down.jingjiaoba.com/file/20532056-461019011"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461019011" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：5.68 MB
 
 【内容简介】：
 

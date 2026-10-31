@@ -1,17 +1,18 @@
 ---
-title: "《美漫大怪兽》（校对版全本）作者：七乐 txt全集下载"
+title: "《美漫大怪兽》（校对版全本）"
+fullTitle: "《美漫大怪兽》（校对版全本）作者：七乐 txt全集下载"
+book: "美漫大怪兽"
+author: "七乐"
 date: 2020-07-24T09:30:29.000000
 url: "/24829.html"
 slug: "24829"
-description: "【TXT大小】：3.69 MB 【内容简介】： 黑色的鳞片，不可名状的蓝色符文，缠绕着摩天大楼，在暗金色冷漠 ···"
+description: "作者：七乐 · 3.69 MB · 黑色的鳞片，不可名状的蓝色符文，缠绕着摩天大楼，在暗金色冷漠 ···"
 categories: ["二次元"]
 tags: ["穿越重生", "时空穿梭", "系统类", "同人小说", "七乐"]
 views: 1735
 download: "http://down.jingjiaoba.com/file/20532056-454479836"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-454479836" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.69 MB
 
 【内容简介】：
 

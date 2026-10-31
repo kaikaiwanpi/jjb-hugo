@@ -1,9 +1,12 @@
 ---
-title: "《生活系游戏》（校对版全本）作者：吨吨吨吨吨 百度云txt全集下载"
+title: "《生活系游戏》（校对版全本）"
+fullTitle: "《生活系游戏》（校对版全本）作者：吨吨吨吨吨 百度云txt全集下载"
+book: "生活系游戏"
+author: "吨吨吨吨吨"
 date: 2020-11-26T09:30:51.000000
 url: "/25288.html"
 slug: "25288"
-description: "【TXT大小】：4.92 MB 【内容简介】： 【一份卖相不好的宫保鸡丁】 从江枫无意中发现自己居然可以看到 ···"
+description: "作者：吨吨吨吨吨 · 4.92 MB · 【一份卖相不好的宫保鸡丁】 从江枫无意中发现自己居然可以看到 ···"
 categories: ["精校都市"]
 tags: ["现代都市", "系统类", "美食厨师", "吨吨吨吨吨"]
 views: 3229
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-474010379"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-474010379" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.92 MB
 
 【内容简介】：
 

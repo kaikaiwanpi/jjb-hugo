@@ -1,17 +1,18 @@
 ---
-title: "《覆手》（校对版全本）作者：虾写 txt全集下载"
+title: "《覆手》（校对版全本）"
+fullTitle: "《覆手》（校对版全本）作者：虾写 txt全集下载"
+book: "覆手"
+author: "虾写"
 date: 2020-05-26T17:26:39.000000
 url: "/24579.html"
 slug: "24579"
-description: "【TXT大小】：4.61 MB 【内容简介】： 法律并不是制止你做某些事，而是告诉你，你做了某些事并且被抓住 ···"
+description: "作者：虾写 · 4.61 MB · 法律并不是制止你做某些事，而是告诉你，你做了某些事并且被抓住 ···"
 categories: ["精校都市"]
 tags: ["现代都市", "黑道校园", "虾写"]
 views: 3238
 download: "http://down.jingjiaoba.com/file/20532056-446014701"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-446014701" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.61 MB
 
 【内容简介】：
 

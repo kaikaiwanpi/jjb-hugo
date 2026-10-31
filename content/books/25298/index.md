@@ -1,9 +1,12 @@
 ---
-title: "《巫师不朽》（校对版全本）作者：咸鱼洁南 百度云txt全集下载"
+title: "《巫师不朽》（校对版全本）"
+fullTitle: "《巫师不朽》（校对版全本）作者：咸鱼洁南 百度云txt全集下载"
+book: "巫师不朽"
+author: "咸鱼洁南"
 date: 2020-11-25T09:30:44.000000
 url: "/25298.html"
 slug: "25298"
-description: "【TXT大小】：5.70 MB 【内容简介】： 这是一个二次穿越的穿越者，在巫师世界踏上巫师之路的故事。 在 ···"
+description: "作者：咸鱼洁南 · 5.70 MB · 这是一个二次穿越的穿越者，在巫师世界踏上巫师之路的故事。 在 ···"
 categories: ["精校奇幻"]
 tags: ["穿越文", "穿越异界", "西方奇幻", "黑暗幻想", "咸鱼洁南"]
 views: 2902
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-474010439"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-474010439" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：5.70 MB
 
 【内容简介】：
 

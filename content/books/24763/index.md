@@ -1,9 +1,12 @@
 ---
-title: "《锦衣御明》（校对版全本）作者：仗剑至天涯 txt全集下载"
+title: "《锦衣御明》（校对版全本）"
+fullTitle: "《锦衣御明》（校对版全本）作者：仗剑至天涯 txt全集下载"
+book: "锦衣御明"
+author: "仗剑至天涯"
 date: 2020-07-11T09:30:36.000000
 url: "/24763.html"
 slug: "24763"
-description: "【TXT大小】：3.41 MB 【内容简介】： 魂穿越到大明，成为一名驻辽东锦衣卫暗旗，在这个不曾记载过的神 ···"
+description: "作者：仗剑至天涯 · 3.41 MB · 魂穿越到大明，成为一名驻辽东锦衣卫暗旗，在这个不曾记载过的神 ···"
 categories: ["精校历史"]
 tags: ["两宋元明", "穿越文", "穿越重生", "仗剑至天涯"]
 views: 2296
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-452715480"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-452715480" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.41 MB
 
 【内容简介】：
 

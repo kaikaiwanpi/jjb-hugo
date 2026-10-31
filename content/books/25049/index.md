@@ -1,9 +1,12 @@
 ---
-title: "《我侄子戒心实在太重了》（校对版全本）作者：碧蓝的世界 txt全集下载"
+title: "《我侄子戒心实在太重了》（校对版全本）"
+fullTitle: "《我侄子戒心实在太重了》（校对版全本）作者：碧蓝的世界 txt全集下载"
+book: "我侄子戒心实在太重了"
+author: "碧蓝的世界"
 date: 2020-09-06T09:30:23.000000
 url: "/25049.html"
 slug: "25049"
-description: "【TXT大小】：2.24 MB 【内容简介】： 资深程序员陈耀东穿越到平行世界，回到十六岁的高中时期，是一个 ···"
+description: "作者：碧蓝的世界 · 2.24 MB · 资深程序员陈耀东穿越到平行世界，回到十六岁的高中时期，是一个 ···"
 categories: ["精校玄幻"]
 tags: ["东方玄幻", "穿越异界", "碧蓝的世界"]
 views: 1833
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-461018968"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461018968" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：2.24 MB
 
 【内容简介】：
 

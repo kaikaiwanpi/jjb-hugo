@@ -1,17 +1,18 @@
 ---
-title: "《泰坦与龙之王》（校对版全本）作者：瑞血丰年 txt全集下载"
+title: "《泰坦与龙之王》（校对版全本）"
+fullTitle: "《泰坦与龙之王》（校对版全本）作者：瑞血丰年 txt全集下载"
+book: "泰坦与龙之王"
+author: "瑞血丰年"
 date: 2020-08-03T09:30:09.000000
 url: "/24892.html"
 slug: "24892"
-description: "【TXT大小】：7.76 MB 【内容简介】： 泰坦，与最古老的神袛一同诞生的近神生物。 龙，雄踞无数世界食 ···"
+description: "作者：瑞血丰年 · 7.76 MB · 泰坦，与最古老的神袛一同诞生的近神生物。 龙，雄踞无数世界食 ···"
 categories: ["精校奇幻"]
 tags: ["穿越重生", "西方奇幻", "黑暗幻想", "瑞血丰年"]
 views: 1888
 download: "http://down.jingjiaoba.com/file/20532056-455689406"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455689406" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：7.76 MB
 
 【内容简介】：
 

@@ -1,9 +1,12 @@
 ---
-title: "《精灵之性格大师》（校对版全本）作者：爱人火枪手 百度云txt全集下载"
+title: "《精灵之性格大师》（校对版全本）"
+fullTitle: "《精灵之性格大师》（校对版全本）作者：爱人火枪手 百度云txt全集下载"
+book: "精灵之性格大师"
+author: "爱人火枪手"
 date: 2020-11-30T09:30:13.000000
 url: "/25305.html"
 slug: "25305"
-description: "【TXT大小】：5.54 MB 【内容简介】： 愿青龙指引你在十点法力值的时候钓上一整天的鱼！ “我穿越了？”  ···"
+description: "作者：爱人火枪手 · 5.54 MB · 愿青龙指引你在十点法力值的时候钓上一整天的鱼！ “我穿越了？”  ···"
 categories: ["二次元"]
 tags: ["同人小说", "爱人火枪手"]
 views: 1547
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-474010341"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-474010341" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：5.54 MB
 
 【内容简介】：
 

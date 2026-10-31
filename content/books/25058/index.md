@@ -1,9 +1,12 @@
 ---
-title: "《重生之武神大主播》（校对版全本）作者：忘川三途 txt全集下载"
+title: "《重生之武神大主播》（校对版全本）"
+fullTitle: "《重生之武神大主播》（校对版全本）作者：忘川三途 txt全集下载"
+book: "重生之武神大主播"
+author: "忘川三途"
 date: 2020-09-10T09:30:56.000000
 url: "/25058.html"
 slug: "25058"
-description: "【TXT大小】：3.39 MB 【内容简介】： 钟离重生了，重生到了十年之前，那并不美好的学生时代。 那时诸 ···"
+description: "作者：忘川三途 · 3.39 MB · 钟离重生了，重生到了十年之前，那并不美好的学生时代。 那时诸 ···"
 categories: ["精校玄幻"]
 tags: ["重生文", "东方玄幻", "系统类", "主播小说", "忘川三途"]
 views: 1528
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-461018997"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461018997" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.39 MB
 
 【内容简介】：
 

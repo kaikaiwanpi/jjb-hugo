@@ -1,17 +1,18 @@
 ---
-title: "《超级学神》（校对版全本）作者：鬼谷仙师 txt全集下载"
+title: "《超级学神》（校对版全本）"
+fullTitle: "《超级学神》（校对版全本）作者：鬼谷仙师 txt全集下载"
+book: "超级学神"
+author: "鬼谷仙师"
 date: 2020-07-17T09:30:05.000000
 url: "/24809.html"
 slug: "24809"
-description: "【TXT大小】：15.4 MB 【内容简介】： 苏航，偶然机会得到超级学神系统，可提取并精炼现实和虚拟人物的 ···"
+description: "作者：鬼谷仙师 · 15.4 MB · 苏航，偶然机会得到超级学神系统，可提取并精炼现实和虚拟人物的 ···"
 categories: ["精校都市"]
 tags: ["现代都市", "系统类", "青春校园", "鬼谷仙师"]
 views: 2550
 download: "http://down.jingjiaoba.com/file/20532056-453676745"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-453676745" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：15.4 MB
 
 【内容简介】：
 

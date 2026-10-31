@@ -1,9 +1,12 @@
 ---
-title: "《权倾南北》（校对版全本）作者：然籇 txt全集下载"
+title: "《权倾南北》（校对版全本）"
+fullTitle: "《权倾南北》（校对版全本）作者：然籇 txt全集下载"
+book: "权倾南北"
+author: "然籇"
 date: 2020-10-05T09:30:22.000000
 url: "/25153.html"
 slug: "25153"
-description: "【TXT大小】：10.1 MB 【内容简介】： 离乱之世，人如尘埃，随风不随己。 无意穿越为白袍军老卒后裔的 ···"
+description: "作者：然籇 · 10.1 MB · 离乱之世，人如尘埃，随风不随己。 无意穿越为白袍军老卒后裔的 ···"
 categories: ["精校历史"]
 tags: ["穿越重生", "古代争霸", "两晋隋唐", "然籇"]
 views: 2790
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-466586689"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586689" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：10.1 MB
 
 【内容简介】：
 

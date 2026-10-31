@@ -1,17 +1,18 @@
 ---
-title: "《电影世界逍遥行》（校对版全本）作者：绿豆冰糖水 txt全集下载"
+title: "《电影世界逍遥行》（校对版全本）"
+fullTitle: "《电影世界逍遥行》（校对版全本）作者：绿豆冰糖水 txt全集下载"
+book: "电影世界逍遥行"
+author: "绿豆冰糖水"
 date: 2020-09-14T09:30:42.000000
 url: "/25054.html"
 slug: "25054"
-description: "【TXT大小】：9.31 MB 【内容简介】： 一直倒霉的叶玄意外的得到了一套能够让他进入梦幻世界历练修行的 ···"
+description: "作者：绿豆冰糖水 · 9.31 MB · 一直倒霉的叶玄意外的得到了一套能够让他进入梦幻世界历练修行的 ···"
 categories: ["精校科幻"]
 tags: ["时空穿梭", "系统类", "同人小说", "绿豆冰糖水"]
 views: 2801
 download: "http://down.jingjiaoba.com/file/20532056-461018990"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461018990" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：9.31 MB
 
 【内容简介】：
 

@@ -1,17 +1,18 @@
 ---
-title: "《开海》（校对版全本）作者：夺鹿侯 txt全集下载"
+title: "《开海》（校对版全本）"
+fullTitle: "《开海》（校对版全本）作者：夺鹿侯 txt全集下载"
+book: "开海"
+author: "夺鹿侯"
 date: 2020-08-06T09:30:17.000000
 url: "/24925.html"
 slug: "24925"
-description: "【TXT大小】：6.76 MB 【内容简介】： 明朝嘉靖四十五年，隆万中兴前夜。 这是最好的时代，戚家军向近 ···"
+description: "作者：夺鹿侯 · 6.76 MB · 明朝嘉靖四十五年，隆万中兴前夜。 这是最好的时代，戚家军向近 ···"
 categories: ["精校历史"]
 tags: ["两宋元明", "夺鹿侯"]
 views: 3590
 download: "http://down.jingjiaoba.com/file/20532056-456125888"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-456125888" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：6.76 MB
 
 【内容简介】：
 

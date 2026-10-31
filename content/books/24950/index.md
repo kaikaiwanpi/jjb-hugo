@@ -1,17 +1,18 @@
 ---
-title: "《狂探》（校对版全本）作者：旷海忘湖 txt全集下载"
+title: "《狂探》（校对版全本）"
+fullTitle: "《狂探》（校对版全本）作者：旷海忘湖 txt全集下载"
+book: "狂探"
+author: "旷海忘湖"
 date: 2020-08-18T09:37:29.000000
 url: "/24950.html"
 slug: "24950"
-description: "【TXT大小】：12.9 MB 【内容简介】： 一个打架不要命，无节操无底线的小痞子，意外穿越到平行空间，摇 ···"
+description: "作者：旷海忘湖 · 12.9 MB · 一个打架不要命，无节操无底线的小痞子，意外穿越到平行空间，摇 ···"
 categories: ["精校都市"]
 tags: ["穿越文", "现代都市", "系统类", "穿越异界", "旷海忘湖"]
 views: 3738
 download: "http://down.jingjiaoba.com/file/20532056-457280925"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-457280925" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：12.9 MB
 
 【内容简介】：
 

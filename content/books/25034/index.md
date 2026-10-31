@@ -1,9 +1,12 @@
 ---
-title: "《我变成了一只雄狮》（校对版全本）作者：妖妖喵 txt全集下载"
+title: "《我变成了一只雄狮》（校对版全本）"
+fullTitle: "《我变成了一只雄狮》（校对版全本）作者：妖妖喵 txt全集下载"
+book: "我变成了一只雄狮"
+author: "妖妖喵"
 date: 2020-08-30T09:30:20.000000
 url: "/25034.html"
 slug: "25034"
-description: "【TXT大小】：3.43 MB 【内容简介】： 从一只步履蹒跚的幼狮，到威风凛凛的狮王。 他本以为领地广阔， ···"
+description: "作者：妖妖喵 · 3.43 MB · 从一只步履蹒跚的幼狮，到威风凛凛的狮王。 他本以为领地广阔， ···"
 categories: ["精校科幻"]
 tags: ["重生文", "末日小说", "超能进化", "黑暗幻想", "妖妖喵"]
 views: 2019
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-459814540"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-459814540" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.43 MB
 
 【内容简介】：
 

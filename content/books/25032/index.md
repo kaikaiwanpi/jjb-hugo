@@ -1,9 +1,12 @@
 ---
-title: "《拜见大魔王》（校对版全本）作者：蒜书 txt全集下载"
+title: "《拜见大魔王》（校对版全本）"
+fullTitle: "《拜见大魔王》（校对版全本）作者：蒜书 txt全集下载"
+book: "拜见大魔王"
+author: "蒜书"
 date: 2020-08-26T09:30:19.000000
 url: "/25032.html"
 slug: "25032"
-description: "【TXT大小】：7.80 MB 【内容简介】： 螟，低等魔族，偶然获得了一些非常非常非常残破的记忆，还有一个 ···"
+description: "作者：蒜书 · 7.80 MB · 螟，低等魔族，偶然获得了一些非常非常非常残破的记忆，还有一个 ···"
 categories: ["精校玄幻"]
 tags: ["系统类", "异界玄幻", "玄幻修真", "蒜书"]
 views: 2558
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-459814555"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-459814555" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：7.80 MB
 
 【内容简介】：
 

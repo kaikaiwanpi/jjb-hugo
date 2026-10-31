@@ -1,17 +1,18 @@
 ---
-title: "《我的绝色美女房客》（校对版全本）作者：炒酸奶 txt全集下载"
+title: "《我的绝色美女房客》（校对版全本）"
+fullTitle: "《我的绝色美女房客》（校对版全本）作者：炒酸奶 txt全集下载"
+book: "我的绝色美女房客"
+author: "炒酸奶"
 date: 2020-07-01T11:33:38.000000
 url: "/24715.html"
 slug: "24715"
-description: "【TXT大小】：28.6 MB 【内容简介】： 这小小的四合院，住着一群租房客，而陈阳则是房东。 好吧，既然 ···"
+description: "作者：炒酸奶 · 28.6 MB · 这小小的四合院，住着一群租房客，而陈阳则是房东。 好吧，既然 ···"
 categories: ["精校都市"]
 tags: ["现代都市", "都市暧昧", "炒酸奶"]
 views: 4632
 download: "http://down.jingjiaoba.com/file/20532056-450895191"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450895191" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：28.6 MB
 
 【内容简介】：
 

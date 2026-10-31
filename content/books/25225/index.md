@@ -1,9 +1,12 @@
 ---
-title: "《木叶养猫人》（校对版全本）作者：槿木槿木 txt全集下载"
+title: "《木叶养猫人》（校对版全本）"
+fullTitle: "《木叶养猫人》（校对版全本）作者：槿木槿木 txt全集下载"
+book: "木叶养猫人"
+author: "槿木槿木"
 date: 2020-11-03T09:30:07.000000
 url: "/25225.html"
 slug: "25225"
-description: "【TXT大小】：2.95 MB 【内容简介】： 穿越到二战末尾时期的火影世界，却被逼无奈成为二尾的人柱力？！ ···"
+description: "作者：槿木槿木 · 2.95 MB · 穿越到二战末尾时期的火影世界，却被逼无奈成为二尾的人柱力？！ ···"
 categories: ["二次元"]
 tags: ["穿越异界", "同人小说", "槿木槿木"]
 views: 1592
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-469147909"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-469147909" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：2.95 MB
 
 【内容简介】：
 

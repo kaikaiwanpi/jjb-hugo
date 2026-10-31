@@ -1,17 +1,18 @@
 ---
-title: "《乡间轻曲》（校对版全本）作者：醛石 txt全集下载"
+title: "《乡间轻曲》（校对版全本）"
+fullTitle: "《乡间轻曲》（校对版全本）作者：醛石 txt全集下载"
+book: "乡间轻曲"
+author: "醛石"
 date: 2020-09-18T09:30:54.000000
 url: "/25086.html"
 slug: "25086"
-description: "【TXT大小】：4.07 MB 【内容简介】： 人近中年的边瑞厌倦了大都市的生活，想过简单的日子，回到了老家 ···"
+description: "作者：醛石 · 4.07 MB · 人近中年的边瑞厌倦了大都市的生活，想过简单的日子，回到了老家 ···"
 categories: ["精校都市"]
 tags: ["现代都市", "随身空间", "乡土小说", "醛石"]
 views: 1881
 download: "http://down.jingjiaoba.com/file/20532056-461573803"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461573803" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.07 MB
 
 【内容简介】：
 

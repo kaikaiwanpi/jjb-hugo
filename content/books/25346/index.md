@@ -1,9 +1,12 @@
 ---
-title: "《我师兄实在太稳健了》（校对版全本）作者：言归正传 百度云TXT全集下载"
+title: "《我师兄实在太稳健了》（校对版全本）"
+fullTitle: "《我师兄实在太稳健了》（校对版全本）作者：言归正传 百度云TXT全集下载"
+book: "我师兄实在太稳健了"
+author: "言归正传"
 date: 2020-12-16T09:30:39.000000
 url: "/25346.html"
 slug: "25346"
-description: "【TXT大小】：7.67 MB 【内容简介】： 重生在封神大战之前的上古时代，李长寿成了一个小小的炼气士，没 ···"
+description: "作者：言归正传 · 7.67 MB · 重生在封神大战之前的上古时代，李长寿成了一个小小的炼气士，没 ···"
 categories: ["精校仙侠"]
 tags: ["穿越重生", "洪荒流", "神话修真", "言归正传"]
 views: 7594
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-476736182"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-476736182" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：7.67 MB
 
 【内容简介】：
 

@@ -1,17 +1,18 @@
 ---
-title: "《我是勤行第一人》（校对版全本）作者：光暗之心 txt全集下载"
+title: "《我是勤行第一人》（校对版全本）"
+fullTitle: "《我是勤行第一人》（校对版全本）作者：光暗之心 txt全集下载"
+book: "我是勤行第一人"
+author: "光暗之心"
 date: 2020-10-28T09:30:11.000000
 url: "/25193.html"
 slug: "25193"
-description: "【TXT大小】：3.31 MB 【内容简介】： 哪个是后厨英雄？谁又在勤行称尊？ 鲜香、麻辣、酸爽、甘甜、苦 ···"
+description: "作者：光暗之心 · 3.31 MB · 哪个是后厨英雄？谁又在勤行称尊？ 鲜香、麻辣、酸爽、甘甜、苦 ···"
 categories: ["精校都市"]
 tags: ["现代都市", "系统类", "美食厨师"]
 views: 1934
 download: "http://down.jingjiaoba.com/file/20532056-467978841"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-467978841" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.31 MB
 
 【内容简介】：
 

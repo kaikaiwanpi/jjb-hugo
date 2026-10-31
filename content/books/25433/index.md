@@ -1,9 +1,12 @@
 ---
-title: "《古希腊之地中海霸主》（校对版全本）作者：陈瑞 百度云TXT全集下载"
+title: "《古希腊之地中海霸主》（校对版全本）"
+fullTitle: "《古希腊之地中海霸主》（校对版全本）作者：陈瑞 百度云TXT全集下载"
+book: "古希腊之地中海霸主"
+author: "陈瑞"
 date: 2021-01-09T09:55:25.000000
 url: "/25433.html"
 slug: "25433"
-description: "【TXT大小】：7.91 MB 【内容简介】： 这是一个群雄并起的时代：幅员辽阔的波斯，以武立国的斯巴达，商 ···"
+description: "作者：陈瑞 · 7.91 MB · 这是一个群雄并起的时代：幅员辽阔的波斯，以武立国的斯巴达，商 ···"
 categories: ["精校历史"]
 tags: ["外国历史", "穿越重生", "雇佣兵小说", "陈瑞"]
 views: 3035
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-478760100"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-478760100" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：7.91 MB
 
 【内容简介】：
 

@@ -1,9 +1,12 @@
 ---
-title: "《奥术起源》（校对版全本）作者：永夜骑士 txt全集下载"
+title: "《奥术起源》（校对版全本）"
+fullTitle: "《奥术起源》（校对版全本）作者：永夜骑士 txt全集下载"
+book: "奥术起源"
+author: "永夜骑士"
 date: 2020-11-11T09:30:49.000000
 url: "/25267.html"
 slug: "25267"
-description: "【TXT大小】：9.10 MB 【内容简介】： 神学有自己的起源。 科学有自己的起源。 奥术自然也有自己的起源 ···"
+description: "作者：永夜骑士 · 9.10 MB · 神学有自己的起源。 科学有自己的起源。 奥术自然也有自己的起源 ···"
 categories: ["精校奇幻"]
 tags: ["时空穿梭", "西方奇幻", "剑与魔法", "永夜骑士"]
 views: 2620
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-471015574"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-471015574" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：9.10 MB
 
 【内容简介】：
 

@@ -1,17 +1,18 @@
 ---
-title: "《英雄无敌大宗师》（校对版全本）作者：一只辣椒精 txt全集下载"
+title: "《英雄无敌大宗师》（校对版全本）"
+fullTitle: "《英雄无敌大宗师》（校对版全本）作者：一只辣椒精 txt全集下载"
+book: "英雄无敌大宗师"
+author: "一只辣椒精"
 date: 2020-07-29T14:39:02.000000
 url: "/24872.html"
 slug: "24872"
-description: "【TXT大小】：10.9 MB 【内容简介】： 你摸了摸魔法羊皮纸，你发现自己忽然变的更抗揍了。 你又摸了摸 ···"
+description: "作者：一只辣椒精 · 10.9 MB · 你摸了摸魔法羊皮纸，你发现自己忽然变的更抗揍了。 你又摸了摸 ···"
 categories: ["精校游戏"]
 tags: ["游戏异界", "一只辣椒精"]
 views: 2489
 download: "http://down.jingjiaoba.com/file/20532056-455109665"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455109665" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：10.9 MB
 
 【内容简介】：
 

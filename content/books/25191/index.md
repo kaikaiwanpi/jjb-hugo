@@ -1,17 +1,18 @@
 ---
-title: "《一品修仙》（校对版全本）作者：不放心油条 txt全集下载"
+title: "《一品修仙》（校对版全本）"
+fullTitle: "《一品修仙》（校对版全本）作者：不放心油条 txt全集下载"
+book: "一品修仙"
+author: "不放心油条"
 date: 2020-10-31T09:35:01.000000
 url: "/25191.html"
 slug: "25191"
-description: "【TXT大小】：10.1 MB 【内容简介】： 古老的仙道世界，历久弥新，一代代天骄英豪，你方唱罢我登台。  ···"
+description: "作者：不放心油条 · 10.1 MB · 古老的仙道世界，历久弥新，一代代天骄英豪，你方唱罢我登台。  ···"
 categories: ["精校仙侠"]
 tags: ["穿越重生", "幻想修仙", "系统类", "不放心油条"]
 views: 5313
 download: "http://down.jingjiaoba.com/file/20532056-467978840"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-467978840" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：10.1 MB
 
 【内容简介】：
 

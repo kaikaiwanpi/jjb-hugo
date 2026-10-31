@@ -1,17 +1,18 @@
 ---
-title: "《漫威世界的光之巨人》（校对版全本）作者：名称被占用 txt全集下载"
+title: "《漫威世界的光之巨人》（校对版全本）"
+fullTitle: "《漫威世界的光之巨人》（校对版全本）作者：名称被占用 txt全集下载"
+book: "漫威世界的光之巨人"
+author: "名称被占用"
 date: 2020-06-02T11:59:51.000000
 url: "/24605.html"
 slug: "24605"
-description: "【TXT大小】：3.20 MB 【内容简介】： 乌木喉：“伟大的主人，前面就是地球了。” 灭霸：“很好，全速前进 ···"
+description: "作者：名称被占用 · 3.20 MB · 乌木喉：“伟大的主人，前面就是地球了。” 灭霸：“很好，全速前进 ···"
 categories: ["二次元"]
 tags: ["同人小说", "名称被占用"]
 views: 1155
 download: "http://down.jingjiaoba.com/file/20532056-447790646"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-447790646" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.20 MB
 
 【内容简介】：
 

@@ -1,17 +1,18 @@
 ---
-title: "《太上执符》（校对版全本）作者：第九天命 txt全集下载"
+title: "《太上执符》（校对版全本）"
+fullTitle: "《太上执符》（校对版全本）作者：第九天命 txt全集下载"
+book: "太上执符"
+author: "第九天命"
 date: 2020-07-14T09:30:05.000000
 url: "/24769.html"
 slug: "24769"
-description: "【TXT大小】：5.13 MB 【内容简介】： 问苍茫大地，何处容我人族！ 他从未想过自己来到洪荒神话世界， ···"
+description: "作者：第九天命 · 5.13 MB · 问苍茫大地，何处容我人族！ 他从未想过自己来到洪荒神话世界， ···"
 categories: ["精校仙侠"]
 tags: ["穿越文", "洪荒流", "神话修真", "第九天命"]
 views: 2032
 download: "http://down.jingjiaoba.com/file/20532056-452715473"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-452715473" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：5.13 MB
 
 【内容简介】：
 

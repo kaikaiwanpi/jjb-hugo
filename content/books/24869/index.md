@@ -1,9 +1,12 @@
 ---
-title: "《重启修仙纪元》（校对版全本）作者：步履无声 txt全集下载"
+title: "《重启修仙纪元》（校对版全本）"
+fullTitle: "《重启修仙纪元》（校对版全本）作者：步履无声 txt全集下载"
+book: "重启修仙纪元"
+author: "步履无声"
 date: 2020-07-26T14:44:36.000000
 url: "/24869.html"
 slug: "24869"
-description: "【TXT大小】：8.25 MB 【内容简介】： 当高歌醒来的时候，发现自己已经回到了灵气复苏前的地球。 要不 ···"
+description: "作者：步履无声 · 8.25 MB · 当高歌醒来的时候，发现自己已经回到了灵气复苏前的地球。 要不 ···"
 categories: ["精校玄幻"]
 tags: ["重生文", "东方玄幻", "步履无声"]
 views: 2629
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-455109654"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455109654" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：8.25 MB
 
 【内容简介】：
 

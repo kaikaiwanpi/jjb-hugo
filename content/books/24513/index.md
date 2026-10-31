@@ -1,9 +1,12 @@
 ---
-title: "《魔法学渣》（校对版全本）作者：正北方 txt全集下载"
+title: "《魔法学渣》（校对版全本）"
+fullTitle: "《魔法学渣》（校对版全本）作者：正北方 txt全集下载"
+book: "魔法学渣"
+author: "正北方"
 date: 2020-05-03T15:22:51.000000
 url: "/24513.html"
 slug: "24513"
-description: "【TXT大小】：2.54 MB 【内容简介】： 【你即将进入一个全新的世界，但你必须对你所拥有的做一个选择 1 ···"
+description: "作者：正北方 · 2.54 MB · 【你即将进入一个全新的世界，但你必须对你所拥有的做一个选择 1 ···"
 categories: ["精校游戏"]
 tags: ["系统类", "穿越异界", "游戏异界", "正北方"]
 views: 2506
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-442631059"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-442631059" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：2.54 MB
 
 【内容简介】：
 

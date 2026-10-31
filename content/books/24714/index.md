@@ -1,17 +1,18 @@
 ---
-title: "《高武27世纪》（校对版全本）作者：草鱼L txt全集下载"
+title: "《高武27世纪》（校对版全本）"
+fullTitle: "《高武27世纪》（校对版全本）作者：草鱼L txt全集下载"
+book: "高武27世纪"
+author: "草鱼L"
 date: 2020-06-28T11:31:02.000000
 url: "/24714.html"
 slug: "24714"
-description: "【TXT大小】：9.13 MB 【内容简介】： 27世纪。 人道昌盛，武道辉煌！ 养老院树荫下，胖老头用手里的核 ···"
+description: "作者：草鱼L · 9.13 MB · 27世纪。 人道昌盛，武道辉煌！ 养老院树荫下，胖老头用手里的核 ···"
 categories: ["精校玄幻"]
 tags: ["东方玄幻", "未来世界", "草鱼L"]
 views: 1891
 download: "http://down.jingjiaoba.com/file/20532056-450895187"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450895187" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：9.13 MB
 
 【内容简介】：
 

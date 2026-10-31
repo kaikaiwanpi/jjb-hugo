@@ -1,9 +1,12 @@
 ---
-title: "《偃者道途》（校对版全本）作者：不问苍生问鬼神 txt全集下载"
+title: "《偃者道途》（校对版全本）"
+fullTitle: "《偃者道途》（校对版全本）作者：不问苍生问鬼神 txt全集下载"
+book: "偃者道途"
+author: "不问苍生问鬼神"
 date: 2020-06-20T11:34:08.000000
 url: "/24691.html"
 slug: "24691"
-description: "【TXT大小】：6.27 MB 【内容简介】： 李尘降临异世，所见所闻，尽是光怪陆离，画风奇特。 这里的主流 ···"
+description: "作者：不问苍生问鬼神 · 6.27 MB · 李尘降临异世，所见所闻，尽是光怪陆离，画风奇特。 这里的主流 ···"
 categories: ["精校玄幻"]
 tags: ["穿越异界", "异界玄幻", "玄幻修真", "不问苍生问鬼神"]
 views: 1836
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-450418730"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450418730" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：6.27 MB
 
 【内容简介】：
 

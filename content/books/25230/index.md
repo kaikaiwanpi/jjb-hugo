@@ -1,17 +1,18 @@
 ---
-title: "《北颂》（校对版全本）作者：圣诞稻草人 txt全集下载"
+title: "《北颂》（校对版全本）"
+fullTitle: "《北颂》（校对版全本）作者：圣诞稻草人 txt全集下载"
+book: "北颂"
+author: "圣诞稻草人"
 date: 2020-11-08T09:28:27.000000
 url: "/25230.html"
 slug: "25230"
-description: "【TXT大小】：9.95 MB 【内容简介】： 寇季魂穿北宋，成为了千古名相寇准的从孙，作为一个标准的官三代 ···"
+description: "作者：圣诞稻草人 · 9.95 MB · 寇季魂穿北宋，成为了千古名相寇准的从孙，作为一个标准的官三代 ···"
 categories: ["精校历史"]
 tags: ["两宋元明", "穿越重生", "圣诞稻草人"]
 views: 3170
 download: "http://down.jingjiaoba.com/file/20532056-469147928"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-469147928" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：9.95 MB
 
 【内容简介】：
 

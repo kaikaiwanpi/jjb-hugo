@@ -1,9 +1,12 @@
 ---
-title: "《重生之激荡年华》（校对版全本）作者：皇家雇佣猫 百度云TXT全集下载"
+title: "《重生之激荡年华》（校对版全本）"
+fullTitle: "《重生之激荡年华》（校对版全本）作者：皇家雇佣猫 百度云TXT全集下载"
+book: "重生之激荡年华"
+author: "皇家雇佣猫"
 date: 2020-12-15T09:30:53.000000
 url: "/25336.html"
 slug: "25336"
-description: "【TXT大小】：3.92 MB 【内容简介】： 一个即将读博的学霸研究僧重生在平行时代里的2008年，附身17岁的 ···"
+description: "作者：皇家雇佣猫 · 3.92 MB · 一个即将读博的学霸研究僧重生在平行时代里的2008年，附身17岁的 ···"
 categories: ["精校都市"]
 tags: ["重生文", "现代都市", "皇家雇佣猫"]
 views: 2812
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-476736203"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-476736203" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.92 MB
 
 【内容简介】：
 

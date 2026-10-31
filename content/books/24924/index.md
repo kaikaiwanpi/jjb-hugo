@@ -1,17 +1,18 @@
 ---
-title: "《捡到一本三国志》（校对版全本）作者：历史系之狼 txt全集下载"
+title: "《捡到一本三国志》（校对版全本）"
+fullTitle: "《捡到一本三国志》（校对版全本）作者：历史系之狼 txt全集下载"
+book: "捡到一本三国志"
+author: "历史系之狼"
 date: 2020-08-08T09:30:15.000000
 url: "/24924.html"
 slug: "24924"
-description: "【TXT大小】：5.93 MB 【内容简介】： 东汉延熹九年，年仅九岁的刘宏，从河中钓起一只金鱼，剖开其腹， ···"
+description: "作者：历史系之狼 · 5.93 MB · 东汉延熹九年，年仅九岁的刘宏，从河中钓起一只金鱼，剖开其腹， ···"
 categories: ["精校历史"]
 tags: ["系统类", "秦汉三国", "历史系之狼"]
 views: 2449
 download: "http://down.jingjiaoba.com/file/20532056-456125882"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-456125882" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：5.93 MB
 
 【内容简介】：
 

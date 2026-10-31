@@ -1,17 +1,18 @@
 ---
-title: "《超凡传》（校对版全本）作者：萧潜 txt全集下载"
+title: "《超凡传》（校对版全本）"
+fullTitle: "《超凡传》（校对版全本）作者：萧潜 txt全集下载"
+book: "超凡传"
+author: "萧潜"
 date: 2020-06-04T12:02:21.000000
 url: "/24629.html"
 slug: "24629"
-description: "【TXT大小】：5.02 MB 【内容简介】： 万千星球，无尽修真。 道衍之争，万载不息。 衍修小师傅米小经， ···"
+description: "作者：萧潜 · 5.02 MB · 万千星球，无尽修真。 道衍之争，万载不息。 衍修小师傅米小经， ···"
 categories: ["精校仙侠"]
 tags: ["幻想修仙", "玄幻修真", "萧潜", "修真文明"]
 views: 3739
 download: "http://down.jingjiaoba.com/file/20532056-447790649"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-447790649" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：5.02 MB
 
 【内容简介】：
 

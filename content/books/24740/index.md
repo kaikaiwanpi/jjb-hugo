@@ -1,17 +1,18 @@
 ---
-title: "《大宋第一状元郎》（校对版全本）作者：日日生 txt全集下载"
+title: "《大宋第一状元郎》（校对版全本）"
+fullTitle: "《大宋第一状元郎》（校对版全本）作者：日日生 txt全集下载"
+book: "大宋第一状元郎"
+author: "日日生"
 date: 2020-07-06T09:30:18.000000
 url: "/24740.html"
 slug: "24740"
-description: "【TXT大小】：3.66 MB 【内容简介】： 靖康前夕，大宋歌舞升平，汴梁春风糜烂。 穿越到一个远近闻名的 ···"
+description: "作者：日日生 · 3.66 MB · 靖康前夕，大宋歌舞升平，汴梁春风糜烂。 穿越到一个远近闻名的 ···"
 categories: ["精校历史"]
 tags: ["两宋元明", "穿越文", "穿越重生", "日日生"]
 views: 2700
 download: "http://down.jingjiaoba.com/file/20532056-451736269"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-451736269" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.66 MB
 
 【内容简介】：
 

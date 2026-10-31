@@ -1,17 +1,18 @@
 ---
-title: "《山沟皇帝》（校对版全本）作者：雨天下雨 txt全集下载"
+title: "《山沟皇帝》（校对版全本）"
+fullTitle: "《山沟皇帝》（校对版全本）作者：雨天下雨 txt全集下载"
+book: "山沟皇帝"
+author: "雨天下雨"
 date: 2020-08-11T09:30:18.000000
 url: "/24926.html"
 slug: "24926"
-description: "【TXT大小】：12.5 MB 【内容简介】： 主角他爹做了一个梦，以为自己是真命天子，然后一个破道观的道士 ···"
+description: "作者：雨天下雨 · 12.5 MB · 主角他爹做了一个梦，以为自己是真命天子，然后一个破道观的道士 ···"
 categories: ["精校历史"]
 tags: ["穿越文", "架空历史", "雨天下雨"]
 views: 2100
 download: "http://down.jingjiaoba.com/file/20532056-456125885"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-456125885" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：12.5 MB
 
 【内容简介】：
 

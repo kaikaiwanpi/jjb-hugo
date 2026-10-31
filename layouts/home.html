@@ -1,0 +1,33 @@
+{{ define "main" }}
+{{- $paginator := partial "helper/paginator.html" . -}}
+{{- $pages := where site.RegularPages "Section" "books" -}}
+
+<section class="hero">
+    <p class="hero__eyebrow">精校小说 · 校对全本 · 免费下载</p>
+    <h1 class="hero__title">精校吧<span>。</span></h1>
+    <p class="hero__lead">把散落全网的精校 TXT 收在一处。按题材归好类，点开就能下。</p>
+    <dl class="hero__stats">
+        <div><dt>在库</dt><dd>{{ len $pages }}</dd></div>
+        <div><dt>题材</dt><dd>{{ len site.Taxonomies.categories }}</dd></div>
+        <div><dt>标签</dt><dd>{{ len site.Taxonomies.tags }}</dd></div>
+    </dl>
+    <ul class="hero__chips">
+        {{- range first 8 (sort (where site.Taxonomies.categories "Count" ">" 0) "Count" "desc") }}
+        <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}<em>{{ .Count }}</em></a></li>
+        {{- end }}
+    </ul>
+</section>
+
+<section class="article-list">
+    {{ range $index, $element := $paginator.Pages }}
+        {{ partial "article-list/default" . }}
+    {{ end }}
+</section>
+
+{{- partial "pagination.html" . -}}
+{{- partial "footer/footer" . -}}
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}

@@ -1,17 +1,18 @@
 ---
-title: "《美漫世界阴影轨迹》（校对版全本）作者：驿路羁旅 txt全集下载"
+title: "《美漫世界阴影轨迹》（校对版全本）"
+fullTitle: "《美漫世界阴影轨迹》（校对版全本）作者：驿路羁旅 txt全集下载"
+book: "美漫世界阴影轨迹"
+author: "驿路羁旅"
 date: 2020-09-03T09:30:07.000000
 url: "/25029.html"
 slug: "25029"
-description: "【TXT大小】：14.0 MB 【内容简介】： 梅林从命运的轻响中苏醒，他看到这新世界： 钢铁尚未觉醒，神域 ···"
+description: "作者：驿路羁旅 · 14.0 MB · 梅林从命运的轻响中苏醒，他看到这新世界： 钢铁尚未觉醒，神域 ···"
 categories: ["精校游戏"]
 tags: ["时空穿梭", "驿路羁旅", "同人小说", "游戏异界"]
 views: 2080
 download: "http://down.jingjiaoba.com/file/20532056-459814551"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-459814551" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：14.0 MB
 
 【内容简介】：
 

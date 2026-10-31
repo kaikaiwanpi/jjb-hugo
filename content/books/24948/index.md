@@ -1,17 +1,18 @@
 ---
-title: "《影视世界诸天大佬》（校对版全本）作者：焰火璀璨 txt全集下载"
+title: "《影视世界诸天大佬》（校对版全本）"
+fullTitle: "《影视世界诸天大佬》（校对版全本）作者：焰火璀璨 txt全集下载"
+book: "影视世界诸天大佬"
+author: "焰火璀璨"
 date: 2020-08-19T09:37:40.000000
 url: "/24948.html"
 slug: "24948"
-description: "【TXT大小】：5.38 MB 【内容简介】： 每一部电影都是一段全新的人生《陈浩南》世界中他威压当代，《大 ···"
+description: "作者：焰火璀璨 · 5.38 MB · 每一部电影都是一段全新的人生《陈浩南》世界中他威压当代，《大 ···"
 categories: ["精校科幻"]
 tags: ["穿越重生", "时空穿梭", "系统类", "焰火璀璨"]
 views: 2840
 download: "http://down.jingjiaoba.com/file/20532056-457280922"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-457280922" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：5.38 MB
 
 【内容简介】：
 

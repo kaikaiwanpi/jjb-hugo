@@ -1,9 +1,12 @@
 ---
-title: "《庶族无名》（校对版全本）作者：王不过霸 百度云TXT全集下载"
+title: "《庶族无名》（校对版全本）"
+fullTitle: "《庶族无名》（校对版全本）作者：王不过霸 百度云TXT全集下载"
+book: "庶族无名"
+author: "王不过霸"
 date: 2020-12-30T09:25:02.000000
 url: "/25399.html"
 slug: "25399"
-description: "【TXT大小】：4.28 MB 【内容简介】： 每个时代总会有那么几个天才人物犹如彗星一般耀眼，那些名流千古 ···"
+description: "作者：王不过霸 · 4.28 MB · 每个时代总会有那么几个天才人物犹如彗星一般耀眼，那些名流千古 ···"
 categories: ["精校历史"]
 tags: ["系统类", "秦汉三国", "王不过霸"]
 views: 2627
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-478760115"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-478760115" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.28 MB
 
 【内容简介】：
 

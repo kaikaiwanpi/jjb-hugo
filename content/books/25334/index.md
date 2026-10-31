@@ -1,9 +1,12 @@
 ---
-title: "《钢铁燃魂》（校对版全本）作者：天空之承 百度云TXT全集下载"
+title: "《钢铁燃魂》（校对版全本）"
+fullTitle: "《钢铁燃魂》（校对版全本）作者：天空之承 百度云TXT全集下载"
+book: "钢铁燃魂"
+author: "天空之承"
 date: 2020-12-23T09:10:46.000000
 url: "/25334.html"
 slug: "25334"
-description: "【TXT大小】：3.43 MB 【内容简介】： 把一个刚毕业两年的工科男丢到动荡战乱的时空去，结果会不会瞬间 ···"
+description: "作者：天空之承 · 3.43 MB · 把一个刚毕业两年的工科男丢到动荡战乱的时空去，结果会不会瞬间 ···"
 categories: ["精校玄幻"]
 tags: ["穿越文", "架空历史", "天空之承"]
 views: 3423
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-476736216"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-476736216" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.43 MB
 
 【内容简介】：
 

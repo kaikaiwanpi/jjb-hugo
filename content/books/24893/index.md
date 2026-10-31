@@ -1,17 +1,18 @@
 ---
-title: "《杨小落的便宜奶爸》（校对版全本）作者：寒门 txt全集下载"
+title: "《杨小落的便宜奶爸》（校对版全本）"
+fullTitle: "《杨小落的便宜奶爸》（校对版全本）作者：寒门 txt全集下载"
+book: "杨小落的便宜奶爸"
+author: "寒门"
 date: 2020-08-02T09:30:08.000000
 url: "/24893.html"
 slug: "24893"
-description: "【TXT大小】：5.36 MB 【内容简介】： 蝉鸣鸟唱的夏夜，杨言站在小区门口，高高拎起一个大袋子，扬声笑 ···"
+description: "作者：寒门 · 5.36 MB · 蝉鸣鸟唱的夏夜，杨言站在小区门口，高高拎起一个大袋子，扬声笑 ···"
 categories: ["精校都市"]
 tags: ["现代都市", "寒门"]
 views: 1643
 download: "http://down.jingjiaoba.com/file/20532056-455689403"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455689403" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：5.36 MB
 
 【内容简介】：
 

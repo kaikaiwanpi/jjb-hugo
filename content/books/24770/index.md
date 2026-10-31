@@ -1,17 +1,18 @@
 ---
-title: "《诸天尽头》（校对版全本）作者：凤嘲凰 txt全集下载"
+title: "《诸天尽头》（校对版全本）"
+fullTitle: "《诸天尽头》（校对版全本）作者：凤嘲凰 txt全集下载"
+book: "诸天尽头"
+author: "凤嘲凰"
 date: 2020-07-14T09:30:10.000000
 url: "/24770.html"
 slug: "24770"
-description: "【TXT大小】：7.83 MB 【内容简介】： 一觉醒来，罗素脑海中就多出了一个可以穿梭诸天世界的系统。 杀 ···"
+description: "作者：凤嘲凰 · 7.83 MB · 一觉醒来，罗素脑海中就多出了一个可以穿梭诸天世界的系统。 杀 ···"
 categories: ["精校科幻"]
 tags: ["时空穿梭", "系统类", "无限流", "凤嘲凰"]
 views: 7768
 download: "http://down.jingjiaoba.com/file/20532056-452715493"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-452715493" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：7.83 MB
 
 【内容简介】：
 

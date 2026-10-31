@@ -1,9 +1,12 @@
 ---
-title: "《咸鱼的自救攻略》（校对版全本）作者：貌似高手 txt全集下载"
+title: "《咸鱼的自救攻略》（校对版全本）"
+fullTitle: "《咸鱼的自救攻略》（校对版全本）作者：貌似高手 txt全集下载"
+book: "咸鱼的自救攻略"
+author: "貌似高手"
 date: 2020-07-26T14:43:12.000000
 url: "/24874.html"
 slug: "24874"
-description: "【TXT大小】：7.32 MB 【内容简介】： 2018年1月，楚垣夕一觉醒来发现自己穿越到平行世界的自己身上了 ···"
+description: "作者：貌似高手 · 7.32 MB · 2018年1月，楚垣夕一觉醒来发现自己穿越到平行世界的自己身上了 ···"
 categories: ["精校都市"]
 tags: ["穿越重生", "现代都市", "商道小说", "貌似高手"]
 views: 2378
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-455109660"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-455109660" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：7.32 MB
 
 【内容简介】：
 

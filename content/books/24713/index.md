@@ -1,17 +1,18 @@
 ---
-title: "《神魂至尊》（校对版全本）作者：八异 txt全集下载"
+title: "《神魂至尊》（校对版全本）"
+fullTitle: "《神魂至尊》（校对版全本）作者：八异 txt全集下载"
+book: "神魂至尊"
+author: "八异"
 date: 2020-06-29T11:31:00.000000
 url: "/24713.html"
 slug: "24713"
-description: "【TXT大小】：25.4 MB 【内容简介】： 武道之路，永无止境，是逆天改命、披荆斩棘的征途。 万年前，惊 ···"
+description: "作者：八异 · 25.4 MB · 武道之路，永无止境，是逆天改命、披荆斩棘的征途。 万年前，惊 ···"
 categories: ["精校玄幻"]
 tags: ["东方玄幻", "玄幻修真", "八异"]
 views: 3679
 download: "http://down.jingjiaoba.com/file/20532056-450895198"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450895198" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：25.4 MB
 
 【内容简介】：
 

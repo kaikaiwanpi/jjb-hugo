@@ -1,9 +1,12 @@
 ---
-title: "《超维入侵》（校对版全本）作者：一念乱天机 txt全集下载"
+title: "《超维入侵》（校对版全本）"
+fullTitle: "《超维入侵》（校对版全本）作者：一念乱天机 txt全集下载"
+book: "超维入侵"
+author: "一念乱天机"
 date: 2020-06-13T11:35:00.000000
 url: "/24645.html"
 slug: "24645"
-description: "【TXT大小】：7.06 MB 【内容简介】： 时空拐点的诡异世界，超越理解的事物，恐怖入侵现实，梦幻与真实 ···"
+description: "作者：一念乱天机 · 7.06 MB · 时空拐点的诡异世界，超越理解的事物，恐怖入侵现实，梦幻与真实 ···"
 categories: ["精校玄幻"]
 tags: ["时空穿梭", "东方玄幻", "无限流", "一念乱天机"]
 views: 3200
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-448591193"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-448591193" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：7.06 MB
 
 【内容简介】：
 

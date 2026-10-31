@@ -1,9 +1,12 @@
 ---
-title: "《从文抄公到全大陆巨星》（校对版全本）作者：一蓑烟鱼2 txt全集下载"
+title: "《从文抄公到全大陆巨星》（校对版全本）"
+fullTitle: "《从文抄公到全大陆巨星》（校对版全本）作者：一蓑烟鱼2 txt全集下载"
+book: "从文抄公到全大陆巨星"
+author: "一蓑烟鱼2"
 date: 2020-11-14T09:30:41.000000
 url: "/25265.html"
 slug: "25265"
-description: "【TXT大小】：3.17 MB 【内容简介】： 宋仁真的没想出名，他只是想赚5万两银子，帮老爹还了欠下的债， ···"
+description: "作者：一蓑烟鱼2 · 3.17 MB · 宋仁真的没想出名，他只是想赚5万两银子，帮老爹还了欠下的债， ···"
 categories: ["精校玄幻"]
 tags: ["东方玄幻", "系统类", "穿越异界", "一蓑烟鱼2"]
 views: 2123
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-471015567"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-471015567" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.17 MB
 
 【内容简介】：
 

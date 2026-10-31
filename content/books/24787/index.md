@@ -1,17 +1,18 @@
 ---
-title: "《苍穹之上》（校对版全本）作者：石三 txt全集下载"
+title: "《苍穹之上》（校对版全本）"
+fullTitle: "《苍穹之上》（校对版全本）作者：石三 txt全集下载"
+book: "苍穹之上"
+author: "石三"
 date: 2020-07-16T09:30:34.000000
 url: "/24787.html"
 slug: "24787"
-description: "【TXT大小】：10.6 MB 【内容简介】： 苍穹之下的千年苦修，只为有朝一日立身于苍穹之上！ 位于洪武天 ···"
+description: "作者：石三 · 10.6 MB · 苍穹之下的千年苦修，只为有朝一日立身于苍穹之上！ 位于洪武天 ···"
 categories: ["精校仙侠"]
 tags: ["幻想修仙", "石三", "神话修真"]
 views: 2568
 download: "http://down.jingjiaoba.com/file/20532056-452715489"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-452715489" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：10.6 MB
 
 【内容简介】：
 

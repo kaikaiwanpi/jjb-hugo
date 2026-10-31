@@ -1,9 +1,12 @@
 ---
-title: "《逍遥初唐(大唐技师)》（校对版全本）作者：扬镳 百度云TXT全集下载"
+title: "《逍遥初唐(大唐技师)》（校对版全本）"
+fullTitle: "《逍遥初唐(大唐技师)》（校对版全本）作者：扬镳 百度云TXT全集下载"
+book: "逍遥初唐(大唐技师)"
+author: "扬镳"
 date: 2020-12-13T09:30:01.000000
 url: "/25338.html"
 slug: "25338"
-description: "【TXT大小】：7.80 MB 【内容简介】： 游戏设计师李牧，加班过劳，魂穿大唐。 这里有天可汗的文治武功 ···"
+description: "作者：扬镳 · 7.80 MB · 游戏设计师李牧，加班过劳，魂穿大唐。 这里有天可汗的文治武功 ···"
 categories: ["精校历史"]
 tags: ["穿越重生", "两晋隋唐", "扬镳"]
 views: 2876
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-476736187"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-476736187" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：7.80 MB
 
 【内容简介】：
 

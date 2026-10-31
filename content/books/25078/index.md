@@ -1,17 +1,18 @@
 ---
-title: "《绝对一番》（校对版全本）作者：海底漫步者 txt全集下载"
+title: "《绝对一番》（校对版全本）"
+fullTitle: "《绝对一番》（校对版全本）作者：海底漫步者 txt全集下载"
+book: "绝对一番"
+author: "海底漫步者"
 date: 2020-09-23T09:30:07.000000
 url: "/25078.html"
 slug: "25078"
-description: "【TXT大小】：3.55 MB 【内容简介】： “绝对一番”的意思是“永争一位，绝不服输”！ 穿越到日本泡沫经济 ···"
+description: "作者：海底漫步者 · 3.55 MB · “绝对一番”的意思是“永争一位，绝不服输”！ 穿越到日本泡沫经济 ···"
 categories: ["精校娱乐"]
 tags: ["穿越重生", "娱乐明星", "海底漫步者"]
 views: 2573
 download: "http://down.jingjiaoba.com/file/20532056-461573806"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461573806" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.55 MB
 
 【内容简介】：
 

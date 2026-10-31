@@ -1,17 +1,18 @@
 ---
-title: "《从我是特种兵开始打卡》（校对版全本）作者：纳兰凌云 txt全集下载"
+title: "《从我是特种兵开始打卡》（校对版全本）"
+fullTitle: "《从我是特种兵开始打卡》（校对版全本）作者：纳兰凌云 txt全集下载"
+book: "从我是特种兵开始打卡"
+author: "纳兰凌云"
 date: 2020-07-21T09:30:43.000000
 url: "/24833.html"
 slug: "24833"
-description: "【TXT大小】：6.76 MB 【内容简介】： 穿越到《我是特种兵》的世界，得到辅助引擎的支持，他逐步成为所 ···"
+description: "作者：纳兰凌云 · 6.76 MB · 穿越到《我是特种兵》的世界，得到辅助引擎的支持，他逐步成为所 ···"
 categories: ["精校军事"]
 tags: ["穿越重生", "特工小说", "系统类", "纳兰凌云"]
 views: 1854
 download: "http://down.jingjiaoba.com/file/20532056-454479841"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-454479841" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：6.76 MB
 
 【内容简介】：
 

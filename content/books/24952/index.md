@@ -1,17 +1,18 @@
 ---
-title: "《木叶之最强肉遁》（校对版全本）作者：希谷 txt全集下载"
+title: "《木叶之最强肉遁》（校对版全本）"
+fullTitle: "《木叶之最强肉遁》（校对版全本）作者：希谷 txt全集下载"
+book: "木叶之最强肉遁"
+author: "希谷"
 date: 2020-08-17T09:37:00.000000
 url: "/24952.html"
 slug: "24952"
-description: "【TXT大小】：4.56 MB 【内容简介】： 血和汗交织出男人专属的味道，拳与拳碰撞摩擦出火花般炫彩夺目的 ···"
+description: "作者：希谷 · 4.56 MB · 血和汗交织出男人专属的味道，拳与拳碰撞摩擦出火花般炫彩夺目的 ···"
 categories: ["二次元"]
 tags: ["穿越重生", "同人小说", "希谷"]
 views: 1388
 download: "http://down.jingjiaoba.com/file/20532056-457280942"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-457280942" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.56 MB
 
 【内容简介】：
 

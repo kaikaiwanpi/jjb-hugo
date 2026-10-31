@@ -1,17 +1,18 @@
 ---
-title: "《神工》（校对版全本）作者：任怨 txt全集下载"
+title: "《神工》（校对版全本）"
+fullTitle: "《神工》（校对版全本）作者：任怨 txt全集下载"
+book: "神工"
+author: "任怨"
 date: 2020-08-15T09:36:18.000000
 url: "/24956.html"
 slug: "24956"
-description: "【TXT大小】：8.44 MB 【内容简介】： 郭泰来从一个普通学生，变成制造加工领域的神级大师。 不断进取 ···"
+description: "作者：任怨 · 8.44 MB · 郭泰来从一个普通学生，变成制造加工领域的神级大师。 不断进取 ···"
 categories: ["精校都市"]
 tags: ["现代都市", "异术超能", "商道小说", "任怨"]
 views: 5588
 download: "http://down.jingjiaoba.com/file/20532056-457280798"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-457280798" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：8.44 MB
 
 【内容简介】：
 

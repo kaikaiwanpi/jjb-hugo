@@ -1,17 +1,18 @@
 ---
-title: "《万古最强部落》（校对版全本）作者：山人有妙计 txt全集下载"
+title: "《万古最强部落》（校对版全本）"
+fullTitle: "《万古最强部落》（校对版全本）作者：山人有妙计 txt全集下载"
+book: "万古最强部落"
+author: "山人有妙计"
 date: 2020-09-24T09:30:27.000000
 url: "/25116.html"
 slug: "25116"
-description: "【TXT大小】：7.96 MB 【内容简介】： 穿越到蛮荒原始世界，有个系统辅助，穿越加系统，算是官方标配。 ···"
+description: "作者：山人有妙计 · 7.96 MB · 穿越到蛮荒原始世界，有个系统辅助，穿越加系统，算是官方标配。 ···"
 categories: ["精校玄幻"]
 tags: ["穿越文", "东方玄幻", "穿越异界", "异界玄幻", "山人有妙计"]
 views: 2794
 download: "http://down.jingjiaoba.com/file/20532056-462140539"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-462140539" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：7.96 MB
 
 【内容简介】：
 

@@ -1,9 +1,12 @@
 ---
-title: "《我能增加熟练度》（校对版全本）作者：吃甜不胖 百度云TXT全集下载"
+title: "《我能增加熟练度》（校对版全本）"
+fullTitle: "《我能增加熟练度》（校对版全本）作者：吃甜不胖 百度云TXT全集下载"
+book: "我能增加熟练度"
+author: "吃甜不胖"
 date: 2020-12-12T09:30:35.000000
 url: "/25345.html"
 slug: "25345"
-description: "【TXT大小】：2.98 MB 【内容简介】： 张昊得到了一个游戏系统。 自此，他的整个人生都仿佛变成了一场 ···"
+description: "作者：吃甜不胖 · 2.98 MB · 张昊得到了一个游戏系统。 自此，他的整个人生都仿佛变成了一场 ···"
 categories: ["精校都市"]
 tags: ["现代都市", "系统类", "吃甜不胖"]
 views: 2968
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-476736176"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-476736176" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：2.98 MB
 
 【内容简介】：
 

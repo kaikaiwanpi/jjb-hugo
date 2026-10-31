@@ -1,9 +1,12 @@
 ---
-title: "《神农别闹》（校对版全本）作者：南山隐士 百度云TXT全集下载"
+title: "《神农别闹》（校对版全本）"
+fullTitle: "《神农别闹》（校对版全本）作者：南山隐士 百度云TXT全集下载"
+book: "神农别闹"
+author: "南山隐士"
 date: 2020-12-26T09:24:50.000000
 url: "/25395.html"
 slug: "25395"
-description: "【TXT大小】：3.59 MB 【内容简介】： 一个转世失败的神农弟子。 想过咸鱼般的田园生活？ 没机会了！  ···"
+description: "作者：南山隐士 · 3.59 MB · 一个转世失败的神农弟子。 想过咸鱼般的田园生活？ 没机会了！  ···"
 categories: ["精校都市"]
 tags: ["重生文", "现代都市", "乡土小说", "南山隐士"]
 views: 2029
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-478760113"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-478760113" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.59 MB
 
 【内容简介】：
 

@@ -1,9 +1,12 @@
 ---
-title: "《通幽大圣》（校对版全本）作者：封七月 txt全集下载"
+title: "《通幽大圣》（校对版全本）"
+fullTitle: "《通幽大圣》（校对版全本）作者：封七月 txt全集下载"
+book: "通幽大圣"
+author: "封七月"
 date: 2020-10-11T09:30:00.000000
 url: "/25147.html"
 slug: "25147"
-description: "【TXT大小】：3.65 MB 【内容简介】： 诡秘江湖，妖异频出，朝堂腐朽，武林世家，群雄并起。 这是一个 ···"
+description: "作者：封七月 · 3.65 MB · 诡秘江湖，妖异频出，朝堂腐朽，武林世家，群雄并起。 这是一个 ···"
 categories: ["精校武侠"]
 tags: ["穿越文", "穿越异界", "武侠幻想", "封七月"]
 views: 2590
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-466586670"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586670" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.65 MB
 
 【内容简介】：
 

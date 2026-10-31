@@ -1,9 +1,12 @@
 ---
-title: "《悠闲乡村直播间》（校对版全本）作者：名窑 txt全集下载"
+title: "《悠闲乡村直播间》（校对版全本）"
+fullTitle: "《悠闲乡村直播间》（校对版全本）作者：名窑 txt全集下载"
+book: "悠闲乡村直播间"
+author: "名窑"
 date: 2020-11-17T09:30:53.000000
 url: "/25269.html"
 slug: "25269"
-description: "【TXT大小】：11.1 MB 【内容简介】： 乡村小直播，大看台。 直播奖励多，上山打猎配良弓，下水捉鱼好 ···"
+description: "作者：名窑 · 11.1 MB · 乡村小直播，大看台。 直播奖励多，上山打猎配良弓，下水捉鱼好 ···"
 categories: ["精校都市"]
 tags: ["系统类", "主播小说", "名窑"]
 views: 1652
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-471015582"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-471015582" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：11.1 MB
 
 【内容简介】：
 

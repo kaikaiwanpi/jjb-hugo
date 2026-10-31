@@ -1,17 +1,18 @@
 ---
-title: "《咫尺之间人尽敌国》（校对版全本）作者：乘风御剑 txt全集下载"
+title: "《咫尺之间人尽敌国》（校对版全本）"
+fullTitle: "《咫尺之间人尽敌国》（校对版全本）作者：乘风御剑 txt全集下载"
+book: "咫尺之间人尽敌国"
+author: "乘风御剑"
 date: 2020-08-22T09:30:53.000000
 url: "/24992.html"
 slug: "24992"
-description: "【TXT大小】：7.62 MB 【内容简介】： “我书读的少，你别骗我，咫尺之间人尽敌国的意思分明是说我站在 ···"
+description: "作者：乘风御剑 · 7.62 MB · “我书读的少，你别骗我，咫尺之间人尽敌国的意思分明是说我站在 ···"
 categories: ["精校玄幻"]
 tags: ["东方玄幻", "武侠幻想", "乘风御剑"]
 views: 2773
 download: "http://down.jingjiaoba.com/file/20532056-458256219"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-458256219" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：7.62 MB
 
 【内容简介】：
 

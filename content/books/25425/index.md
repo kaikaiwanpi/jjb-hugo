@@ -1,9 +1,12 @@
 ---
-title: "《诸界末日在线》（校对版全本）作者：烟火成城 百度云TXT全集下载"
+title: "《诸界末日在线》（校对版全本）"
+fullTitle: "《诸界末日在线》（校对版全本）作者：烟火成城 百度云TXT全集下载"
+book: "诸界末日在线"
+author: "烟火成城"
 date: 2021-01-11T09:54:56.000000
 url: "/25425.html"
 slug: "25425"
-description: "【TXT大小】：13.5 MB 【内容简介】： 诸界的末日降临， 魔王的秩序收割着众生性命， 在绝望的黑暗之中 ···"
+description: "作者：烟火成城 · 13.5 MB · 诸界的末日降临， 魔王的秩序收割着众生性命， 在绝望的黑暗之中 ···"
 categories: ["精校科幻"]
 tags: ["末日小说", "时空穿梭", "系统类", "黑暗幻想", "烟火成城"]
 views: 6171
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-478760141"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-478760141" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：13.5 MB
 
 【内容简介】：
 

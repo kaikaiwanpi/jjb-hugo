@@ -1,9 +1,12 @@
 ---
-title: "《肉装法爷会挂机》（校对版全本）作者：黑色天 百度云TXT全集下载"
+title: "《肉装法爷会挂机》（校对版全本）"
+fullTitle: "《肉装法爷会挂机》（校对版全本）作者：黑色天 百度云TXT全集下载"
+book: "肉装法爷会挂机"
+author: "黑色天"
 date: 2021-01-12T09:24:59.000000
 url: "/25426.html"
 slug: "25426"
-description: "【TXT大小】：2.80 MB 【内容简介】： 浪起黑暗，超凡钢铁铸就的蒸汽朋克轮船，发出轰鸣征程远航。 鲸 ···"
+description: "作者：黑色天 · 2.80 MB · 浪起黑暗，超凡钢铁铸就的蒸汽朋克轮船，发出轰鸣征程远航。 鲸 ···"
 categories: ["精校奇幻"]
 tags: ["系统类", "穿越异界", "西方奇幻", "黑暗幻想", "黑色天"]
 views: 4916
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-478760111"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-478760111" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：2.80 MB
 
 【内容简介】：
 

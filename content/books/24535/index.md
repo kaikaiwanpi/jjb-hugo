@@ -1,9 +1,12 @@
 ---
-title: "《不可名状的赛博朋克》（校对版全本）作者：卖盘的狐狸 txt全集下载"
+title: "《不可名状的赛博朋克》（校对版全本）"
+fullTitle: "《不可名状的赛博朋克》（校对版全本）作者：卖盘的狐狸 txt全集下载"
+book: "不可名状的赛博朋克"
+author: "卖盘的狐狸"
 date: 2020-05-17T01:25:02.000000
 url: "/24535.html"
 slug: "24535"
-description: "【TXT大小】：3.87 MB 【内容简介】： 当机械被广泛应用…… 当异能被摆上货架…… 超人的时代已然到来？  ···"
+description: "作者：卖盘的狐狸 · 3.87 MB · 当机械被广泛应用…… 当异能被摆上货架…… 超人的时代已然到来？  ···"
 categories: ["精校奇幻"]
 tags: ["时空穿梭", "黑暗幻想", "卖盘的狐狸"]
 views: 1703
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-443875830"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-443875830" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.87 MB
 
 【内容简介】：
 

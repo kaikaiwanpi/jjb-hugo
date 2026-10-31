@@ -1,9 +1,12 @@
 ---
-title: "《我不想当老大》（校对版全本）作者：超级麦克风 百度云txt全集下载"
+title: "《我不想当老大》（校对版全本）"
+fullTitle: "《我不想当老大》（校对版全本）作者：超级麦克风 百度云txt全集下载"
+book: "我不想当老大"
+author: "超级麦克风"
 date: 2020-11-29T09:30:33.000000
 url: "/25295.html"
 slug: "25295"
-description: "【TXT大小】：12.5 MB 【内容简介】： 我不想当老大，我也想要低调！ 但没办法，实力他不允许啊！ ……  ···"
+description: "作者：超级麦克风 · 12.5 MB · 我不想当老大，我也想要低调！ 但没办法，实力他不允许啊！ ……  ···"
 categories: ["精校竞技"]
 tags: ["篮球竞技", "系统类", "超级麦克风"]
 views: 2326
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-474010410"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-474010410" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：12.5 MB
 
 【内容简介】：
 

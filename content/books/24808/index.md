@@ -1,17 +1,18 @@
 ---
-title: "《一人之力》（校对版全本）作者：风消逝 txt全集下载"
+title: "《一人之力》（校对版全本）"
+fullTitle: "《一人之力》（校对版全本）作者：风消逝 txt全集下载"
+book: "一人之力"
+author: "风消逝"
 date: 2020-07-18T09:30:03.000000
 url: "/24808.html"
 slug: "24808"
-description: "【TXT大小】：3.21 MB 【内容简介】： 异空间降临，神祇在面前显化，远古咆哮在耳边回荡不息。 叮咚！  ···"
+description: "作者：风消逝 · 3.21 MB · 异空间降临，神祇在面前显化，远古咆哮在耳边回荡不息。 叮咚！  ···"
 categories: ["精校玄幻"]
 tags: ["系统类", "异界玄幻", "风消逝"]
 views: 2592
 download: "http://down.jingjiaoba.com/file/20532056-453676746"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-453676746" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.21 MB
 
 【内容简介】：
 

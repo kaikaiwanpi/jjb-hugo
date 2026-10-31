@@ -1,9 +1,12 @@
 ---
-title: "《抢救大明朝》（校对版全本）作者：大罗罗 txt全集下载"
+title: "《抢救大明朝》（校对版全本）"
+fullTitle: "《抢救大明朝》（校对版全本）作者：大罗罗 txt全集下载"
+book: "抢救大明朝"
+author: "大罗罗"
 date: 2020-11-16T09:30:02.000000
 url: "/25271.html"
 slug: "25271"
-description: "【TXT大小】：11.4 MB 【内容简介】： 朱慈烺此贼比汉奸还奸，比鞑子还凶，比额李自成还能蛊惑人心！—— ···"
+description: "作者：大罗罗 · 11.4 MB · 朱慈烺此贼比汉奸还奸，比鞑子还凶，比额李自成还能蛊惑人心！—— ···"
 categories: ["精校历史"]
 tags: ["两宋元明", "大罗罗"]
 views: 2923
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-471015559"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-471015559" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：11.4 MB
 
 【内容简介】：
 

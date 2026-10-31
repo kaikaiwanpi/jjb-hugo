@@ -1,17 +1,18 @@
 ---
-title: "《我的蛮荒部落》（校对版全本）作者：小小妖仙 txt全集下载"
+title: "《我的蛮荒部落》（校对版全本）"
+fullTitle: "《我的蛮荒部落》（校对版全本）作者：小小妖仙 txt全集下载"
+book: "我的蛮荒部落"
+author: "小小妖仙"
 date: 2020-09-21T09:30:18.000000
 url: "/25080.html"
 slug: "25080"
-description: "【TXT大小】：6.86 MB 【内容简介】： 古尘一觉醒来，成了一个原始部落的小族长。 你说部落的祭神年年 ···"
+description: "作者：小小妖仙 · 6.86 MB · 古尘一觉醒来，成了一个原始部落的小族长。 你说部落的祭神年年 ···"
 categories: ["精校玄幻"]
 tags: ["穿越重生", "东方玄幻", "小小妖仙"]
 views: 2726
 download: "http://down.jingjiaoba.com/file/20532056-461573800"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461573800" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：6.86 MB
 
 【内容简介】：
 

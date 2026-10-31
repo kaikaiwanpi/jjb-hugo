@@ -1,17 +1,18 @@
 ---
-title: "《剧透诸天万界》（校对版全本）作者：双子座游鱼 txt全集下载"
+title: "《剧透诸天万界》（校对版全本）"
+fullTitle: "《剧透诸天万界》（校对版全本）作者：双子座游鱼 txt全集下载"
+book: "剧透诸天万界"
+author: "双子座游鱼"
 date: 2020-09-26T09:30:21.000000
 url: "/25115.html"
 slug: "25115"
-description: "【TXT大小】：2.42 MB 【内容简介】： 本书又名：《克苏鲁万界的幕后黑手》《剧透的正确打开方式》《我 ···"
+description: "作者：双子座游鱼 · 2.42 MB · 本书又名：《克苏鲁万界的幕后黑手》《剧透的正确打开方式》《我 ···"
 categories: ["精校奇幻", "二次元"]
 tags: ["时空穿梭", "同人小说", "黑暗幻想", "双子座游鱼"]
 views: 2962
 download: "http://down.jingjiaoba.com/file/20532056-462140549"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-462140549" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：2.42 MB
 
 【内容简介】：
 

@@ -1,17 +1,18 @@
 ---
-title: "《从收租开始当大佬》（校对版全本）作者：欢颜笑语 txt全集下载"
+title: "《从收租开始当大佬》（校对版全本）"
+fullTitle: "《从收租开始当大佬》（校对版全本）作者：欢颜笑语 txt全集下载"
+book: "从收租开始当大佬"
+author: "欢颜笑语"
 date: 2020-10-15T09:30:46.000000
 url: "/25143.html"
 slug: "25143"
-description: "【TXT大小】：4.99 MB 【内容简介】： 创业被坑，扫地出门后身无文分，人生低谷？ 没办法，只能当咸鱼 ···"
+description: "作者：欢颜笑语 · 4.99 MB · 创业被坑，扫地出门后身无文分，人生低谷？ 没办法，只能当咸鱼 ···"
 categories: ["精校都市"]
 tags: ["穿越重生", "现代都市", "商道小说", "欢颜笑语"]
 views: 2553
 download: "http://down.jingjiaoba.com/file/20532056-466586730"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-466586730" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.99 MB
 
 【内容简介】：
 

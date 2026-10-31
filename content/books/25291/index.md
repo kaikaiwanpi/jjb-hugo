@@ -1,9 +1,12 @@
 ---
-title: "《无垠》（校对版全本）作者：醉虎 百度云txt全集下载"
+title: "《无垠》（校对版全本）"
+fullTitle: "《无垠》（校对版全本）作者：醉虎 百度云txt全集下载"
+book: "无垠"
+author: "醉虎"
 date: 2020-11-23T09:30:03.000000
 url: "/25291.html"
 slug: "25291"
-description: "【TXT大小】：5.51 MB 【内容简介】： 地球的末日危机到来，黑暗集团再次崛起，且看穿越回少年时代的坚 ···"
+description: "作者：醉虎 · 5.51 MB · 地球的末日危机到来，黑暗集团再次崛起，且看穿越回少年时代的坚 ···"
 categories: ["精校仙侠"]
 tags: ["末日小说", "幻想修仙", "修真文明", "醉虎"]
 views: 3563
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-474010473"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-474010473" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：5.51 MB
 
 【内容简介】：
 

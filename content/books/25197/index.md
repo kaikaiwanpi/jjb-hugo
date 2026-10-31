@@ -1,17 +1,18 @@
 ---
-title: "《玩家请自重》（校对版全本）作者：余云飞 txt全集下载"
+title: "《玩家请自重》（校对版全本）"
+fullTitle: "《玩家请自重》（校对版全本）作者：余云飞 txt全集下载"
+book: "玩家请自重"
+author: "余云飞"
 date: 2020-10-27T09:30:24.000000
 url: "/25197.html"
 slug: "25197"
-description: "【TXT大小】：3.18 MB 【内容简介】： 玩家——传说中的第四天灾。 没有人可以预料到，当一个被迫身负魔 ···"
+description: "作者：余云飞 · 3.18 MB · 玩家——传说中的第四天灾。 没有人可以预料到，当一个被迫身负魔 ···"
 categories: ["精校奇幻"]
 tags: ["系统类", "余云飞", "游戏异界"]
 views: 2835
 download: "http://down.jingjiaoba.com/file/20532056-467978857"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-467978857" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.18 MB
 
 【内容简介】：
 

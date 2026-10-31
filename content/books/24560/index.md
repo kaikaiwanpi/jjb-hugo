@@ -1,9 +1,12 @@
 ---
-title: "《有妖气客栈》（校对版全本）作者：程砚秋 txt全集下载"
+title: "《有妖气客栈》（校对版全本）"
+fullTitle: "《有妖气客栈》（校对版全本）作者：程砚秋 txt全集下载"
+book: "有妖气客栈"
+author: "程砚秋"
 date: 2020-05-19T00:10:38.000000
 url: "/24560.html"
 slug: "24560"
-description: "【TXT大小】：6.98 MB 【内容简介】： 一个有妖气的系统， 一位有妖气的掌柜， 一家有妖气的客栈。 垒 ···"
+description: "作者：程砚秋 · 6.98 MB · 一个有妖气的系统， 一位有妖气的掌柜， 一家有妖气的客栈。 垒 ···"
 categories: ["精校仙侠"]
 tags: ["幻想修仙", "修真文明", "程砚秋"]
 views: 1980
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-445144858"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-445144858" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：6.98 MB
 
 【内容简介】：
 

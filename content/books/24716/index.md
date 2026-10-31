@@ -1,17 +1,18 @@
 ---
-title: "《随身一个迷雾世界》（校对版全本）作者：螃蟹慢爬 txt全集下载"
+title: "《随身一个迷雾世界》（校对版全本）"
+fullTitle: "《随身一个迷雾世界》（校对版全本）作者：螃蟹慢爬 txt全集下载"
+book: "随身一个迷雾世界"
+author: "螃蟹慢爬"
 date: 2020-07-02T11:33:41.000000
 url: "/24716.html"
 slug: "24716"
-description: "【TXT大小】：3.43 MB 【内容简介】： 楚良穿越了，发现自己居然随身带了一个恐怖世界。 这个恐怖世界 ···"
+description: "作者：螃蟹慢爬 · 3.43 MB · 楚良穿越了，发现自己居然随身带了一个恐怖世界。 这个恐怖世界 ···"
 categories: ["精校玄幻"]
 tags: ["穿越异界", "异界玄幻", "随身空间", "螃蟹慢爬"]
 views: 2198
 download: "http://down.jingjiaoba.com/file/20532056-450895181"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450895181" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.43 MB
 
 【内容简介】：
 

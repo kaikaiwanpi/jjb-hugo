@@ -1,17 +1,18 @@
 ---
-title: "《游戏之狩魔猎人》（校对版全本）作者：阡之陌一 txt全集下载"
+title: "《游戏之狩魔猎人》（校对版全本）"
+fullTitle: "《游戏之狩魔猎人》（校对版全本）作者：阡之陌一 txt全集下载"
+book: "游戏之狩魔猎人"
+author: "阡之陌一"
 date: 2020-08-21T09:30:49.000000
 url: "/24990.html"
 slug: "24990"
-description: "【TXT大小】：7.92 MB 【内容简介】： 我不渴求富有和名望，地位与权利 我想要一匹漆黑如夜快如疾风的 ···"
+description: "作者：阡之陌一 · 7.92 MB · 我不渴求富有和名望，地位与权利 我想要一匹漆黑如夜快如疾风的 ···"
 categories: ["精校游戏"]
 tags: ["网游小说", "虚拟网游", "阡之陌一"]
 views: 2594
 download: "http://down.jingjiaoba.com/file/20532056-458256221"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-458256221" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：7.92 MB
 
 【内容简介】：
 

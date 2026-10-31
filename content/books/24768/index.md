@@ -1,17 +1,18 @@
 ---
-title: "《网游之白骨大圣》（校对版全本）作者：逆袭的马里奥 txt全集下载"
+title: "《网游之白骨大圣》（校对版全本）"
+fullTitle: "《网游之白骨大圣》（校对版全本）作者：逆袭的马里奥 txt全集下载"
+book: "网游之白骨大圣"
+author: "逆袭的马里奥"
 date: 2020-07-15T09:30:59.000000
 url: "/24768.html"
 slug: "24768"
-description: "【TXT大小】：3.92 MB 【内容简介】： 人类进入星海，银河时代，神话和魔幻纷现，虚拟世界和现实世界交 ···"
+description: "作者：逆袭的马里奥 · 3.92 MB · 人类进入星海，银河时代，神话和魔幻纷现，虚拟世界和现实世界交 ···"
 categories: ["精校游戏"]
 tags: ["网游小说", "虚拟网游", "逆袭的马里奥"]
 views: 2094
 download: "http://down.jingjiaoba.com/file/20532056-452715464"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-452715464" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.92 MB
 
 【内容简介】：
 

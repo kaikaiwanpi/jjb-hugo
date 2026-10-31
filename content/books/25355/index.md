@@ -1,9 +1,12 @@
 ---
-title: "《写写小说就无敌了》（校对版全本）作者：李古丁 百度云TXT全集下载"
+title: "《写写小说就无敌了》（校对版全本）"
+fullTitle: "《写写小说就无敌了》（校对版全本）作者：李古丁 百度云TXT全集下载"
+book: "写写小说就无敌了"
+author: "李古丁"
 date: 2020-12-09T09:30:18.000000
 url: "/25355.html"
 slug: "25355"
-description: "【TXT大小】：3.20 MB 【内容简介】： 十年笔耕无人问，一朝上架订阅零！ 扑街十年的网文写手楚天行， ···"
+description: "作者：李古丁 · 3.20 MB · 十年笔耕无人问，一朝上架订阅零！ 扑街十年的网文写手楚天行， ···"
 categories: ["精校玄幻"]
 tags: ["穿越重生", "系统类", "玄幻修真", "李古丁"]
 views: 1897
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-476736197"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-476736197" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.20 MB
 
 【内容简介】：
 

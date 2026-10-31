@@ -1,17 +1,18 @@
 ---
-title: "《医品宗师》（校对版全本）作者：步行天下 txt全集下载"
+title: "《医品宗师》（校对版全本）"
+fullTitle: "《医品宗师》（校对版全本）作者：步行天下 txt全集下载"
+book: "医品宗师"
+author: "步行天下"
 date: 2020-05-25T17:26:42.000000
 url: "/24580.html"
 slug: "24580"
-description: "【TXT大小】：18.3 MB 【内容简介】： 他是武林中最年轻的武学宗师，拥有神秘的绝对手感，可他现在却是 ···"
+description: "作者：步行天下 · 18.3 MB · 他是武林中最年轻的武学宗师，拥有神秘的绝对手感，可他现在却是 ···"
 categories: ["精校都市"]
 tags: ["现代都市", "异术超能", "医师小说", "步行天下"]
 views: 4062
 download: "http://down.jingjiaoba.com/file/20532056-446014706"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-446014706" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：18.3 MB
 
 【内容简介】：
 

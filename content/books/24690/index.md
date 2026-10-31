@@ -1,9 +1,12 @@
 ---
-title: "《九星毒奶》（校对版全本）作者：育 txt全集下载"
+title: "《九星毒奶》（校对版全本）"
+fullTitle: "《九星毒奶》（校对版全本）作者：育 txt全集下载"
+book: "九星毒奶"
+author: "育"
 date: 2020-06-21T11:34:05.000000
 url: "/24690.html"
 slug: "24690"
-description: "【TXT大小】：8.92 MB 【内容简介】： 这是一个充满了星力的平行世界。 星图、星技、星宠、觉醒者大行 ···"
+description: "作者：育 · 8.92 MB · 这是一个充满了星力的平行世界。 星图、星技、星宠、觉醒者大行 ···"
 categories: ["精校科幻"]
 tags: ["穿越重生", "异术超能", "育"]
 views: 15075
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-450418711"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-450418711" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：8.92 MB
 
 【内容简介】：
 

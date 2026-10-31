@@ -1,17 +1,18 @@
 ---
-title: "《超级锋暴》（校对版全本）作者：陈爱庭 txt全集下载"
+title: "《超级锋暴》（校对版全本）"
+fullTitle: "《超级锋暴》（校对版全本）作者：陈爱庭 txt全集下载"
+book: "超级锋暴"
+author: "陈爱庭"
 date: 2020-07-07T09:30:29.000000
 url: "/24741.html"
 slug: "24741"
-description: "【TXT大小】：10.8 MB 【内容简介】： 2003年夏季，巴西新星卡卡低调地踏进米兰城；葡萄牙小将克里斯蒂 ···"
+description: "作者：陈爱庭 · 10.8 MB · 2003年夏季，巴西新星卡卡低调地踏进米兰城；葡萄牙小将克里斯蒂 ···"
 categories: ["精校竞技"]
 tags: ["足球小说", "陈爱庭"]
 views: 1539
 download: "http://down.jingjiaoba.com/file/20532056-451736278"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-451736278" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：10.8 MB
 
 【内容简介】：
 

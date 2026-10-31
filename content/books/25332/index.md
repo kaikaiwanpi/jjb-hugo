@@ -1,9 +1,12 @@
 ---
-title: "《魔改大唐》（校对版全本）作者：麻烦 百度云TXT全集下载"
+title: "《魔改大唐》（校对版全本）"
+fullTitle: "《魔改大唐》（校对版全本）作者：麻烦 百度云TXT全集下载"
+book: "魔改大唐"
+author: "麻烦"
 date: 2020-12-24T09:30:40.000000
 url: "/25332.html"
 slug: "25332"
-description: "【TXT大小】：4.10 MB 【内容简介】： 层出不穷的穿越者前辈们，孜孜不倦的用现代科技改造着无数古代时 ···"
+description: "作者：麻烦 · 4.10 MB · 层出不穷的穿越者前辈们，孜孜不倦的用现代科技改造着无数古代时 ···"
 categories: ["精校历史"]
 tags: ["穿越文", "系统类", "麻烦", "两晋隋唐", "东方奇幻"]
 views: 4413
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-476736224"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-476736224" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：4.10 MB
 
 【内容简介】：
 

@@ -1,9 +1,12 @@
 ---
-title: "《再活一万次》（校对版全本）作者：兰帝魅晨 百度云TXT全集下载"
+title: "《再活一万次》（校对版全本）"
+fullTitle: "《再活一万次》（校对版全本）作者：兰帝魅晨 百度云TXT全集下载"
+book: "再活一万次"
+author: "兰帝魅晨"
 date: 2021-01-10T09:54:52.000000
 url: "/25424.html"
 slug: "25424"
-description: "【TXT大小】：2.71 MB 【内容简介】： 来自宇宙另一种智慧生命的黑科技，意外被陈问今所得。 不知就里 ···"
+description: "作者：兰帝魅晨 · 2.71 MB · 来自宇宙另一种智慧生命的黑科技，意外被陈问今所得。 不知就里 ···"
 categories: ["精校都市"]
 tags: ["异术超能", "都市奇幻", "兰帝魅晨"]
 views: 4928
@@ -11,8 +14,6 @@ download: "http://down.jingjiaoba.com/file/20532056-478760135"
 image: cover.jpg
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-478760135" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：2.71 MB
 
 【内容简介】：
 

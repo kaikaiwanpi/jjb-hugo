@@ -1,17 +1,18 @@
 ---
-title: "《贞观贤王》（校对版全本）作者：大眼小金鱼 txt全集下载"
+title: "《贞观贤王》（校对版全本）"
+fullTitle: "《贞观贤王》（校对版全本）作者：大眼小金鱼 txt全集下载"
+book: "贞观贤王"
+author: "大眼小金鱼"
 date: 2020-07-10T09:30:41.000000
 url: "/24744.html"
 slug: "24744"
-description: "【TXT大小】：6.24 MB 【内容简介】： 贞观十四年，大唐盛世已开启。 唐高宗还是老实的小王爷。 女皇已 ···"
+description: "作者：大眼小金鱼 · 6.24 MB · 贞观十四年，大唐盛世已开启。 唐高宗还是老实的小王爷。 女皇已 ···"
 categories: ["精校历史"]
 tags: ["穿越文", "穿越重生", "两晋隋唐"]
 views: 2394
 download: "http://down.jingjiaoba.com/file/20532056-451736271"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-451736271" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：6.24 MB
 
 【内容简介】：
 

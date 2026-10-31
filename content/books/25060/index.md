@@ -1,17 +1,18 @@
 ---
-title: "《黎明医生(瘟疫医生)》（校对版全本）作者：机器人瓦力 txt全集下载"
+title: "《黎明医生(瘟疫医生)》（校对版全本）"
+fullTitle: "《黎明医生(瘟疫医生)》（校对版全本）作者：机器人瓦力 txt全集下载"
+book: "黎明医生(瘟疫医生)"
+author: "机器人瓦力"
 date: 2020-09-15T09:30:49.000000
 url: "/25060.html"
 slug: "25060"
-description: "【TXT大小】：3.71 MB 【内容简介】： 昔日的闹市街头，现在一片畸形的死寂。 嘶哑狂乱的怪异低语缠绕 ···"
+description: "作者：机器人瓦力 · 3.71 MB · 昔日的闹市街头，现在一片畸形的死寂。 嘶哑狂乱的怪异低语缠绕 ···"
 categories: ["精校玄幻"]
 tags: ["穿越重生", "异界玄幻", "黑暗幻想", "机器人瓦力"]
 views: 2930
 download: "http://down.jingjiaoba.com/file/20532056-461018974"
 ---
 <div class="dl-cta"><a class="dl-btn" href="http://down.jingjiaoba.com/file/20532056-461018974" target="_blank" rel="nofollow noopener">去下载 TXT</a></div>
-
-【TXT大小】：3.71 MB
 
 【内容简介】：
 
